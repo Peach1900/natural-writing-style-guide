@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.5
+
+- Expanded the LinkedIn Pattern Library with practical entries for post openings, credibility, engagement bait, career advice, and sales-post habits.
+
+---
+
 ## 1.4
 
 - Expanded the YouTube Pattern Library with practical entries for hooks, pacing, transitions, retention language, and tutorial narration.
@@ -858,6 +864,233 @@ Template to avoid:
 
 Prefer:
 > Event → observation → what changed → practical takeaway.
+
+---
+
+## LI-004 — Performative vulnerability
+
+Avoid:
+> I hit rock bottom in my career, and it taught me one powerful truth.
+
+Prefer:
+> I mishandled a client handoff last year, and the fix changed how I document decisions now.
+
+Rule:
+If a mistake matters, describe the mistake and what changed. Do not inflate it into a brand narrative.
+
+---
+
+## LI-005 — Fake humility
+
+Avoid:
+> Humbled to announce that I’ve been recognized as a top voice in innovation.
+
+Prefer:
+> I was included in this year’s list of operations leaders. I’m glad the work is useful.
+
+Rule:
+Say the thing directly. “Humbled” often signals performance more than humility.
+
+---
+
+## LI-006 — Vague career lesson
+
+Avoid:
+> Success is about showing up every day and believing in yourself.
+
+Prefer:
+> The biggest career improvement I made was sending decisions in writing after every meeting.
+
+Rule:
+If the post contains advice, make it usable.
+
+---
+
+## LI-007 — Engagement bait
+
+Avoid:
+> Agree?
+
+Prefer:
+> I’m curious how other teams handle approval handoffs when legal and finance both need sign-off.
+
+Rule:
+Invite discussion with a real question, not a reflex prompt.
+
+---
+
+## LI-008 — Generic inspiration
+
+Avoid:
+> Leaders don’t create followers. They create more leaders.
+
+Prefer:
+> The best managers I’ve worked with explained the decision, not just the task.
+
+Rule:
+Replace poster language with observed behavior.
+
+---
+
+## LI-009 — Fake contrarianism
+
+Avoid:
+> Hard truth: Work-life balance is a myth.
+
+Prefer:
+> Some roles have busy seasons. The problem starts when emergency pace becomes the default.
+
+Rule:
+Do not manufacture edge by making blunt claims flatter than reality.
+
+---
+
+## LI-010 — Resume disguised as insight
+
+Avoid:
+> Over 15 years, I’ve led transformational initiatives across multiple sectors.
+
+Prefer:
+> After 15 years in operations, I still think most reporting problems start upstream in messy inputs.
+
+Rule:
+Experience matters more when it leads to an observation.
+
+---
+
+## LI-011 — Long setup, no point
+
+Avoid:
+> Yesterday I was walking into a meeting, coffee in hand, thinking about the state of leadership today...
+
+Prefer:
+> A client asked who owned the final approval, and nobody could answer. That told me more than the dashboard did.
+
+Rule:
+Start where the useful part starts.
+
+---
+
+## LI-012 — Abstract leadership post
+
+Avoid:
+> Great leaders create trust, alignment, and empowerment.
+
+Prefer:
+> Good managers make ownership clear, document decisions, and explain tradeoffs early.
+
+Rule:
+Leadership writing gets stronger when it names behavior.
+
+---
+
+## LI-013 — Break-line theater
+
+Avoid:
+> I learned this the hard way.
+>
+> Silence.
+>
+> Costs.
+>
+> Teams.
+
+Prefer:
+> I learned this the hard way: when no one owns the final review, the work stalls and the team starts guessing.
+
+Rule:
+Line breaks should help rhythm or readability, not imitate drama.
+
+---
+
+## LI-014 — Personal brand language
+
+Avoid:
+> I’m passionate about helping purpose-driven leaders unlock their full potential.
+
+Prefer:
+> I help teams write clearer proposals and make approval decisions faster.
+
+Rule:
+State the work before the identity story.
+
+---
+
+## LI-015 — Metrics without context
+
+Avoid:
+> We increased performance by 300%.
+
+Prefer:
+> We increased demo bookings from 4 per month to 16 by shortening the form from eight fields to three.
+
+Rule:
+LinkedIn metrics need the baseline and the change, or they sound like decoration.
+
+---
+
+## LI-016 — Sales post disguise
+
+Avoid:
+> Just a reflection from today: so many teams are still struggling with outdated systems. That’s why we built our solution.
+
+Prefer:
+> I keep seeing the same ops problem: teams approve work in email, then rebuild the record later. That is usually where audit pain starts.
+
+Rule:
+If the real goal is sales, lead with a real observation first.
+
+---
+
+## LI-017 — Comment bait list
+
+Avoid:
+> Drop a “guide” in the comments and I’ll send it to you.
+
+Prefer:
+> I put the checklist in the post. If you use a different review flow, I’d like to hear how it works.
+
+Rule:
+Do not force interaction mechanics when the information can simply be shared.
+
+---
+
+## LI-018 — Motivational close
+
+Avoid:
+> Keep pushing. Your breakthrough is coming.
+
+Prefer:
+> Most process fixes are less dramatic than we think. The useful ones usually start with clearer ownership.
+
+Rule:
+Close with an observation or takeaway, not a generic rallying line.
+
+---
+
+## LI-019 — Fake universality
+
+Avoid:
+> Everyone is struggling with this right now.
+
+Prefer:
+> I’ve heard this from three operations teams in the past month, and they all described the same bottleneck.
+
+Rule:
+Use the actual scope of what you know.
+
+---
+
+## LI-020 — Clean post ending
+
+Avoid:
+> Thoughts?
+
+Prefer:
+> The pattern I keep seeing is that unclear ownership creates more delay than bad software. That’s the part I’d fix first.
+
+Rule:
+A post can end with a conclusion. It does not need to beg for response.
 
 ---
 
