@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.12
+
+- Tightened the AI Writing Signals section with more specific tells for synthetic polish, fake nuance, and repeated explanatory patterns.
+
+---
+
 ## 1.11
 
 - Sharpened the AI Writing Signals section with clearer entries for verbosity, repetitive explanation, fake balance, and over-smoothed prose.
@@ -1185,6 +1191,71 @@ Show the failure mode, cost, or operational consequence.
 
 ---
 
+### AI-016 — Fake nuance
+
+Example:
+> The answer is not entirely straightforward, as there are a number of factors to consider.
+
+Problem:
+AI often performs nuance before it has said anything specific enough to deserve nuance.
+
+Editing rule:
+Name the actual factor or tradeoff instead of announcing complexity.
+
+---
+
+### AI-017 — Generic scene-setting
+
+Example:
+> In a world where businesses are constantly evolving, organizations must adapt to stay competitive.
+
+Problem:
+AI often begins with broad scene-setting that could introduce almost any article.
+
+Editing rule:
+Start where your topic becomes specific.
+
+---
+
+### AI-018 — Neat emotional distance
+
+Example:
+> This can understandably create frustration for teams navigating these challenges.
+
+Problem:
+AI often describes emotion from a safe distance instead of sounding like someone who has actually seen the problem.
+
+Editing rule:
+Describe the event, friction, or consequence directly.
+
+---
+
+### AI-019 — Thesis before observation
+
+Example:
+> Effective communication is essential to organizational success.
+
+Problem:
+AI often opens with a polished thesis instead of the concrete observation that would make the thesis worth reading.
+
+Editing rule:
+Lead with the observed problem, example, or tension first.
+
+---
+
+### AI-020 — Too-even paragraph pacing
+
+Example:
+> Four paragraphs, each about the same length, each making one tidy point, each ending in a neat mini-summary.
+
+Problem:
+AI often produces rhythm that is structurally clean but unnaturally uniform.
+
+Editing rule:
+Vary paragraph length when the content calls for it. Not every idea needs the same amount of room.
+
+---
+
 ## Medium Signal
 
 Things AI often does, but people do too:
@@ -1198,6 +1269,10 @@ Things AI often does, but people do too:
 - Inflated headings
 - Definitions where the reader wanted advice
 - Explaining obvious concepts at length
+- Every paragraph sounding equally important
+- Too many “this highlights” or “this underscores” sentences
+- Every objection framed as a balanced tradeoff
+- Excessively tidy structure in short drafts
 
 ---
 
