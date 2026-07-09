@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.4
+
+- Expanded the YouTube Pattern Library with practical entries for hooks, pacing, transitions, retention language, and tutorial narration.
+
+---
+
 ## 1.3
 
 - Expanded the Corporate AI Speak Dictionary with additional plain-language replacements for common vague business phrases.
@@ -894,6 +900,227 @@ Prefer:
 
 Rule:
 If the phrase can be deleted, delete it.
+
+---
+
+## YT-004 — Fake high stakes
+
+Avoid:
+> This one mistake is ruining your entire workflow.
+
+Prefer:
+> This mistake added about 20 minutes every time I tried to publish.
+
+Rule:
+Make the stakes proportional to the problem.
+
+---
+
+## YT-005 — Generic hook
+
+Avoid:
+> If you want to be more productive, this video is for you.
+
+Prefer:
+> I kept losing the first hour of my day, so I tracked exactly where it was going.
+
+Rule:
+Hooks are stronger when they start from a specific problem.
+
+---
+
+## YT-006 — Overpromised transformation
+
+Avoid:
+> This method will completely change your life.
+
+Prefer:
+> This method helped me stop missing deadlines on repeat tasks.
+
+Rule:
+Describe the scale of the change honestly.
+
+---
+
+## YT-007 — List intro inflation
+
+Avoid:
+> Here are seven game-changing tips you need to know.
+
+Prefer:
+> Here are the seven changes I tested, and which ones were actually worth keeping.
+
+Rule:
+Do not oversell a list. Frame the test, comparison, or result.
+
+---
+
+## YT-008 — Empty credibility claim
+
+Avoid:
+> As an expert, I’ve learned a lot about this topic.
+
+Prefer:
+> I’ve edited 40 client onboarding flows, and the same problem shows up in most of them.
+
+Rule:
+If experience matters, quantify it or show where it came from.
+
+---
+
+## YT-009 — Placeholder suspense
+
+Avoid:
+> What happened next surprised me.
+
+Prefer:
+> The second setup looked faster, but it created twice as much cleanup later.
+
+Rule:
+Replace generic suspense with a preview of the actual turn.
+
+---
+
+## YT-010 — AI-style recap
+
+Avoid:
+> So, in summary, the key takeaway here is that consistency is important.
+
+Prefer:
+> The main thing I’d keep is the checklist. The rest mattered less than I expected.
+
+Rule:
+Recaps should sound like a person concluding, not a model summarizing.
+
+---
+
+## YT-011 — Tutorial throat-clearing
+
+Avoid:
+> Before we begin, make sure you have everything set up and ready to go.
+
+Prefer:
+> Open the settings page first. That’s where the problem starts.
+
+Rule:
+Start the tutorial where the action starts.
+
+---
+
+## YT-012 — Forced relatability
+
+Avoid:
+> We’ve all been there.
+
+Prefer:
+> If you’ve ever reopened the same tab three times because you forgot the next step, this will look familiar.
+
+Rule:
+If you want relatability, earn it with a recognizable scene.
+
+---
+
+## YT-013 — Clickbait contrast
+
+Avoid:
+> Everyone says to do this. They’re wrong.
+
+Prefer:
+> Most advice says to batch everything. That helped me with email, but it made review work slower.
+
+Rule:
+Nuance is usually more convincing than a theatrical reversal.
+
+---
+
+## YT-014 — Sponsor segue whiplash
+
+Avoid:
+> But before we get into that, let me tell you about today’s sponsor.
+
+Prefer:
+> Quick sponsor break, then I’ll show the part that failed and how I fixed it.
+
+Rule:
+If the script must pivot, make the return point clear.
+
+---
+
+## YT-015 — Mechanical transition
+
+Avoid:
+> Moving on to the next point.
+
+Prefer:
+> The first fix helped, but it didn’t solve the bigger issue.
+
+Rule:
+Transitions should carry logic forward, not announce structure.
+
+---
+
+## YT-016 — Vague tutorial language
+
+Avoid:
+> Then you just adjust a few things here.
+
+Prefer:
+> Change the default from manual review to auto-approve for orders under $100.
+
+Rule:
+In tutorials, “a few things” is where confusion starts.
+
+---
+
+## YT-017 — Filler enthusiasm
+
+Avoid:
+> This is super, super powerful and really amazing.
+
+Prefer:
+> This saved enough time that I stopped doing the task by hand.
+
+Rule:
+Strong reaction is fine. Empty hype is not.
+
+---
+
+## YT-018 — Artificial pacing
+
+Avoid:
+> First things first. Without further ado. With that being said.
+
+Prefer:
+> Here’s what changed when I tried it for a week.
+
+Rule:
+Cut pacing phrases that do not add information.
+
+---
+
+## YT-019 — Open loop overload
+
+Avoid:
+> There are three huge mistakes here, and one of them is something nobody talks about, but we’ll get to that in a minute.
+
+Prefer:
+> There are three mistakes here. The third one is subtle, but it caused the most rework.
+
+Rule:
+One clear thread creates more trust than constant teasing.
+
+---
+
+## YT-020 — Spoken conclusion
+
+Avoid:
+> If you got value from this video, the key lesson is to stay intentional and keep improving.
+
+Prefer:
+> If I did this again, I’d keep the checklist, skip the timer, and review the process once a week instead of every day.
+
+Rule:
+End with what changed, what worked, or what you would actually do next.
 
 ---
 
