@@ -952,6 +952,19 @@ Outside diagrams, use the name of the team or step.
 
 ---
 
+## C-061 — End of the day
+
+Avoid:
+> At the end of the day, we need to do what is best for the business.
+
+Prefer:
+> We need to choose the option that reduces delays without adding review risk.
+
+Rule:
+This phrase usually adds vagueness and false gravity. Say the conclusion directly.
+
+---
+
 # AI Writing Signals
 
 These are not proof of AI. They are patterns worth reviewing.
