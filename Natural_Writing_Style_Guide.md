@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.3
+
+- Expanded the Corporate AI Speak Dictionary with additional plain-language replacements for common vague business phrases.
+
+---
+
 ## 1.2
 
 - Expanded the Sales Writing section with practical entries for prospecting, follow-up, objections, closing language, pricing, trust, and cold outreach.
@@ -287,6 +293,363 @@ Prefer:
 
 Rule:
 Describe the redesign.
+
+---
+
+## C-014 — Bandwidth
+
+Avoid:
+> I do not have the bandwidth for that this week.
+
+Prefer:
+> I cannot take that on this week.
+
+Exception:
+Network bandwidth, memory bandwidth.
+
+Rule:
+Use “time,” “capacity,” or a direct no.
+
+---
+
+## C-015 — Visibility
+
+Avoid:
+> We need more visibility into the process.
+
+Prefer:
+> We need to see who approved it, when it changed, and where it is stuck.
+
+Rule:
+Say what needs to be seen.
+
+---
+
+## C-016 — Accountability
+
+Avoid:
+> This creates accountability across teams.
+
+Prefer:
+> Each request has one owner and a due date.
+
+Rule:
+Name the mechanism, not the virtue.
+
+---
+
+## C-017 — Alignment
+
+Avoid:
+> We need alignment before moving forward.
+
+Prefer:
+> We need product, legal, and finance to agree on the rollout date.
+
+Rule:
+Replace “alignment” with the actual decision or agreement.
+
+---
+
+## C-018 — Strategic
+
+Avoid:
+> This is a strategic initiative.
+
+Prefer:
+> This affects pricing, staffing, and the Q4 launch schedule.
+
+Rule:
+If something is strategic, explain what makes it consequential.
+
+---
+
+## C-019 — Best-in-class
+
+Avoid:
+> A best-in-class customer experience.
+
+Prefer:
+> Customers can place an order in under two minutes without calling support.
+
+Rule:
+Ranking language is weak without evidence.
+
+---
+
+## C-020 — Cutting-edge
+
+Avoid:
+> A cutting-edge platform for modern teams.
+
+Prefer:
+> A platform that flags duplicate invoices before they reach finance.
+
+Rule:
+Describe the capability, not the aura.
+
+---
+
+## C-021 — World-class
+
+Avoid:
+> World-class service.
+
+Prefer:
+> Support answers billing questions the same day during business hours.
+
+Rule:
+Replace status words with service standards.
+
+---
+
+## C-022 — Holistic
+
+Avoid:
+> We take a holistic approach.
+
+Prefer:
+> We review pricing, onboarding, support load, and renewal risk together.
+
+Rule:
+List the parts instead of calling the view holistic.
+
+---
+
+## C-023 — Frictionless
+
+Avoid:
+> A frictionless user experience.
+
+Prefer:
+> New users can start without training or an implementation call.
+
+Rule:
+Name the friction that was removed.
+
+---
+
+## C-024 — Scalable
+
+Avoid:
+> A scalable process.
+
+Prefer:
+> The same reviewer can handle 200 requests a week without extra admin work.
+
+Rule:
+Say what volume can grow without breaking.
+
+---
+
+## C-025 — Agile
+
+Avoid:
+> We need a more agile response.
+
+Prefer:
+> We need legal to review standard changes within two days instead of two weeks.
+
+Exception:
+Agile software development when referring to the actual methodology.
+
+Rule:
+Use “faster,” “shorter,” or the specific change in response time unless you mean the formal method.
+
+---
+
+## C-026 — Dynamic
+
+Avoid:
+> A dynamic solution for a changing market.
+
+Prefer:
+> Pricing rules update automatically when supplier costs change.
+
+Rule:
+If something is dynamic, show what changes and how.
+
+---
+
+## C-027 — Ecosystem
+
+Avoid:
+> Our partner ecosystem supports growth.
+
+Prefer:
+> Our implementation partners handle data migration, training, and regional support.
+
+Rule:
+Name the participants and what they do.
+
+---
+
+## C-028 — Synergy
+
+Avoid:
+> This creates synergy across departments.
+
+Prefer:
+> Sales enters the data once, and finance uses the same record for invoicing.
+
+Rule:
+Explain the practical coordination instead of naming synergy.
+
+---
+
+## C-029 — Actionable insights
+
+Avoid:
+> The dashboard provides actionable insights.
+
+Prefer:
+> The dashboard shows which locations miss SLA most often and which queue causes the delay.
+
+Rule:
+Insights are only actionable when the action is obvious.
+
+---
+
+## C-030 — Deep dive
+
+Avoid:
+> Let’s do a deep dive on the issue.
+
+Prefer:
+> Let’s review the last ten failed approvals and see where the process broke.
+
+Rule:
+Say what the closer look will involve.
+
+---
+
+## C-031 — Thought leader
+
+Avoid:
+> She is a thought leader in the space.
+
+Prefer:
+> She writes the procurement newsletter and speaks at two industry events each year.
+
+Rule:
+Replace status labels with visible work.
+
+---
+
+## C-032 — Space
+
+Avoid:
+> We are a leader in the compliance space.
+
+Prefer:
+> We build compliance software for hospital procurement teams.
+
+Rule:
+Name the industry or category instead of calling it a space.
+
+---
+
+## C-033 — Solutioning
+
+Avoid:
+> Our team is solutioning around that challenge.
+
+Prefer:
+> Our team is drafting two options for handling that problem.
+
+Rule:
+Turn invented business verbs back into normal language.
+
+---
+
+## C-034 — Resourcing
+
+Avoid:
+> We are still resourcing the project.
+
+Prefer:
+> We are still assigning the people and budget for the project.
+
+Rule:
+Name what is actually being assigned.
+
+---
+
+## C-035 — Operationalize
+
+Avoid:
+> We need to operationalize the strategy.
+
+Prefer:
+> We need owners, deadlines, and a weekly review for the strategy.
+
+Rule:
+Explain how the idea becomes routine work.
+
+---
+
+## C-036 — North star
+
+Avoid:
+> This metric is our north star.
+
+Prefer:
+> This is the main metric we use to decide whether onboarding is improving.
+
+Rule:
+Translate metaphor back into function.
+
+---
+
+## C-037 — Win-win
+
+Avoid:
+> This creates a win-win for everyone involved.
+
+Prefer:
+> Customers wait less, and support handles fewer duplicate requests.
+
+Rule:
+State what each side gains.
+
+---
+
+## C-038 — Move the needle
+
+Avoid:
+> This change will really move the needle.
+
+Prefer:
+> This change cuts rework enough to matter on monthly close.
+
+Rule:
+Say which metric changes and why it matters.
+
+---
+
+## C-039 — Low-hanging fruit
+
+Avoid:
+> We should start with the low-hanging fruit.
+
+Prefer:
+> We should start with the two fixes that remove the most manual work.
+
+Rule:
+Choose direct language over tired metaphors.
+
+---
+
+## C-040 — Circle back
+
+Avoid:
+> I’ll circle back next week.
+
+Prefer:
+> I’ll follow up next Thursday.
+
+Rule:
+Use the concrete action and timing.
 
 ---
 
