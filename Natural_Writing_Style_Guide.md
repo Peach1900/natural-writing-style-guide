@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.9
+
+- Expanded the Corporate AI Speak Dictionary with another batch of plain-language replacements for common management and slide-deck phrases.
+
+---
+
 ## 1.8
 
 - Expanded the Example Rewrite Library with before-and-after rewrites for sales, LinkedIn, email, blog, and multi-line corporate copy.
@@ -680,6 +686,269 @@ Prefer:
 
 Rule:
 Use the concrete action and timing.
+
+---
+
+## C-041 — Touch base
+
+Avoid:
+> Let’s touch base next week.
+
+Prefer:
+> Let’s meet next week to review the contract changes.
+
+Rule:
+Say what the conversation is for.
+
+---
+
+## C-042 — Drill down
+
+Avoid:
+> We need to drill down into the numbers.
+
+Prefer:
+> We need to review which accounts created the increase.
+
+Rule:
+Replace metaphors with the actual review task.
+
+---
+
+## C-043 — Drill up
+
+Avoid:
+> Let’s drill up and look at the broader picture.
+
+Prefer:
+> Let’s step back and compare the totals by region.
+
+Rule:
+Say what higher-level view you want.
+
+---
+
+## C-044 — At scale
+
+Avoid:
+> The process works at scale.
+
+Prefer:
+> The process still works when volume doubles.
+
+Rule:
+If something works at scale, describe the scale.
+
+---
+
+## C-045 — Drive results
+
+Avoid:
+> This initiative will drive results.
+
+Prefer:
+> This change should reduce rework and speed up approvals.
+
+Rule:
+Name the result instead of saying it will be driven.
+
+---
+
+## C-046 — Drive alignment
+
+Avoid:
+> The meeting helped drive alignment.
+
+Prefer:
+> The meeting helped Legal and Finance agree on the rollout date.
+
+Rule:
+Say who aligned on what.
+
+---
+
+## C-047 — Move forward
+
+Avoid:
+> We are ready to move forward.
+
+Prefer:
+> We are ready to sign the agreement and start implementation.
+
+Rule:
+Replace motion language with the next action.
+
+---
+
+## C-048 — Double-click
+
+Avoid:
+> Let’s double-click on that issue.
+
+Prefer:
+> Let’s spend ten minutes on that issue and look at the failed cases.
+
+Rule:
+Use plain language for closer review.
+
+---
+
+## C-049 — Ladder up
+
+Avoid:
+> This ladders up to our broader vision.
+
+Prefer:
+> This supports the broader goal of cutting onboarding delays.
+
+Rule:
+Translate metaphor into purpose.
+
+---
+
+## C-050 — Land the plane
+
+Avoid:
+> We need to land the plane on this project.
+
+Prefer:
+> We need to finish the open decisions and close the project.
+
+Rule:
+Say what completion requires.
+
+---
+
+## C-051 — Boil the ocean
+
+Avoid:
+> We do not want to boil the ocean.
+
+Prefer:
+> We do not need to redesign every workflow at once.
+
+Rule:
+Choose direct language over stock metaphors.
+
+---
+
+## C-052 — Future-proof
+
+Avoid:
+> We need a future-proof solution.
+
+Prefer:
+> We need a system that can handle new approval rules without a rebuild.
+
+Rule:
+Say what kind of change the system should absorb.
+
+---
+
+## C-053 — Right-size
+
+Avoid:
+> We need to right-size the team.
+
+Prefer:
+> We need to decide whether the team needs fewer contractors or more full-time staff.
+
+Rule:
+Soften less. Explain the staffing change.
+
+---
+
+## C-054 — Center of excellence
+
+Avoid:
+> We are building a center of excellence for procurement.
+
+Prefer:
+> We are building a small central team to set procurement standards and review exceptions.
+
+Rule:
+Name the team and its job.
+
+---
+
+## C-055 — Key learnings
+
+Avoid:
+> Our key learnings from the pilot were clear.
+
+Prefer:
+> The pilot showed that teams completed setup faster when approvals had one owner.
+
+Rule:
+Use “findings,” “lessons,” or the actual conclusion.
+
+---
+
+## C-056 — Value-add
+
+Avoid:
+> This feature is a real value-add.
+
+Prefer:
+> This feature removes one manual review step.
+
+Rule:
+If it adds value, name the added value.
+
+---
+
+## C-057 — Northbound metric
+
+Avoid:
+> We need a northbound metric for this team.
+
+Prefer:
+> We need one primary metric for judging whether this team is improving.
+
+Rule:
+Plain language usually explains the idea just as well.
+
+---
+
+## C-058 — Socialize
+
+Avoid:
+> We need to socialize this plan.
+
+Prefer:
+> We need to share this plan with department leads before rollout.
+
+Rule:
+Say who needs to hear it.
+
+---
+
+## C-059 — Pressure-test
+
+Avoid:
+> Let’s pressure-test the proposal.
+
+Prefer:
+> Let’s look for the assumptions most likely to break.
+
+Rule:
+Describe how the review will work.
+
+---
+
+## C-060 — Swimlane
+
+Avoid:
+> Each swimlane needs more clarity.
+
+Prefer:
+> Each team in the process needs a clearer handoff.
+
+Exception:
+Use “swimlane” inside an actual process diagram if the audience already works with that format.
+
+Rule:
+Outside diagrams, use the name of the team or step.
 
 ---
 
