@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.6
+
+- Expanded the Email Pattern Library with practical entries for subject lines, requests, follow-ups, updates, tone, and decision clarity.
+
+---
+
 ## 1.5
 
 - Expanded the LinkedIn Pattern Library with practical entries for post openings, credibility, engagement bait, career advice, and sales-post habits.
@@ -2073,6 +2079,240 @@ Weak:
 
 Prefer:
 > Can you approve this by Thursday at 3 p.m.?
+
+---
+
+## E-003 — Subject lines
+
+Avoid:
+> Quick note
+
+Prefer:
+> Approval needed by Thursday: revised vendor contract
+
+Rule:
+The subject line should help the reader sort the message before opening it.
+
+---
+
+## E-004 — Hidden ask
+
+Avoid:
+> Sharing this for visibility.
+
+Prefer:
+> Sharing this because I need a yes or no on the revised timeline.
+
+Rule:
+If the email requires action, say so plainly.
+
+---
+
+## E-005 — Softening past clarity
+
+Avoid:
+> Just wanted to see if maybe you had a chance to review this.
+
+Prefer:
+> Have you had a chance to review this?
+
+Rule:
+Polite is good. Hesitation words usually add noise.
+
+---
+
+## E-006 — Status update
+
+Avoid:
+> Things are moving along and we are making good progress.
+
+Prefer:
+> Legal approved the draft. Finance is still reviewing the payment terms.
+
+Rule:
+Status updates should name what is done, what is not, and what matters next.
+
+---
+
+## E-007 — Decision email
+
+Avoid:
+> After discussing internally, we have aligned on a path forward.
+
+Prefer:
+> We decided to delay the rollout until September so support can finish training first.
+
+Rule:
+Decision emails should state the decision in the first sentence.
+
+---
+
+## E-008 — Meeting follow-up
+
+Avoid:
+> Thanks again for the great conversation today.
+
+Prefer:
+> Thanks for meeting today. The two decisions were to keep single-stage approval for renewals and test dual approval for new vendors.
+
+Rule:
+Use follow-up emails to capture decisions, owners, and next steps.
+
+---
+
+## E-009 — Too much context first
+
+Avoid:
+> Over the past few weeks, we’ve been reviewing several interdependent issues related to the current workflow...
+
+Prefer:
+> We need to choose one of two approval flows before Friday.
+
+Rule:
+Lead with the point. Add background after.
+
+---
+
+## E-010 — Passive scheduling
+
+Avoid:
+> Happy to connect sometime if helpful.
+
+Prefer:
+> I’m available Tuesday at 2 p.m. or Wednesday at 10 a.m. if you want to review it live.
+
+Rule:
+If you want a meeting, propose times.
+
+---
+
+## E-011 — Vague ownership
+
+Avoid:
+> The team will follow up on next steps.
+
+Prefer:
+> Maya will send the revised draft, and I’ll confirm pricing by Friday.
+
+Rule:
+Names beat collective nouns in action emails.
+
+---
+
+## E-012 — Courtesy overload
+
+Avoid:
+> I hope you’re doing well and having a great week so far. I just wanted to quickly reach out and kindly ask...
+
+Prefer:
+> Can you send the final invoice when you have it?
+
+Rule:
+Courtesy should not delay comprehension.
+
+---
+
+## E-013 — Escalation without accusation
+
+Avoid:
+> This has been sitting with your team for a while.
+
+Prefer:
+> We’re blocked on launch until the security review is complete. Is there anything you need from us to close it?
+
+Rule:
+Name the block and the needed action without turning the email into blame.
+
+---
+
+## E-014 — Reminder email
+
+Avoid:
+> Just bumping this to the top of your inbox.
+
+Prefer:
+> Following up because we still need the signed order form before procurement can start.
+
+Rule:
+A reminder should restate the dependency, not narrate the reminder.
+
+---
+
+## E-015 — Bad news
+
+Avoid:
+> Unfortunately, due to unforeseen circumstances, there will be a slight delay.
+
+Prefer:
+> The shipment will arrive Monday instead of Friday because the supplier missed the cutoff.
+
+Rule:
+Bad news is easier to process when it is direct and specific.
+
+---
+
+## E-016 — Asking for review
+
+Avoid:
+> Please take a look when you get a chance.
+
+Prefer:
+> Can you review sections 2 and 4 by noon tomorrow? Those are the only parts still open.
+
+Rule:
+Scope and deadline make review requests easier to answer.
+
+---
+
+## E-017 — Too many asks
+
+Avoid:
+> Also, while I have you, could you review the budget, confirm the timeline, update the deck, and send feedback?
+
+Prefer:
+> First, can you approve the budget by Thursday? I’ll send the deck separately.
+
+Rule:
+Separate the primary ask from the rest.
+
+---
+
+## E-018 — Default apology
+
+Avoid:
+> Sorry to bother you.
+
+Prefer:
+> One quick follow-up on the contract language.
+
+Rule:
+Do not apologize for reasonable communication.
+
+---
+
+## E-019 — Closing line
+
+Avoid:
+> Looking forward to hearing your valuable thoughts.
+
+Prefer:
+> Thanks.
+
+Rule:
+Most emails end better with a simple close than a decorative one.
+
+---
+
+## E-020 — Reader-first structure
+
+Avoid:
+> I wanted to reach out because I’ve been thinking about the status of the draft and thought it might make sense to check in.
+
+Prefer:
+> Can you approve the draft today? Legal is waiting on your sign-off.
+
+Rule:
+Write the sentence the reader needs first, not the sentence that explains why you wrote it.
 
 ---
 
