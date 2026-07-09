@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.10
+
+- Expanded the Final Editing Checklist into a fuller last-pass review for clarity, evidence, tone, structure, and platform-specific filler.
+
+---
+
 ## 1.9
 
 - Expanded the Corporate AI Speak Dictionary with another batch of plain-language replacements for common management and slide-deck phrases.
@@ -3102,3 +3108,100 @@ Before publishing or sending, ask:
 8. Did I avoid generic LinkedIn, YouTube, email, blog, sales, or marketing templates?
 9. Is the ending useful, or just a summary?
 10. Would an experienced person actually write or say this?
+
+Use these additional checks when the draft still feels vague, polished in the wrong way, or slightly artificial.
+
+## Clarity
+
+11. Can a reader tell the point in one pass, or do they have to decode it?
+12. Did I lead with the point instead of a long setup?
+13. Did I replace category words with actual nouns?
+
+Category words to review:
+- solution
+- platform
+- initiative
+- strategy
+- approach
+- stakeholder
+- ecosystem
+
+14. Did I replace motion phrases with actual actions?
+
+Motion phrases to review:
+- move forward
+- drive results
+- elevate
+- unlock value
+- land the plane
+
+## Specificity
+
+15. Did I swap at least one vague claim for a concrete detail?
+16. If I used a metric, did I include the baseline, not just the percentage?
+17. If I claimed improvement, did I say what improved and how?
+18. If I said something is better, faster, simpler, or easier, did I explain for whom?
+
+## Evidence
+
+19. Did I use facts where I was tempted to use adjectives?
+20. Can the reader tell whether the statement is observed, measured, or just asserted?
+21. If I used social proof, did I name the type of customer, use case, or count?
+
+## Tone
+
+22. Did I remove words that sound impressed with themselves?
+
+Words to review:
+- innovative
+- transformative
+- robust
+- seamless
+- world-class
+- best-in-class
+
+23. Did I cut any phrase that sounds like a keynote, company all-hands, or generic LinkedIn post?
+24. If I used a metaphor, did it help more than plain language would have?
+25. Would I say this sentence out loud to a smart coworker without cringing?
+
+## Structure
+
+26. Is each paragraph doing one job?
+27. Did I cut transitions that only announce movement instead of adding meaning?
+28. If this is a list, did I explain why the list matters before giving it?
+29. If this is a how-to, does the reader know the first step without extra throat-clearing?
+
+## Platform Checks
+
+30. If this is a LinkedIn post, did I remove fake humility, fake contrarianism, and engagement bait?
+31. If this is a YouTube script, did I remove filler hype, retention bait, and generic transitions?
+32. If this is an email, did I state the ask, the owner, and the deadline clearly?
+33. If this is sales copy, did I avoid fake urgency and vague benefits?
+34. If this is marketing copy, did I reveal the product through tasks, outcomes, or evidence instead of adjectives?
+35. If this is a blog post, did I avoid dictionary intros and generic conclusions?
+
+## Endings
+
+36. Does the piece end with a decision, takeaway, observation, or next step?
+37. Did I avoid ending with empty uplift?
+
+Phrases to review:
+- at the end of the day
+- the key takeaway is
+- keep pushing
+- ready to transform
+- thoughts?
+
+38. Does the last line earn its place, or is it only there because endings feel hard?
+
+## Fast Test
+
+If the piece still feels slightly generic, run this quick filter:
+
+1. Underline every adjective.
+2. Circle every abstract noun.
+3. Delete the first sentence.
+4. Delete the last sentence.
+5. Replace one vague claim with one concrete fact.
+6. Read it aloud once.
+7. Keep only what still sounds like a person with real experience.
