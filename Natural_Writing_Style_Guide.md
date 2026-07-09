@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.14
+
+- Added a second-pass expansion to Business Writing with stronger guidance for updates, recommendations, escalation, uncertainty, and executive communication.
+
+---
+
 ## 1.13
 
 - Expanded Business Writing substantially and added second-pass entries to the Sales Writing and Marketing Writing sections.
@@ -2142,6 +2148,266 @@ Prefer:
 
 Rule:
 Business writing often ends best with the next action, not a generic courtesy line.
+
+---
+
+## BW-021 — Executive summary first line
+
+Avoid:
+> I wanted to send a quick note with an update on where things stand across the rollout workstream.
+
+Prefer:
+> The rollout is on track, but vendor access is now the main risk.
+
+Rule:
+Executives should not have to read two paragraphs to find the status.
+
+---
+
+## BW-022 — Recommendation memo language
+
+Avoid:
+> After considering a variety of factors, it may make sense to explore one possible option in more depth.
+
+Prefer:
+> I recommend delaying the launch until support training is complete.
+
+Rule:
+If you are making a recommendation, make it unmistakable.
+
+---
+
+## BW-023 — Escalation tone
+
+Avoid:
+> This is becoming a serious issue and needs urgent attention from leadership.
+
+Prefer:
+> We need a leadership decision by Thursday because Legal and Procurement are waiting on opposite instructions.
+
+Rule:
+Escalations should name the decision, deadline, and consequence.
+
+---
+
+## BW-024 — Uncertainty without fog
+
+Avoid:
+> There are still several variables in play, so timing remains somewhat fluid.
+
+Prefer:
+> We cannot confirm the date until the vendor sends test credentials.
+
+Rule:
+If the timeline is uncertain, name what would make it certain.
+
+---
+
+## BW-025 — Risk statement
+
+Avoid:
+> There are some risks we should keep in mind.
+
+Prefer:
+> The main risk is that delayed data mapping will push training into launch week.
+
+Rule:
+A risk statement should identify the risk, not announce the category.
+
+---
+
+## BW-026 — Meeting notes that matter
+
+Avoid:
+> We had a productive discussion and covered several important topics.
+
+Prefer:
+> We decided to keep the current pricing, revise the security language, and review the final draft Friday.
+
+Rule:
+Meeting notes should capture decisions, changes, and open items.
+
+---
+
+## BW-027 — Open questions
+
+Avoid:
+> There are still a few open questions to resolve.
+
+Prefer:
+> Two questions remain open: who owns the exception workflow, and whether Finance needs a second approval above $10,000.
+
+Rule:
+Open questions should be listed specifically enough to close.
+
+---
+
+## BW-028 — Executive update pacing
+
+Avoid:
+> First, I want to provide some background. Second, I want to walk through what happened. Third, I want to share a few thoughts.
+
+Prefer:
+> Status: on track. Risk: vendor access. Decision needed: approve the revised timeline.
+
+Rule:
+Short executive updates should move in labels, not speeches.
+
+---
+
+## BW-029 — Replace “going forward”
+
+Avoid:
+> Going forward, we will aim to be more proactive in this area.
+
+Prefer:
+> Starting next month, we will review approval delays every Friday.
+
+Rule:
+“Going forward” usually hides the real start point or action.
+
+---
+
+## BW-030 — Keep caveats proportional
+
+Avoid:
+> Subject to potential changes based on evolving conditions and other considerations, the timeline may require adjustment.
+
+Prefer:
+> The date holds unless the vendor misses the Tuesday file delivery.
+
+Rule:
+Use caveats only where they change the reader’s decision.
+
+---
+
+## BW-031 — Replace “as discussed”
+
+Avoid:
+> As discussed, we will proceed accordingly.
+
+Prefer:
+> As discussed, Finance will review the revised terms and respond by Wednesday.
+
+Rule:
+Reference the discussion only if you also restate the substance.
+
+---
+
+## BW-032 — Clarify approvals
+
+Avoid:
+> The document is awaiting final review.
+
+Prefer:
+> The document is waiting on final review from Legal.
+
+Rule:
+Approval language should always name whose review matters.
+
+---
+
+## BW-033 — Memo headline
+
+Avoid:
+> Update on Current Situation
+
+Prefer:
+> Recommendation: delay rollout until vendor data is verified
+
+Rule:
+Memo titles should carry the core message.
+
+---
+
+## BW-034 — Remove management-speak reassurance
+
+Avoid:
+> We remain committed to driving a successful outcome.
+
+Prefer:
+> We are keeping the launch plan unchanged while we fix the reporting issue.
+
+Rule:
+Reassurance is stronger when it sounds operational.
+
+---
+
+## BW-035 — State what changed
+
+Avoid:
+> There have been a few developments since the last update.
+
+Prefer:
+> Since the last update, Procurement approved the contract and Security requested one additional control.
+
+Rule:
+Update writing should name the delta, not announce that there is one.
+
+---
+
+## BW-036 — Recommendation with rationale
+
+Avoid:
+> I think Option B is probably the better path.
+
+Prefer:
+> I recommend Option B because it reduces manual review without delaying launch.
+
+Rule:
+A recommendation should carry its own why.
+
+---
+
+## BW-037 — Replace “for visibility”
+
+Avoid:
+> Sharing for visibility.
+
+Prefer:
+> Sharing because Finance needs to know the rollout date moved to September 12.
+
+Rule:
+If people need visibility, tell them what they need to see.
+
+---
+
+## BW-038 — Deadline with consequence
+
+Avoid:
+> We need this soon.
+
+Prefer:
+> We need this by Friday so support can update training before Monday.
+
+Rule:
+Deadlines become persuasive when the consequence is visible.
+
+---
+
+## BW-039 — Preserve neutral tone without flattening meaning
+
+Avoid:
+> There were some concerns.
+
+Prefer:
+> Finance raised two concerns about margin and billing timing.
+
+Rule:
+Neutral writing can still be precise.
+
+---
+
+## BW-040 — Close the loop
+
+Avoid:
+> We will continue to monitor and provide updates as needed.
+
+Prefer:
+> I’ll send the final decision after the Thursday review.
+
+Rule:
+Close with the next communication event when possible.
 
 ---
 
