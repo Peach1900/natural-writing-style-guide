@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.2
+
+- Expanded the Sales Writing section with practical entries for prospecting, follow-up, objections, closing language, pricing, trust, and cold outreach.
+
+---
+
 ## 1.1
 
 - Expanded the Marketing Writing section with practical entries for web copy, email, ads, launches, case studies, testimonials, and evidence-based persuasion.
@@ -592,6 +598,295 @@ Prefer:
 
 Rule:
 Name the outcome.
+
+---
+
+## S-004 — Manufactured scarcity
+
+Avoid:
+> We only have a few spots left for companies like yours.
+
+Prefer:
+> We take on five onboarding projects per month. The next opening is August 12.
+
+Rule:
+Scarcity only works when it is operationally true and easy to explain.
+
+---
+
+## S-005 — Weak CTA
+
+Avoid:
+> Let me know if you’d be open to exploring synergies.
+
+Prefer:
+> If this is relevant, I can show you the workflow in a 15-minute call next week.
+
+Rule:
+Ask for a clear next step instead of hiding behind vague interest language.
+
+---
+
+## S-006 — Prospecting opener
+
+Avoid:
+> I hope you’re doing well. I wanted to reach out because we offer a best-in-class solution.
+
+Prefer:
+> I’m reaching out because your team is hiring implementation coordinators, which usually means onboarding volume is rising.
+
+Rule:
+Lead with the reason for contact, not a throat-clearing introduction.
+
+---
+
+## S-007 — Discovery call framing
+
+Avoid:
+> We’d love to learn more about your goals and challenges.
+
+Prefer:
+> I’d like to understand how requests move through your team today, where they stall, and what that delay costs you.
+
+Rule:
+Tell the buyer what you are trying to learn in operational terms.
+
+---
+
+## S-008 — Objection handling
+
+Avoid:
+> I completely understand. Most clients feel that way at first.
+
+Prefer:
+> That makes sense. If timing is the issue, we can look at whether the bottleneck is painful enough to justify changing it this quarter.
+
+Rule:
+Do not flatten objections into a script. Address the actual concern.
+
+---
+
+## S-009 — Closing language
+
+Avoid:
+> Let’s get you started on your transformation journey.
+
+Prefer:
+> If you want to move forward, I can send the agreement and a sample rollout timeline today.
+
+Rule:
+Closing language should reduce uncertainty about the next step.
+
+---
+
+## S-010 — Social proof
+
+Avoid:
+> Companies everywhere trust us.
+
+Prefer:
+> Three multi-location dental groups use this to route approvals between office managers and central finance.
+
+Rule:
+Use comparable customers, not applause lines.
+
+---
+
+## S-011 — Trust language
+
+Avoid:
+> You can trust us to deliver exceptional results.
+
+Prefer:
+> We assign one implementation lead, define the migration scope before kickoff, and review the first live workflow with your team.
+
+Rule:
+Trust comes from process clarity, not requests for confidence.
+
+---
+
+## S-012 — Feature to business impact
+
+Avoid:
+> The platform includes role-based permissions.
+
+Prefer:
+> Finance can approve payment changes without giving full edit access to every requester.
+
+Rule:
+Translate product design into control, speed, risk reduction, or visibility.
+
+---
+
+## S-013 — Generic ROI claim
+
+Avoid:
+> The ROI speaks for itself.
+
+Prefer:
+> Teams usually justify this when the current process burns enough admin time or delays enough revenue to matter.
+
+Rule:
+If the economics are not quantified, do not pretend they are obvious.
+
+---
+
+## S-014 — Follow-up after no reply
+
+Avoid:
+> Just bubbling this up in your inbox.
+
+Prefer:
+> Following up in case approval routing is still a problem on your team. If not, no worries.
+
+Rule:
+Follow-ups should remind the reader of the problem, not advertise that you are following up.
+
+---
+
+## S-015 — Follow-up after demo
+
+Avoid:
+> Wanted to circle back and see if you had any thoughts.
+
+Prefer:
+> After the demo, the open question seemed to be whether your legal team needs comment history on every approval. If that decides the fit, I can show that workflow.
+
+Rule:
+Anchor follow-up to the specific decision point from the conversation.
+
+---
+
+## S-016 — Cold email subject line
+
+Avoid:
+> Quick question
+
+Prefer:
+> Reducing quote approval delays
+
+Rule:
+The subject line should preview the business issue, not perform casualness.
+
+---
+
+## S-017 — Cold email body
+
+Avoid:
+> We help companies like yours unlock growth and streamline operations with our innovative platform.
+
+Prefer:
+> I’m reaching out because many sales teams still route custom quotes through email and spreadsheets. We help them cut approval time so reps can send pricing while deals are still active.
+
+Rule:
+Cold emails need one recognizable problem and one believable outcome.
+
+---
+
+## S-018 — LinkedIn sales DM
+
+Avoid:
+> Hi [First Name], I’d love to connect and share how we help forward-thinking leaders transform results.
+
+Prefer:
+> Hi Dana, I saw your team handles multi-site purchasing. We help central ops teams track approvals without chasing each location by email.
+
+Rule:
+A sales DM should sound like a real observation, not a conference badge scan.
+
+---
+
+## S-019 — Problem inflation
+
+Avoid:
+> If you don’t fix this now, your team will keep losing money every day.
+
+Prefer:
+> If delays are rare, this may not be worth changing yet. If they happen every week, the admin cost adds up quickly.
+
+Rule:
+Calibrated language makes the argument stronger than forced alarm.
+
+---
+
+## S-020 — Competitive positioning
+
+Avoid:
+> Unlike other outdated tools, we are the only modern solution.
+
+Prefer:
+> If your current tool already handles approvals well, there may be no reason to switch. The gap we usually see is audit history across departments.
+
+Rule:
+Credibility rises when you describe fit honestly instead of declaring universal superiority.
+
+When it is acceptable:
+Direct comparison is useful when it points to a specific capability difference the buyer can verify.
+
+---
+
+## S-021 — Pricing explanation
+
+Avoid:
+> Our pricing is flexible and designed to meet your unique needs.
+
+Prefer:
+> Pricing depends on user count, approval volume, and whether you need SSO or audit exports.
+
+Rule:
+Even if you cannot quote a number yet, explain what drives the number.
+
+---
+
+## S-022 — Discount language
+
+Avoid:
+> I can probably get you a special deal if you sign this week.
+
+Prefer:
+> We discount annual agreements because onboarding and support are easier to plan that way.
+
+Rule:
+If price changes, explain the business reason behind the change.
+
+---
+
+## S-023 — Decision maker pressure
+
+Avoid:
+> Can you bring in the right stakeholders so we can move this forward quickly?
+
+Prefer:
+> Who else needs to weigh in if this changes your approval process or reporting?
+
+Rule:
+Ask about the decision process in the buyer’s language, not your pipeline language.
+
+---
+
+## S-024 — Proof over promise
+
+Avoid:
+> We consistently deliver world-class client success.
+
+Prefer:
+> We can show two rollout plans, one for a 20-person team and one for a 200-person team, so you can see what implementation actually involves.
+
+Rule:
+In sales writing, proof beats reassurance almost every time.
+
+---
+
+## S-025 — Respectful disqualification
+
+Avoid:
+> I know this would be a great fit if we could just get you on a quick call.
+
+Prefer:
+> If the current process is manageable and there is no urgency to change it, this may not be worth your time right now.
+
+Rule:
+Walking away from a weak fit often makes the rest of the message more trustworthy.
 
 ---
 
