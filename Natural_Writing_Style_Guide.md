@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.13
+
+- Expanded Business Writing substantially and added second-pass entries to the Sales Writing and Marketing Writing sections.
+
+---
+
 ## 1.12
 
 - Tightened the AI Writing Signals section with more specific tells for synthetic polish, fake nuance, and repeated explanatory patterns.
@@ -1903,6 +1909,242 @@ Prefer:
 
 ---
 
+## BW-003 — Put the decision first
+
+Avoid:
+> After several conversations across the team, we have been discussing the possible next steps for the rollout.
+
+Prefer:
+> We are delaying the rollout by two weeks.
+
+Rule:
+In business writing, readers want the decision before the background.
+
+---
+
+## BW-004 — Name the owner
+
+Avoid:
+> A follow-up will be sent after review.
+
+Prefer:
+> Maya will send the revised draft after Legal reviews section 4.
+
+Rule:
+Ownership is clearer when it belongs to a person, not a passive sentence.
+
+---
+
+## BW-005 — Name the blocker
+
+Avoid:
+> There are a few outstanding issues we need to work through.
+
+Prefer:
+> We cannot sign until procurement approves the indemnity language.
+
+Rule:
+Readers should be able to see exactly what is preventing movement.
+
+---
+
+## BW-006 — Replace status fog
+
+Avoid:
+> The project is progressing well overall.
+
+Prefer:
+> Design is complete. Engineering is waiting on API access from the vendor.
+
+Rule:
+A useful status update separates finished work from blocked work.
+
+---
+
+## BW-007 — Reduce passive voice when action matters
+
+Avoid:
+> The recommendation was reviewed and concerns were raised.
+
+Prefer:
+> Finance reviewed the recommendation and raised two concerns about cost.
+
+Rule:
+Passive voice is most harmful when it hides who acted.
+
+---
+
+## BW-008 — Use real dates
+
+Avoid:
+> We should be ready soon.
+
+Prefer:
+> We should be ready by August 14 if the vendor delivers the test data this week.
+
+Rule:
+Business writing gets stronger when timing is concrete.
+
+---
+
+## BW-009 — Replace summary adjectives
+
+Avoid:
+> It was a productive meeting.
+
+Prefer:
+> We left the meeting with one owner, one due date, and a final pricing decision.
+
+Rule:
+Show why the meeting mattered instead of grading it.
+
+---
+
+## BW-010 — Separate fact from recommendation
+
+Avoid:
+> The current process is not working, so we should probably move everything into a new system.
+
+Prefer:
+> The current process requires three manual handoffs. I recommend moving approvals into one system before Q4.
+
+Rule:
+Facts and recommendations both matter. Keep them distinct.
+
+---
+
+## BW-011 — Avoid committee phrasing
+
+Avoid:
+> We are aligned around the need to revisit this initiative moving forward.
+
+Prefer:
+> We agreed to review pricing again after the pilot ends.
+
+Rule:
+If a sentence sounds like it survived six stakeholders, simplify it.
+
+---
+
+## BW-012 — Write for scanning
+
+Avoid:
+> A long paragraph containing the background, the problem, the decision, the caveat, and the ask.
+
+Prefer:
+> One short paragraph for the issue.
+> One short paragraph for the decision.
+> One short paragraph for the next step.
+
+Rule:
+Busy readers should be able to find the point without re-reading.
+
+---
+
+## BW-013 — Clarify tradeoffs
+
+Avoid:
+> There are pros and cons to both options.
+
+Prefer:
+> Option A is faster to launch. Option B is slower but reduces manual review.
+
+Rule:
+Tradeoffs should name speed, cost, risk, effort, or control.
+
+---
+
+## BW-014 — Replace polite drift
+
+Avoid:
+> Just wanted to flag that we may want to consider revisiting the scope.
+
+Prefer:
+> We should reduce the scope before launch.
+
+Rule:
+Politeness should not bury the point.
+
+---
+
+## BW-015 — Name the consequence
+
+Avoid:
+> This delay could create challenges later.
+
+Prefer:
+> If this slips another week, support training will miss the launch date.
+
+Rule:
+Consequences are more useful than warnings.
+
+---
+
+## BW-016 — Make the ask answerable
+
+Avoid:
+> Let me know what you think.
+
+Prefer:
+> Can you approve the revised language by 3 p.m. Thursday?
+
+Rule:
+A good business ask can be answered with a clear yes, no, or edit.
+
+---
+
+## BW-017 — Strip out internal theater
+
+Avoid:
+> We are excited to share an important update regarding this initiative.
+
+Prefer:
+> We approved the new vendor policy and will start using it Monday.
+
+Rule:
+Internal business writing rarely benefits from announcement language.
+
+---
+
+## BW-018 — Keep expertise, cut puffery
+
+Avoid:
+> We are implementing a robust governance framework to optimize reporting integrity.
+
+Prefer:
+> We are adding monthly reconciliations and approval logs to catch reporting errors earlier.
+
+Rule:
+Technical specificity is useful. Inflated abstraction is not.
+
+---
+
+## BW-019 — Use headings that carry meaning
+
+Avoid:
+> Overview
+
+Prefer:
+> Why the rollout moved to September
+
+Rule:
+A heading should help the reader predict the content, not just label a section.
+
+---
+
+## BW-020 — End with the next move
+
+Avoid:
+> Please let us know if you have any further questions.
+
+Prefer:
+> If there are no objections by Friday, we will send the final draft for signature.
+
+Rule:
+Business writing often ends best with the next action, not a generic courtesy line.
+
+---
+
 # Sales Writing
 
 Sales writing should be clear, credible, and specific. It should not manufacture urgency, overstate outcomes, or pretend to know the prospect’s pain without evidence.
@@ -2232,6 +2474,136 @@ Prefer:
 
 Rule:
 Walking away from a weak fit often makes the rest of the message more trustworthy.
+
+---
+
+## S-026 — Discovery question sprawl
+
+Avoid:
+> Can you tell me a bit about your goals, challenges, priorities, systems, process, and what success looks like for your team?
+
+Prefer:
+> Where does the approval process slow down most today?
+
+Rule:
+One sharp discovery question often gets a better answer than six bundled ones.
+
+---
+
+## S-027 — Demo narration
+
+Avoid:
+> Here you can see our innovative dashboard with a lot of powerful capabilities for your team.
+
+Prefer:
+> This shows who approved the request, what changed, and which step is holding it up.
+
+Rule:
+Demo language should describe what the buyer is seeing and why it matters.
+
+---
+
+## S-028 — Case study oversell
+
+Avoid:
+> Our client achieved incredible success and transformed their operations.
+
+Prefer:
+> After the change, their team cut quote approval time from two days to thirty minutes.
+
+Rule:
+Sales proof should land on a measurable before-and-after.
+
+---
+
+## S-029 — Procurement email language
+
+Avoid:
+> We’re eager to keep momentum going and would love to get this wrapped up.
+
+Prefer:
+> We can send the security responses and insurance documents today if procurement still needs them.
+
+Rule:
+During procurement, usefulness beats enthusiasm.
+
+---
+
+## S-030 — Renewal conversation
+
+Avoid:
+> We’d love to continue this successful partnership.
+
+Prefer:
+> Before renewal, I want to review usage, open support issues, and whether the current plan still fits.
+
+Rule:
+Renewal language should sound like account stewardship, not a greeting card.
+
+---
+
+## S-031 — Urgency by internal pressure
+
+Avoid:
+> My manager wants me to close this by Friday.
+
+Prefer:
+> If you need current pricing, the quote expires Friday.
+
+Rule:
+Buyer urgency has to come from the buyer’s reality, not yours.
+
+---
+
+## S-032 — Generic voicemail script
+
+Avoid:
+> I’m just reaching out to introduce myself and share how we help teams like yours.
+
+Prefer:
+> Calling because teams with multi-step approvals often lose time rebuilding status by hand. If that is a problem on your side, I can send a short example.
+
+Rule:
+Even brief outreach should name the likely problem.
+
+---
+
+## S-033 — Meeting request without context
+
+Avoid:
+> Do you have 15 minutes to connect?
+
+Prefer:
+> Do you have 15 minutes next week to see how teams cut approval delays for custom quotes?
+
+Rule:
+A meeting request is easier to accept when the purpose is specific.
+
+---
+
+## S-034 — Trial or pilot framing
+
+Avoid:
+> Let’s get you started with a pilot and see how it goes.
+
+Prefer:
+> If we run a pilot, I’d suggest one workflow, one owner, and one success metric so we can tell whether it worked.
+
+Rule:
+A pilot sounds more credible when success is defined in advance.
+
+---
+
+## S-035 — Mutual action plan language
+
+Avoid:
+> Let’s align on next steps so we can keep momentum.
+
+Prefer:
+> If this stays on track, the next steps are security review this week, legal review next week, and signature after that.
+
+Rule:
+“Next steps” becomes useful when it turns into a sequence with timing.
 
 ---
 
@@ -2571,6 +2943,144 @@ Persuasion gets stronger when the evidence is visible enough for the reader to j
 
 When it is acceptable:
 Use stronger summary language only after the facts are already on the page.
+
+---
+
+## M-026 — Subhead that repeats the headline
+
+Avoid:
+> Work faster with a smarter workflow platform.
+>
+> A modern system that helps teams move faster.
+
+Prefer:
+> Work faster with a smarter workflow platform.
+>
+> Route approvals, comments, and final decisions through one shared record instead of email.
+
+Rule:
+The subhead should add operational detail, not rephrase the headline.
+
+---
+
+## M-027 — Feature grid sameness
+
+Avoid:
+> Powerful automation
+> Seamless visibility
+> Intelligent collaboration
+
+Prefer:
+> Auto-route requests by dollar threshold
+> See who approved each step
+> Keep comments tied to the final record
+
+Rule:
+Feature grids should be concrete enough to compare.
+
+---
+
+## M-028 — Product page opening paragraph
+
+Avoid:
+> Our platform is designed to help forward-thinking teams streamline work and unlock efficiency.
+
+Prefer:
+> This product routes requests through approval rules, captures comments, and keeps a full decision record for finance and operations.
+
+Rule:
+Product pages should explain the product before describing its ambition.
+
+---
+
+## M-029 — Comparison copy
+
+Avoid:
+> Unlike other solutions, we offer unmatched flexibility.
+
+Prefer:
+> If your current tool already handles approvals well, switching may not help. The difference here is audit history across departments.
+
+Rule:
+Comparison copy becomes stronger when it names the actual gap.
+
+---
+
+## M-030 — Problem-agitate-overdo
+
+Avoid:
+> Every delayed approval is silently draining revenue, morale, and momentum from your organization.
+
+Prefer:
+> Delayed approvals usually create two costs: someone waits, and someone else has to rebuild the status later.
+
+Rule:
+Agitation should stay proportional to the real pain.
+
+---
+
+## M-031 — FAQ answer inflation
+
+Avoid:
+> Absolutely. Our highly flexible solution is built to support a wide range of use cases and business environments.
+
+Prefer:
+> Yes. Teams use it for vendor approvals, contract review, and internal budget requests.
+
+Rule:
+FAQs work best when the answer sounds like an answer, not a brochure.
+
+---
+
+## M-032 — Audience definition
+
+Avoid:
+> Built for every modern organization.
+
+Prefer:
+> Best for teams with recurring approvals, multiple reviewers, or audit requirements.
+
+Rule:
+Specific fit is more persuasive than universal fit.
+
+---
+
+## M-033 — Social proof without signal
+
+Avoid:
+> Loved by teams everywhere.
+
+Prefer:
+> Used by finance, procurement, and operations teams that need approval history they can export.
+
+Rule:
+Social proof should still teach the reader who the product is for.
+
+---
+
+## M-034 — Outcome page closing
+
+Avoid:
+> Ready to transform the way your team works?
+
+Prefer:
+> If approval delays are costing time each week, start by mapping where requests disappear now.
+
+Rule:
+Closings are stronger when they point to a practical next step.
+
+---
+
+## M-035 — Brand claim without evidence
+
+Avoid:
+> We are the trusted leader in workflow innovation.
+
+Prefer:
+> Teams use this when they need one place to track requests, approvals, comments, and final status.
+
+Rule:
+Brand claims should either be supported or replaced with product truth.
 
 ---
 
