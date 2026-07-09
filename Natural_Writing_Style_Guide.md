@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.8
+
+- Expanded the Example Rewrite Library with before-and-after rewrites for sales, LinkedIn, email, blog, and multi-line corporate copy.
+
+---
+
 ## 1.7
 
 - Expanded the Blog Pattern Library with practical entries for openings, structure, examples, claims, headings, and conclusions.
@@ -2612,6 +2618,191 @@ Before:
 
 After:
 > Teams can assign tasks, track approvals, and see overdue work in one dashboard.
+
+---
+
+## EX-004 — Sales outreach
+
+Before:
+> Hi James, I hope you’re doing well. I wanted to reach out because we help innovative companies like yours unlock efficiency and streamline operations. I’d love to find time to connect and explore synergies.
+
+After:
+> Hi James, I saw your team is hiring two implementation managers. That usually means onboarding volume is climbing. We help teams cut approval delays during onboarding so customers are not waiting on internal handoffs. If that is relevant, I can show you the workflow in 15 minutes next week.
+
+What changed:
+- Removed the generic greeting and vague company praise.
+- Replaced “unlock efficiency” with a specific operational problem.
+- Turned the CTA into a clear next step.
+
+---
+
+## EX-005 — LinkedIn post
+
+Before:
+> Unpopular opinion: Great leaders don’t create followers. They create leaders.
+>
+> I learned this after a difficult season in my career.
+>
+> Thoughts?
+
+After:
+> One habit separates the best managers I’ve worked with from the rest: they put decisions in writing.
+>
+> That sounds small, but it changes everything during handoffs. People know what was decided, who owns the next step, and what changed since the last conversation.
+>
+> It is not glamorous, but it prevents a lot of avoidable confusion.
+
+What changed:
+- Removed fake contrarian framing.
+- Replaced the slogan with an observable management habit.
+- Ended with a takeaway instead of engagement bait.
+
+---
+
+## EX-006 — Email
+
+Before:
+> Hi team,
+>
+> I hope everyone is doing well. I just wanted to follow up on the draft and see if maybe you had any thoughts when you get a chance.
+>
+> Thanks so much.
+
+After:
+> Hi team,
+>
+> Can you review sections 2 and 4 of the draft by noon tomorrow? Those are the only two sections still open.
+>
+> Thanks.
+
+What changed:
+- Moved the ask to the first useful sentence.
+- Added scope and a deadline.
+- Removed filler and hesitation language.
+
+---
+
+## EX-007 — Blog introduction
+
+Before:
+> In today’s fast-paced business environment, organizations must prioritize communication in order to drive alignment, improve collaboration, and unlock scalable success.
+
+After:
+> Most communication problems are not caused by tone. They start when decisions are implied instead of written down.
+
+What changed:
+- Removed the generic “modern business environment” opening.
+- Replaced abstractions with a concrete thesis.
+- Cut three vague benefits down to one usable point.
+
+---
+
+## EX-008 — YouTube tutorial intro
+
+Before:
+> In today’s video, I’m going to show you a super powerful workflow hack that completely changed the game for me, so make sure you stay until the end.
+
+After:
+> I kept rebuilding the same report every Friday, so I tested a simpler workflow. Here’s the version I actually kept.
+
+What changed:
+- Replaced hype with a specific problem.
+- Removed the retention phrase.
+- Made the payoff believable.
+
+---
+
+## EX-009 — Marketing landing page
+
+Before:
+> The ultimate all-in-one platform for modern teams looking to optimize collaboration, increase visibility, and elevate performance.
+
+After:
+> Track requests, approvals, and overdue work in one place so teams stop rebuilding status by hand.
+
+What changed:
+- Removed stacked buzzwords.
+- Named the user tasks directly.
+- Swapped praise language for workflow benefit.
+
+---
+
+## EX-010 — Corporate update
+
+Before:
+> We are excited to announce that we have aligned on a strategic initiative to optimize our cross-functional approval framework and drive stronger visibility across stakeholders.
+
+After:
+> We are replacing the current approval flow with one shared system. Finance, Legal, and Operations will all review requests there instead of by email.
+
+What changed:
+- Turned abstract nouns back into actions and people.
+- Replaced “stakeholders” with named teams.
+- Made the actual change visible.
+
+---
+
+## EX-011 — Sales follow-up
+
+Before:
+> Just bubbling this up in your inbox in case this is still on your radar. I’d love to reconnect and keep the conversation going.
+
+After:
+> Following up because the open question from our demo was audit history. If that is still the deciding factor, I can send the export example we discussed.
+
+What changed:
+- Removed inbox narration.
+- Anchored the follow-up to the buyer’s actual question.
+- Offered a specific next step instead of a vague reconnect.
+
+---
+
+## EX-012 — Blog conclusion
+
+Before:
+> By implementing these best practices, your organization can create a more agile, collaborative, and future-ready workflow.
+
+After:
+> Most workflow fixes are not dramatic. They come from clearer ownership, fewer handoffs, and better records.
+
+What changed:
+- Removed ceremonial ending language.
+- Replaced broad aspiration with the practical summary.
+- Kept the conclusion short enough to feel earned.
+
+---
+
+## EX-013 — LinkedIn sales post
+
+Before:
+> Just a thought from today: so many companies are still relying on outdated systems. That’s why we built a solution that empowers teams to move faster and scale smarter.
+
+After:
+> I keep seeing the same operations problem: teams approve work in email, then rebuild the record later for finance. That is usually where delay and audit confusion start.
+
+What changed:
+- Dropped the disguised product pitch opening.
+- Replaced generic criticism with one clear pattern.
+- Let the observation carry the value instead of forcing the sale.
+
+---
+
+## EX-014 — Multi-line cleanup
+
+Before:
+> We are thrilled to introduce a new and innovative capability designed to empower teams, enhance collaboration, and unlock meaningful value across the organization.
+>
+> With this enhancement, users can experience a seamless and intuitive way to engage with approvals in a more strategic and scalable manner.
+
+After:
+> We added approval history exports.
+>
+> Teams can now download comments, timestamps, and final decisions from any request.
+
+What changed:
+- Cut emotional announcement language.
+- Split the update into what changed and why it matters.
+- Replaced “strategic and scalable” with the actual capability.
 
 ---
 
