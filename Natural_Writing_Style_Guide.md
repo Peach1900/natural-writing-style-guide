@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.1
+
+- Expanded the Marketing Writing section with practical entries for web copy, email, ads, launches, case studies, testimonials, and evidence-based persuasion.
+
+---
+
 ## 1.0
 
 - Established core philosophy and rules.
@@ -659,6 +665,272 @@ Prefer:
 
 Rule:
 Use the action the reader is actually taking.
+
+---
+
+## M-006 — Homepage subhead
+
+Avoid:
+> A smarter way to scale operations with confidence.
+
+Prefer:
+> Route purchase requests, approvals, and vendor records through one system instead of six spreadsheets.
+
+Rule:
+Use the subhead to add operational detail the headline could not hold.
+
+---
+
+## M-007 — Tagline
+
+Avoid:
+> Innovation for the modern enterprise.
+
+Prefer:
+> Close the books without chasing spreadsheets.
+
+Rule:
+Short does not mean vague. A tagline should still point to a real job or pain point.
+
+---
+
+## M-008 — Feature list
+
+Avoid:
+> Advanced analytics. Seamless automation. Enterprise-grade visibility.
+
+Prefer:
+> See who approved a request, when it changed, and where it is stuck.
+
+Rule:
+Feature lists should describe what the user can now see, do, or stop doing.
+
+---
+
+## M-009 — Feature to benefit
+
+Avoid:
+> Includes automated notifications.
+
+Prefer:
+> Buyers get reminders automatically, so requests do not stall in someone’s inbox.
+
+Rule:
+Translate the feature into a change in behavior, speed, accuracy, or workload.
+
+---
+
+## M-010 — Benefit stacking
+
+Avoid:
+> Save time, reduce costs, and improve collaboration.
+
+Prefer:
+> Sales can send quotes faster, finance gets fewer correction requests, and managers can see approvals without asking for updates.
+
+Rule:
+If you name multiple benefits, assign each one to a person or workflow.
+
+---
+
+## M-011 — Headline drama
+
+Avoid:
+> The future of team productivity starts here.
+
+Prefer:
+> Stop rebuilding the same weekly report by hand.
+
+Rule:
+Tension is stronger than theater. Show the problem the reader already recognizes.
+
+Why it sounds generic:
+It reaches for importance instead of naming friction.
+
+---
+
+## M-012 — Problem statement
+
+Avoid:
+> Teams today face increasing complexity.
+
+Prefer:
+> Every custom order requires copy-pasting data across sales, ops, and invoicing.
+
+Rule:
+Do not describe the era. Describe the mess.
+
+---
+
+## M-013 — Outcome claim
+
+Avoid:
+> Deliver better results at scale.
+
+Prefer:
+> Cut implementation sign-off from nine emails to one tracked approval.
+
+Rule:
+Claims become believable when they attach to a process and a measurable change.
+
+---
+
+## M-014 — Social proof setup
+
+Avoid:
+> Trusted by industry leaders worldwide.
+
+Prefer:
+> Used by eight regional hospital groups to track contract approvals across legal, procurement, and finance.
+
+Rule:
+If you mention trust, earn it with numbers, categories, or recognizable context.
+
+---
+
+## M-015 — Testimonial editing
+
+Avoid:
+> This amazing platform completely transformed our business and changed everything for our team.
+
+Prefer:
+> Before this, approvals lived in email. Now our team can see status without asking finance for updates.
+
+Rule:
+Keep testimonials sounding like people, not landing pages.
+
+---
+
+## M-016 — Case study headline
+
+Avoid:
+> How Company X Unlocked Growth
+
+Prefer:
+> How Ridgeview Health cut vendor onboarding from 12 days to 4
+
+Rule:
+Case study headlines should name the company, the process, and the result.
+
+---
+
+## M-017 — Case study opening
+
+Avoid:
+> Ridgeview Health wanted to modernize its operations and improve efficiency across the organization.
+
+Prefer:
+> Ridgeview Health was onboarding vendors through email, PDFs, and a shared spreadsheet. Legal reviews were getting lost, and finance had no clean audit trail.
+
+Rule:
+Start with the original situation, not the abstract ambition.
+
+---
+
+## M-018 — Product launch copy
+
+Avoid:
+> We’re thrilled to announce an exciting new capability.
+
+Prefer:
+> You can now export approval history as a CSV, including comments, timestamps, and final status.
+
+Rule:
+Launch copy should answer one question first: what is new?
+
+---
+
+## M-019 — Release note crossover
+
+Avoid:
+> This enhancement delivers greater flexibility for users.
+
+Prefer:
+> Admins can now require a second approver for requests above a dollar threshold they set.
+
+Rule:
+Even promotional release copy should stay concrete enough to be useful.
+
+---
+
+## M-020 — Marketing email subject line
+
+Avoid:
+> Unlock a better workflow today
+
+Prefer:
+> New: approval exports with timestamps and comments
+
+Rule:
+A good subject line previews the information, not the emotion.
+
+---
+
+## M-021 — Marketing email body
+
+Avoid:
+> We’re excited to share a game-changing update designed to empower your team.
+
+Prefer:
+> We added approval exports for teams that need audit-ready records. You can download comments, timestamps, and final decisions from any request.
+
+Rule:
+Write marketing emails like useful product updates unless the campaign truly needs a broader narrative.
+
+---
+
+## M-022 — Web copy filler
+
+Avoid:
+> Built for businesses of all sizes across every stage of growth.
+
+Prefer:
+> Used most often by teams with complex approvals, recurring documents, or shared ownership between departments.
+
+Rule:
+Broad positioning usually weakens relevance. Say who it fits best.
+
+---
+
+## M-023 — Ad copy
+
+Avoid:
+> Discover the smarter way to work.
+
+Prefer:
+> Still routing approvals by email? Track every request in one dashboard.
+
+Rule:
+Ads need a recognizable problem, not a brand poster voice.
+
+---
+
+## M-024 — White paper opening
+
+Avoid:
+> In today’s rapidly evolving business landscape, organizations must embrace innovation to stay competitive.
+
+Prefer:
+> Procurement teams often add controls in response to risk, then lose speed because no one can see where requests are stuck. This paper looks at three approval designs that preserve both control and turnaround time.
+
+Rule:
+Open with the real operating tension the paper will examine.
+
+---
+
+## M-025 — Evidence-based persuasion
+
+Avoid:
+> Our proven methodology drives exceptional outcomes.
+
+Prefer:
+> In 14 customer rollouts last year, teams using approval templates reduced setup time by a median of 37 percent.
+
+Rule:
+Persuasion gets stronger when the evidence is visible enough for the reader to judge.
+
+When it is acceptable:
+Use stronger summary language only after the facts are already on the page.
 
 ---
 
