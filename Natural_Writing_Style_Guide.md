@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.11
+
+- Sharpened the AI Writing Signals section with clearer entries for verbosity, repetitive explanation, fake balance, and over-smoothed prose.
+
+---
+
 ## 1.10
 
 - Expanded the Final Editing Checklist into a fuller last-pass review for clarity, evidence, tone, structure, and platform-specific filler.
@@ -1049,6 +1055,136 @@ Everything has the same rhythm. Humans naturally vary rhythm.
 
 ---
 
+### AI-006 — Overexplaining simple points
+
+Example:
+> Time management is important because managing your time well helps you use your time more effectively.
+
+Problem:
+AI often explains obvious ideas past the point of usefulness.
+
+Editing rule:
+If the reader already understands the first sentence, do not spend three more sentences paraphrasing it.
+
+---
+
+### AI-007 — Saying the same thing three ways
+
+Example:
+> The process is simple, easy to use, and straightforward to follow.
+
+Problem:
+AI often stacks near-synonyms to make a point sound fuller than it is.
+
+Editing rule:
+Keep the strongest version and cut the rest.
+
+---
+
+### AI-008 — False completeness
+
+Example:
+> This comprehensive guide covers everything you need to know about improving team communication.
+
+Problem:
+AI likes totalizing claims even when the content is narrow or introductory.
+
+Editing rule:
+Define the actual scope instead of claiming completeness.
+
+---
+
+### AI-009 — Fake balance
+
+Example:
+> On one hand, this can be beneficial. On the other hand, it can also present certain challenges.
+
+Problem:
+AI often performs balance even when the tradeoff is obvious, weak, or unnecessary.
+
+Editing rule:
+If one side is the real point, say the real point.
+
+---
+
+### AI-010 — Polished but empty paraphrase
+
+Example:
+> This highlights the importance of ensuring that communication remains clear and effective across teams.
+
+Problem:
+The sentence sounds polished, but it does not add a fact, example, or decision.
+
+Editing rule:
+Replace polished paraphrase with the concrete point it is avoiding.
+
+---
+
+### AI-011 — Generic reassurance
+
+Example:
+> The good news is that with the right approach, this challenge can be addressed.
+
+Problem:
+AI often inserts encouragement where information would be more useful.
+
+Editing rule:
+Skip reassurance unless the piece genuinely needs emotional support.
+
+---
+
+### AI-012 — Abstract noun pileup
+
+Example:
+> This initiative supports alignment, collaboration, visibility, accountability, and transformation.
+
+Problem:
+AI often stacks abstract nouns because they sound important without requiring specificity.
+
+Editing rule:
+Replace the noun pileup with one concrete mechanism or outcome.
+
+---
+
+### AI-013 — Over-smoothed transitions
+
+Example:
+> With that said, it is important to note that there are several factors worth considering moving forward.
+
+Problem:
+AI often glues sentences together so smoothly that the prose stops sounding human.
+
+Editing rule:
+Prefer direct movement over transition padding.
+
+---
+
+### AI-014 — Premature summary
+
+Example:
+> In summary, the main point is that communication matters.
+
+Problem:
+AI often summarizes before it has earned the summary, especially in short pieces.
+
+Editing rule:
+If the draft is short, the summary is often the first thing to cut.
+
+---
+
+### AI-015 — Explanation without stakes
+
+Example:
+> Documentation is useful because it helps teams remain informed and aligned.
+
+Problem:
+AI explains concepts in generic terms without showing what breaks when the concept is missing.
+
+Editing rule:
+Show the failure mode, cost, or operational consequence.
+
+---
+
 ## Medium Signal
 
 Things AI often does, but people do too:
@@ -1057,6 +1193,11 @@ Things AI often does, but people do too:
 - Constant summaries
 - Repeated “however”
 - Repeated “for example”
+- Repeated sentence starters
+- Every paragraph ending with a moral
+- Inflated headings
+- Definitions where the reader wanted advice
+- Explaining obvious concepts at length
 
 ---
 
