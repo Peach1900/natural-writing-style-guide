@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.7
+
+- Expanded the Blog Pattern Library with practical entries for openings, structure, examples, claims, headings, and conclusions.
+
+---
+
 ## 1.6
 
 - Expanded the Email Pattern Library with practical entries for subject lines, requests, follow-ups, updates, tone, and decision clarity.
@@ -2327,6 +2333,253 @@ Avoid:
 
 Prefer:
 > Most productivity problems start with unclear priorities.
+
+---
+
+## B-002 — Generic opening
+
+Avoid:
+> In today’s fast-paced world, teams need better ways to stay productive.
+
+Prefer:
+> Most teams do not have a productivity problem. They have too many decisions living in too many places.
+
+Rule:
+Open with the tension or observation, not a speech about the modern world.
+
+---
+
+## B-003 — Vague thesis
+
+Avoid:
+> This article explores the importance of clear communication.
+
+Prefer:
+> Most misalignment starts when teams leave decisions implied instead of writing them down.
+
+Rule:
+State the point, not the topic category.
+
+---
+
+## B-004 — Empty authority
+
+Avoid:
+> Experts agree that documentation is essential for success.
+
+Prefer:
+> Teams usually feel the cost of poor documentation when handoffs break and nobody can reconstruct the decision.
+
+Rule:
+Use reasoning or evidence before borrowing authority.
+
+---
+
+## B-005 — Section heading fluff
+
+Avoid:
+> Unlocking the power of effective workflows
+
+Prefer:
+> Why workflows break during handoff
+
+Rule:
+Headings should help the reader navigate, not advertise.
+
+---
+
+## B-006 — Abstract claim
+
+Avoid:
+> Better systems improve efficiency.
+
+Prefer:
+> A shared intake form prevents teams from re-entering the same request in three tools.
+
+Rule:
+Translate claims into mechanisms.
+
+---
+
+## B-007 — Example-free advice
+
+Avoid:
+> It is important to create accountability.
+
+Prefer:
+> Add one owner to each approval step so people know who needs to act next.
+
+Rule:
+Advice gets clearer when it includes a concrete example.
+
+---
+
+## B-008 — List inflation
+
+Avoid:
+> Here are 10 powerful strategies that will transform your process.
+
+Prefer:
+> Here are 10 changes worth testing, and the two that usually matter most.
+
+Rule:
+Lists do not need hype. They need framing.
+
+---
+
+## B-009 — Overexplained setup
+
+Avoid:
+> Before we dive into the tips, let’s first spend a moment understanding the broader context around why this topic matters.
+
+Prefer:
+> First, here is the problem these tips are trying to solve.
+
+Rule:
+Do not build a runway before every section.
+
+---
+
+## B-010 — False completeness
+
+Avoid:
+> This guide covers everything you need to know about onboarding.
+
+Prefer:
+> This guide focuses on the handoff points where onboarding usually slows down.
+
+Rule:
+Scope builds trust when it is defined honestly.
+
+---
+
+## B-011 — Recycled transitions
+
+Avoid:
+> Furthermore, moreover, in addition, it is also worth noting...
+
+Prefer:
+> The second issue is ownership.
+
+Rule:
+Transitions should move the logic forward, not pad the prose.
+
+---
+
+## B-012 — Advice without tradeoffs
+
+Avoid:
+> Standardize the process across every team.
+
+Prefer:
+> Standardize the core steps, but leave exceptions for teams with legal or regulatory requirements.
+
+Rule:
+Strong blog advice admits where the rule bends.
+
+---
+
+## B-013 — Data without baseline
+
+Avoid:
+> We increased conversions by 40 percent.
+
+Prefer:
+> Conversions rose from 5 percent to 7 percent after we shortened the form.
+
+Rule:
+Percentages mean more when the reader can see the starting point.
+
+---
+
+## B-014 — Story without lesson
+
+Avoid:
+> We had a difficult quarter, learned a lot, and came out stronger.
+
+Prefer:
+> We lost time because approvals moved in private messages. After that quarter, we required final decisions to be logged in one shared record.
+
+Rule:
+If you tell a story, extract the operational change.
+
+---
+
+## B-015 — Tool worship
+
+Avoid:
+> The platform solves collaboration once and for all.
+
+Prefer:
+> The tool helps only if the team agrees on who reviews what and when.
+
+Rule:
+Software rarely fixes process ambiguity by itself.
+
+---
+
+## B-016 — Generic takeaway
+
+Avoid:
+> The key takeaway is to stay intentional.
+
+Prefer:
+> If the process is failing, check ownership before you check tooling.
+
+Rule:
+End sections with a usable takeaway, not a motivational phrase.
+
+---
+
+## B-017 — FAQ filler
+
+Avoid:
+> What is workflow optimization? Workflow optimization is the process of optimizing a workflow.
+
+Prefer:
+> When people say workflow optimization, they usually mean removing delays, duplicate work, or unclear approvals.
+
+Rule:
+Do not answer questions by repeating the wording back at the reader.
+
+---
+
+## B-018 — Call to action drift
+
+Avoid:
+> Ready to revolutionize your business? Contact us today.
+
+Prefer:
+> If you are comparing approval tools, start by mapping where requests currently stall.
+
+Rule:
+A strong close can point to a next step without switching into generic sales copy.
+
+---
+
+## B-019 — Paragraph overload
+
+Avoid:
+> One long paragraph that contains the problem, the example, the caveat, the summary, and the conclusion.
+
+Prefer:
+> Use one paragraph for the claim, one for the example, and one for the implication when needed.
+
+Rule:
+Blog writing should be easy to scan without becoming choppy.
+
+---
+
+## B-020 — Honest conclusion
+
+Avoid:
+> By implementing these best practices, your organization can unlock scalable success.
+
+Prefer:
+> Most workflow fixes are not dramatic. They come from clearer ownership, fewer handoffs, and better records.
+
+Rule:
+A blog conclusion should sound earned, not ceremonially upbeat.
 
 ---
 
