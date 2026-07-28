@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.19
+
+- Added a second YouTube Pattern Library expansion covering faceless scripts, tutorials, reviews, commentary, shorts, transcript cleanup, and script editing passes.
+
+---
+
 ## 1.18
 
 - Expanded the YouTube Pattern Library into chapter-style sections and added entries for hooks, spoken rhythm, retention, tutorials, sponsorships, CTAs, and endings.
@@ -2448,6 +2454,544 @@ Before recording, ask:
 
 Rule:
 A YouTube script should sound like a person explaining something they actually noticed.
+
+---
+
+## Chapter 7 — Faceless Channel Scripts
+
+## YT-061 — Documentary narrator voice
+
+Avoid:
+> Throughout history, humanity has always been fascinated by the pursuit of success.
+
+Prefer:
+> The company had one problem: its product worked, but customers did not understand when to use it.
+
+Rule:
+Faceless scripts need scenes, facts, and sequence, not sweeping narration.
+
+---
+
+## YT-062 — Overdramatic faceless intro
+
+Avoid:
+> What happened next would change everything forever.
+
+Prefer:
+> The next decision changed the pricing model and created a customer-support problem they did not expect.
+
+Rule:
+Let the event carry the drama.
+
+---
+
+## YT-063 — Generic “rise and fall” framing
+
+Avoid:
+> This is the shocking rise and fall of a company nobody saw coming.
+
+Prefer:
+> This is how a useful product lost trust after one pricing change.
+
+Rule:
+Use the actual tension instead of a stock documentary frame.
+
+---
+
+## YT-064 — Anonymous expert tone
+
+Avoid:
+> Experts agree that this strategy was a masterclass in innovation.
+
+Prefer:
+> The strategy worked at first because it solved one customer problem: setup took too long.
+
+Rule:
+If you mention expertise, cite the observation or evidence behind it.
+
+---
+
+## YT-065 — Reused suspense sentence
+
+Avoid:
+> But there was just one problem.
+
+Prefer:
+> The problem showed up after launch: support tickets doubled.
+
+Rule:
+Name the problem instead of announcing that a problem exists.
+
+---
+
+## YT-066 — Stock lesson ending
+
+Avoid:
+> And that is why persistence, innovation, and vision matter more than ever.
+
+Prefer:
+> The useful lesson is narrower: do not change pricing until support can explain the new model in one sentence.
+
+Rule:
+Faceless videos should end with a specific lesson tied to the story.
+
+---
+
+## YT-067 — AI-generated mystery tone
+
+Avoid:
+> But beneath the surface, something much deeper was unfolding.
+
+Prefer:
+> The public numbers looked fine, but renewals were slipping.
+
+Rule:
+Replace vague mystery with the hidden fact.
+
+---
+
+## YT-068 — Context dump
+
+Avoid:
+> To understand this story, we first need to go all the way back to the beginning.
+
+Prefer:
+> The relevant history starts with the first version, because that is where the pricing problem began.
+
+Rule:
+Give only the history the viewer needs.
+
+---
+
+## YT-069 — Faceless script checklist
+
+Before recording a faceless script, ask:
+
+1. Does the script name the event, decision, or conflict early?
+2. Did I replace broad narration with facts and scenes?
+3. Does each “turn” in the story reveal something specific?
+4. Did I remove stock phrases like “what happened next” and “one problem”?
+5. Does the ending connect to the actual story instead of a universal lesson?
+
+Rule:
+Faceless does not mean generic. It still needs judgment.
+
+---
+
+## Chapter 8 — Tutorials and Walkthroughs
+
+## YT-070 — Missing prerequisite
+
+Avoid:
+> Let’s jump right into the workflow.
+
+Prefer:
+> Before starting, make sure you have admin access. Without that, the approval settings will not appear.
+
+Rule:
+Name prerequisites before the viewer gets stuck.
+
+---
+
+## YT-071 — Unclear step order
+
+Avoid:
+> After setting everything up, go ahead and test it.
+
+Prefer:
+> First create the rule. Then assign the approver. Then submit one test request.
+
+Rule:
+Tutorials need sequence.
+
+---
+
+## YT-072 — Skipping the mistake
+
+Avoid:
+> If everything works, you’re good to go.
+
+Prefer:
+> If the test request does not move, check whether the approver has permission to review that request type.
+
+Rule:
+Show the likely failure point.
+
+---
+
+## YT-073 — Too much explanation before action
+
+Avoid:
+> Before we configure this, it is important to understand the broader concept of approval routing.
+
+Prefer:
+> Approval routing means the request goes to different people based on rules. Now set the first rule.
+
+Rule:
+Explain enough to act, then move.
+
+---
+
+## YT-074 — UI description without labels
+
+Avoid:
+> Click the blue button on the right.
+
+Prefer:
+> Click Save Rule in the top-right corner.
+
+Rule:
+Use visible interface labels.
+
+---
+
+## YT-075 — No checkpoint
+
+Avoid:
+> Now continue to the next section.
+
+Prefer:
+> Before moving on, confirm the rule appears under Active Approvals.
+
+Rule:
+Give checkpoints after important steps.
+
+---
+
+## YT-076 — Tutorial wrap-up with no test
+
+Avoid:
+> And that’s how you set up the workflow.
+
+Prefer:
+> To test it, submit one request under $100 and one above $100. They should follow different approval paths.
+
+Rule:
+End tutorials with verification.
+
+---
+
+## Chapter 9 — Reviews, Recommendations, and Comparisons
+
+## YT-077 — Fake objectivity
+
+Avoid:
+> This is the best tool on the market.
+
+Prefer:
+> This is the best fit if you need approval history. It is not the best fit if you only need task tracking.
+
+Rule:
+Recommendations should define fit.
+
+---
+
+## YT-078 — Review with only praise
+
+Avoid:
+> Everything about this tool is amazing.
+
+Prefer:
+> The approval history is strong. The reporting takes longer to configure than I expected.
+
+Rule:
+Useful reviews include limits.
+
+---
+
+## YT-079 — Comparison without criteria
+
+Avoid:
+> Tool A is better than Tool B.
+
+Prefer:
+> Tool A is better for audit history. Tool B is better for simple task lists.
+
+Rule:
+Name the criterion before choosing a winner.
+
+---
+
+## YT-080 — Affiliate review conflict
+
+Avoid:
+> This is an honest review, and you should definitely buy it.
+
+Prefer:
+> I use an affiliate link, so here is the part I would still criticize: setup takes longer if your approval rules are unclear.
+
+Rule:
+Disclose incentives and keep the critique visible.
+
+---
+
+## YT-081 — Feature dump review
+
+Avoid:
+> It has dashboards, automation, templates, analytics, integrations, and collaboration tools.
+
+Prefer:
+> I tested three jobs: creating a request, routing approval, and exporting the record.
+
+Rule:
+Review tasks, not feature lists.
+
+---
+
+## YT-082 — Recommendation without viewer type
+
+Avoid:
+> I recommend this for everyone.
+
+Prefer:
+> I recommend this for teams that need approval history across departments. I would skip it for solo users.
+
+Rule:
+Every recommendation needs an audience.
+
+---
+
+## Chapter 10 — Commentary and Opinion Videos
+
+## YT-083 — Hot take opener
+
+Avoid:
+> Hot take: AI writing is ruining the internet.
+
+Prefer:
+> The problem is not that AI writes. The problem is that so much AI writing uses the same safe structure.
+
+Rule:
+Opinion videos are stronger when the claim is precise.
+
+---
+
+## YT-084 — Outrage inflation
+
+Avoid:
+> This is absolutely insane and everyone should be furious.
+
+Prefer:
+> This is frustrating because it rewards generic writing over specific experience.
+
+Rule:
+Match emotional intensity to the evidence.
+
+---
+
+## YT-085 — Strawman setup
+
+Avoid:
+> Some people think all AI writing is perfect.
+
+Prefer:
+> The common defense is that AI writing is clear. That is partly true, but clarity can still be generic.
+
+Rule:
+Represent the other side fairly before responding.
+
+---
+
+## YT-086 — “Here’s the truth”
+
+Avoid:
+> Here’s the truth nobody wants to admit.
+
+Prefer:
+> Here is the part that gets missed: detectors are unreliable, but generic writing patterns are still worth editing.
+
+Rule:
+Do not use secrecy language when precision is stronger.
+
+---
+
+## YT-087 — Opinion without example
+
+Avoid:
+> LinkedIn writing has become unbearable.
+
+Prefer:
+> The pattern I see most often is a tiny work story stretched into a universal leadership lesson.
+
+Rule:
+Opinions need examples.
+
+---
+
+## YT-088 — Commentary ending as rant
+
+Avoid:
+> So yeah, everything is broken and people need to wake up.
+
+Prefer:
+> The fix is not complicated: say what happened, cut the moral, and stop asking “thoughts?” after every post.
+
+Rule:
+End commentary with a useful position, not exhausted outrage.
+
+---
+
+## Chapter 11 — Shorts, Reels, and Short-Form Video
+
+## YT-089 — Short-form overhook
+
+Avoid:
+> Stop scrolling if you want to change your life.
+
+Prefer:
+> Delete this phrase from your next AI draft: “it is worth noting.”
+
+Rule:
+Short-form hooks need immediate specificity.
+
+---
+
+## YT-090 — Too many ideas for one short
+
+Avoid:
+> Here are seven ways to make your writing sound better.
+
+Prefer:
+> One edit: delete the first sentence and see if the paragraph gets stronger.
+
+Rule:
+Short-form content usually needs one idea.
+
+---
+
+## YT-091 — Fake urgency short
+
+Avoid:
+> You need to know this before it’s too late.
+
+Prefer:
+> Check this before sending a client email: is the ask visible before the context?
+
+Rule:
+Make urgency practical.
+
+---
+
+## YT-092 — Short without payoff
+
+Avoid:
+> This changed how I write forever.
+
+Prefer:
+> I stopped starting posts with “I wanted to share” because the sentence almost always delays the point.
+
+Rule:
+Give the viewer the takeaway quickly.
+
+---
+
+## YT-093 — Short-form CTA overload
+
+Avoid:
+> Follow, like, comment, save, share, and send this to a friend.
+
+Prefer:
+> Save this if you edit AI drafts often.
+
+Rule:
+Use one CTA, and make it fit the content.
+
+---
+
+## YT-094 — Caption mismatch
+
+Avoid:
+> Caption: This one simple trick will transform your content.
+
+Prefer:
+> Caption: Delete the throat-clearing sentence first.
+
+Rule:
+Short-form captions should reinforce the exact point.
+
+---
+
+## Chapter 12 — Transcript Cleanup
+
+## YT-095 — Removing all spoken texture
+
+Avoid:
+> Editing transcripts until they read like a formal blog post.
+
+Prefer:
+> Keep light conversational phrasing if it helps the voice, but remove filler that slows comprehension.
+
+Rule:
+Transcript cleanup should clarify speech, not erase the speaker.
+
+---
+
+## YT-096 — Leaving filler untouched
+
+Avoid:
+> So basically, you know, the thing is, like, this is kind of important.
+
+Prefer:
+> The important part is this.
+
+Rule:
+Natural speech can be cleaned without becoming corporate.
+
+---
+
+## YT-097 — Transcript punctuation overload
+
+Avoid:
+> I tested it — and honestly — it worked — but only sometimes.
+
+Prefer:
+> I tested it. It worked, but only sometimes.
+
+Rule:
+Use punctuation to clarify rhythm, not imitate every pause.
+
+---
+
+## YT-098 — Removing useful repetition
+
+Avoid:
+> Cutting every repeated phrase from spoken explanations.
+
+Prefer:
+> Keep repetition when it reinforces the point or sounds natural aloud.
+
+Rule:
+Some repetition belongs in speech.
+
+---
+
+## YT-099 — Transcript summary voice
+
+Avoid:
+> In conclusion, the speaker emphasized the importance of clarity.
+
+Prefer:
+> The point is simple: if the ask is buried, the email fails.
+
+Rule:
+Do not turn transcript edits into third-person summaries unless the deliverable is a summary.
+
+---
+
+## YT-100 — YouTube script editing pass
+
+Use this pass after drafting:
+
+1. Delete the first sentence if it only announces the video.
+2. Replace every hype word with the fact that proves it.
+3. Cut retention phrases that withhold information.
+4. Read every paragraph aloud.
+5. Replace formal transitions with spoken ones.
+6. Add checkpoints to tutorials.
+7. End with the useful action, not the moral.
+
+Rule:
+Edit YouTube scripts by ear and by usefulness.
 
 ---
 
