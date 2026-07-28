@@ -1,6 +1,6 @@
 # Natural Writing Style Guide
 
-**Version:** 1.16
+**Version:** 1.25
 
 A living guide for writing clear, natural, factual, conversational, professional content across platforms.
 
@@ -13,6 +13,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 ---
 
 # Change Log
+
+## 1.25
+
+- Expanded the Corporate AI Speak Dictionary with entries for AI-era business fog, people language, finance language, vendor claims, and security/compliance wording.
+
+---
 
 ## 1.24
 
@@ -2617,6 +2623,544 @@ When editing meeting or slide language, ask:
 
 Rule:
 Meeting language should reduce ambiguity before people leave the room.
+
+---
+
+## Chapter 8 — AI-Era Business Fog
+
+These phrases show up heavily in AI-written business copy, SaaS pages, LinkedIn posts, sales decks, and internal strategy notes. The issue is not that the topics are fake. AI, automation, workflows, and data are real. The issue is that the wording often makes ordinary software sound larger, smarter, or more proven than it is.
+
+## C-181 — AI-powered
+
+Avoid:
+> Our AI-powered platform helps teams work smarter.
+
+Prefer:
+> The tool summarizes support tickets and suggests replies.
+
+Rule:
+If you say "AI-powered," immediately explain what the AI does.
+
+---
+
+## C-182 — Intelligent automation
+
+Avoid:
+> We use intelligent automation to streamline operations.
+
+Prefer:
+> The system routes invoices under $5,000 without manual review.
+
+Rule:
+Automation sounds more credible when you name the task it removes.
+
+---
+
+## C-183 — Smart workflows
+
+Avoid:
+> Our smart workflows improve team productivity.
+
+Prefer:
+> The workflow assigns each request to the right team based on the form response.
+
+Rule:
+"Smart" should be replaced with the rule, trigger, or behavior that makes it useful.
+
+---
+
+## C-184 — Personalized experiences
+
+Avoid:
+> We deliver personalized experiences at scale.
+
+Prefer:
+> Returning users see recommendations based on their last three purchases.
+
+Rule:
+Personalization needs a data source and a visible result.
+
+---
+
+## C-185 — Predictive insights
+
+Avoid:
+> The dashboard provides predictive insights.
+
+Prefer:
+> The dashboard flags accounts likely to miss renewal based on login frequency and support tickets.
+
+Rule:
+Say what is being predicted and what signal supports the prediction.
+
+---
+
+## C-186 — Actionable intelligence
+
+Avoid:
+> Leaders need actionable intelligence to make better decisions.
+
+Prefer:
+> The report shows which stores missed inventory targets and why.
+
+Rule:
+"Actionable intelligence" usually means "information someone can use." Say what action it supports.
+
+---
+
+## C-187 — Data-backed
+
+Avoid:
+> We made a data-backed decision.
+
+Prefer:
+> We chose the shorter onboarding flow after 62% of users abandoned step four.
+
+Rule:
+If data matters, include the data.
+
+---
+
+## C-188 — Real-time visibility
+
+Avoid:
+> The platform provides real-time visibility into operations.
+
+Prefer:
+> Managers can see open orders, delayed shipments, and staffing gaps as they happen.
+
+Rule:
+Name what becomes visible.
+
+---
+
+## C-189 — Seamless integration
+
+Avoid:
+> The product offers seamless integration with your existing systems.
+
+Prefer:
+> The product connects to QuickBooks, Salesforce, and HubSpot through native integrations.
+
+Rule:
+"Seamless" is a claim. The connection method is the information.
+
+---
+
+## C-190 — Future-ready
+
+Avoid:
+> We are building a future-ready organization.
+
+Prefer:
+> We moved customer records into one system so new locations can use the same process.
+
+Rule:
+"Future-ready" usually hides a current operational change.
+
+---
+
+## Chapter 9 — People, Culture, and Hiring Fog
+
+People language can sound especially artificial because it often avoids naming real tension. Good workplace writing can still be respectful and professional without sounding like a values poster.
+
+## C-191 — Empower employees
+
+Avoid:
+> We empower employees to do their best work.
+
+Prefer:
+> Employees can approve refunds up to $250 without manager approval.
+
+Rule:
+Empowerment means someone has authority, resources, or permission. Name which one.
+
+---
+
+## C-192 — Foster collaboration
+
+Avoid:
+> We foster collaboration across teams.
+
+Prefer:
+> Product, support, and sales review customer complaints together every Friday.
+
+Rule:
+Collaboration is a behavior, not a value statement.
+
+---
+
+## C-193 — Inclusive culture
+
+Avoid:
+> We are committed to building an inclusive culture.
+
+Prefer:
+> Interview panels include employees from at least two departments, and all candidates receive the same scoring rubric.
+
+Rule:
+Culture claims are stronger when tied to a practice.
+
+---
+
+## C-194 — Talent strategy
+
+Avoid:
+> We are refining our talent strategy.
+
+Prefer:
+> We are hiring two account managers and moving onboarding into the operations team.
+
+Rule:
+Translate "talent strategy" into hiring, training, retention, or role design.
+
+---
+
+## C-195 — People-first
+
+Avoid:
+> We take a people-first approach.
+
+Prefer:
+> We added two paid mental health days and moved the weekly staff meeting away from Friday afternoons.
+
+Rule:
+People-first language should point to a decision that cost the company something.
+
+---
+
+## C-196 — Employee engagement
+
+Avoid:
+> We are improving employee engagement.
+
+Prefer:
+> Survey participation rose from 41% to 73% after managers shared action plans with their teams.
+
+Rule:
+If engagement is measured, show the measure. If it is not measured, describe the behavior.
+
+---
+
+## C-197 — High-performing team
+
+Avoid:
+> We are building a high-performing team.
+
+Prefer:
+> The support team closed 92% of tickets within one business day last quarter.
+
+Rule:
+Performance needs evidence.
+
+---
+
+## C-198 — Growth mindset
+
+Avoid:
+> We encourage a growth mindset.
+
+Prefer:
+> Engineers present one failed experiment each month and what they changed afterward.
+
+Rule:
+Use "growth mindset" only if the writing explains how learning shows up in practice.
+
+---
+
+## C-199 — Culture of accountability
+
+Avoid:
+> We are creating a culture of accountability.
+
+Prefer:
+> Each project now has one owner, one due date, and a weekly status note.
+
+Rule:
+Accountability means ownership is visible before something goes wrong.
+
+---
+
+## C-200 — Employee experience
+
+Avoid:
+> We are enhancing the employee experience.
+
+Prefer:
+> New hires now receive equipment before their start date and meet their manager on day one.
+
+Rule:
+Say which part of work got easier, clearer, or less frustrating.
+
+---
+
+## Chapter 10 — Finance, Performance, and Investor Fog
+
+Finance language should stay precise. The problem is not financial terminology. The problem is using finance-sounding language to avoid naming the number, risk, cost, or assumption.
+
+## C-201 — Drive revenue growth
+
+Avoid:
+> We are focused on driving revenue growth.
+
+Prefer:
+> We expect revenue to grow by adding two enterprise customers per quarter.
+
+Rule:
+Name the growth lever.
+
+---
+
+## C-202 — Improve margins
+
+Avoid:
+> We are improving margins through operational discipline.
+
+Prefer:
+> Gross margin improved after shipping costs fell by 11%.
+
+Rule:
+Margin claims need the cost driver or revenue change behind them.
+
+---
+
+## C-203 — Optimize spend
+
+Avoid:
+> We are optimizing spend across the organization.
+
+Prefer:
+> We canceled unused software licenses and reduced monthly SaaS costs by $18,400.
+
+Rule:
+Spend optimization should identify what was reduced, renegotiated, delayed, or cut.
+
+---
+
+## C-204 — Capital efficient
+
+Avoid:
+> We are building a capital-efficient business.
+
+Prefer:
+> The company reached profitability without raising another round.
+
+Rule:
+Capital efficiency needs context: burn rate, profitability, funding, or return.
+
+---
+
+## C-205 — Unlock shareholder value
+
+Avoid:
+> This initiative will unlock shareholder value.
+
+Prefer:
+> The divestiture will reduce debt and let the company focus on its core product line.
+
+Rule:
+Investor language should explain the financial mechanism, not just the desired outcome.
+
+---
+
+## C-206 — Value creation plan
+
+Avoid:
+> We developed a value creation plan.
+
+Prefer:
+> The plan raises prices on legacy contracts, reduces churn, and closes two underused offices.
+
+Rule:
+Value creation means revenue goes up, costs go down, risk falls, or cash flow improves.
+
+---
+
+## C-207 — Strong fundamentals
+
+Avoid:
+> The business has strong fundamentals.
+
+Prefer:
+> The business has 84% recurring revenue, 91% gross retention, and positive cash flow.
+
+Rule:
+Use the actual indicators.
+
+---
+
+## C-208 — Healthy pipeline
+
+Avoid:
+> We have a healthy pipeline.
+
+Prefer:
+> We have $4.2 million in qualified opportunities expected to close this quarter.
+
+Rule:
+Pipeline claims should include stage, size, timing, or qualification.
+
+---
+
+## C-209 — Operational discipline
+
+Avoid:
+> We are maintaining operational discipline.
+
+Prefer:
+> Department heads now review expenses above $10,000 before purchase orders are approved.
+
+Rule:
+Discipline is a process or constraint. Name it.
+
+---
+
+## C-210 — Financial flexibility
+
+Avoid:
+> The company maintains financial flexibility.
+
+Prefer:
+> The company has $12 million in cash and no debt due before 2029.
+
+Rule:
+Financial flexibility should be tied to cash, debt, borrowing capacity, or timing.
+
+---
+
+## Chapter 11 — Vendor, Security, and Compliance Fog
+
+Security and compliance writing often becomes inflated because companies want to sound trustworthy without giving useful details. Keep the technical terms when they are accurate. Remove the trust theater.
+
+## C-211 — Enterprise-grade
+
+Avoid:
+> We provide enterprise-grade security.
+
+Prefer:
+> We support SSO, role-based access, audit logs, and SOC 2 Type II reporting.
+
+Rule:
+"Enterprise-grade" should be replaced by specific controls or capabilities.
+
+---
+
+## C-212 — Secure by design
+
+Avoid:
+> Our platform is secure by design.
+
+Prefer:
+> Engineers review authentication, permissions, and data retention before each release.
+
+Rule:
+Security claims need a control, review process, or standard.
+
+---
+
+## C-213 — Privacy-first
+
+Avoid:
+> We take a privacy-first approach.
+
+Prefer:
+> We collect only name, email, and billing details, and customers can delete their account data from the admin panel.
+
+Rule:
+Privacy language should describe data collection, retention, access, or deletion.
+
+---
+
+## C-214 — Compliance-ready
+
+Avoid:
+> The system is compliance-ready.
+
+Prefer:
+> The system exports audit logs and permission reports for quarterly compliance reviews.
+
+Rule:
+Say which compliance task the product supports.
+
+---
+
+## C-215 — Risk mitigation
+
+Avoid:
+> This solution supports risk mitigation.
+
+Prefer:
+> The approval step prevents payments from being released without a matching invoice.
+
+Rule:
+Name the risk and the control.
+
+---
+
+## C-216 — Trusted partner
+
+Avoid:
+> We are a trusted partner to leading organizations.
+
+Prefer:
+> We manage payroll for 1,200 employers in 14 states.
+
+Rule:
+Trust is earned through evidence, not announced.
+
+---
+
+## C-217 — Proven track record
+
+Avoid:
+> We have a proven track record of delivering results.
+
+Prefer:
+> We completed 37 ERP migrations last year, and 34 went live within the planned window.
+
+Rule:
+"Proven" needs proof.
+
+---
+
+## C-218 — Best-in-class support
+
+Avoid:
+> We offer best-in-class support.
+
+Prefer:
+> Support answers 90% of tickets within four business hours.
+
+Rule:
+Support claims should include availability, response time, channel, or resolution data.
+
+---
+
+## C-219 — White-glove service
+
+Avoid:
+> Clients receive white-glove service from our team.
+
+Prefer:
+> Each client gets one implementation manager and a weekly launch call until go-live.
+
+Rule:
+Describe what the customer receives.
+
+---
+
+## C-220 — Corporate AI dictionary evidence checkpoint
+
+When reviewing business, finance, people, vendor, or compliance language, ask:
+
+1. What evidence supports the claim?
+2. What action, process, or result is being hidden by the phrase?
+3. Is the term precise, or is it only signaling professionalism?
+4. Would a reader know what changed after reading the sentence?
+5. Can the sentence survive without the adjective?
+
+Rule:
+Corporate writing should get more concrete as the stakes get higher.
 
 ---
 
