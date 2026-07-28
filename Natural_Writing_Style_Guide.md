@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.22
+
+- Expanded the Corporate AI Speak Dictionary with chapter-style structure and additional entries for executive fog, planning language, and vague business claims.
+
+---
+
 ## 1.21
 
 - Added a second LinkedIn Pattern Library expansion covering sales posts, recruiter language, company updates, thought leadership, and platform formatting habits.
@@ -231,6 +237,8 @@ Bad corporate fog:
 ---
 
 # Corporate AI Speak Dictionary
+
+## Chapter 1 — Core Vague Words and Business Fog
 
 ## C-001 — Leverage
 
@@ -1034,6 +1042,517 @@ Prefer:
 
 Rule:
 This phrase usually adds vagueness and false gravity. Say the conclusion directly.
+
+---
+
+## Chapter 2 — Executive Fog and Planning Language
+
+## C-062 — Strategic roadmap
+
+Avoid:
+> We need a strategic roadmap for transformation.
+
+Prefer:
+> We need a 90-day plan with owners, deadlines, budget, and the first three workflows to fix.
+
+Rule:
+Roadmaps should name sequence, ownership, and timing.
+
+---
+
+## C-063 — Transformational outcomes
+
+Avoid:
+> This initiative will create transformational outcomes.
+
+Prefer:
+> This should reduce approval turnaround from five days to two.
+
+Rule:
+If the outcome is transformational, the result should be visible without the adjective.
+
+---
+
+## C-064 — Strategic initiative
+
+Avoid:
+> We launched a strategic initiative to improve operations.
+
+Prefer:
+> We started a project to reduce late invoices and duplicate approvals.
+
+Rule:
+Name the business problem instead of labeling the work strategic.
+
+---
+
+## C-065 — Key priorities
+
+Avoid:
+> We need to align on key priorities.
+
+Prefer:
+> We need to decide whether cost reduction or faster onboarding matters more this quarter.
+
+Rule:
+Priorities only become useful when they force a choice.
+
+---
+
+## C-066 — Mission-critical
+
+Avoid:
+> This is a mission-critical workflow.
+
+Prefer:
+> If this workflow fails, customers cannot receive quotes on time.
+
+Rule:
+Explain the consequence of failure.
+
+---
+
+## C-067 — Business-critical
+
+Avoid:
+> This is business-critical.
+
+Prefer:
+> This affects renewal timing, invoice accuracy, and support workload.
+
+Rule:
+Business-critical should point to specific business consequences.
+
+---
+
+## C-068 — Drive impact
+
+Avoid:
+> This program will drive impact across the organization.
+
+Prefer:
+> This program should reduce duplicate data entry for sales and finance.
+
+Rule:
+Name the impact and who feels it.
+
+---
+
+## C-069 — Create impact
+
+Avoid:
+> We want to create meaningful impact.
+
+Prefer:
+> We want support tickets answered the same business day.
+
+Rule:
+Impact language needs a visible change.
+
+---
+
+## C-070 — Meaningful value
+
+Avoid:
+> This delivers meaningful value to customers.
+
+Prefer:
+> Customers can download the approval record without asking support.
+
+Rule:
+Value is meaningful only when the reader can see what changed.
+
+---
+
+## C-071 — Customer-centric
+
+Avoid:
+> We take a customer-centric approach.
+
+Prefer:
+> We changed the export format after customers said PDF reports slowed audits down.
+
+Rule:
+Customer focus should show up in decisions.
+
+---
+
+## C-072 — People-first
+
+Avoid:
+> We are a people-first organization.
+
+Prefer:
+> We publish schedules two weeks in advance and do not assign weekend work without approval.
+
+Rule:
+Values become credible when they describe behavior.
+
+---
+
+## C-073 — Data-driven
+
+Avoid:
+> We are a data-driven team.
+
+Prefer:
+> We review renewal rate, support volume, and onboarding time every Monday before changing priorities.
+
+Rule:
+Data-driven means data changes decisions.
+
+---
+
+## C-074 — Insights-driven
+
+Avoid:
+> Our approach is insights-driven.
+
+Prefer:
+> We interviewed ten customers and changed onboarding after eight said setup took too long.
+
+Rule:
+Say where the insight came from and what changed.
+
+---
+
+## C-075 — Forward-thinking
+
+Avoid:
+> We support forward-thinking organizations.
+
+Prefer:
+> We support teams replacing email approvals with tracked workflows.
+
+Rule:
+Describe the buyer behavior, not the buyer’s self-image.
+
+---
+
+## C-076 — Modernize
+
+Avoid:
+> We need to modernize our processes.
+
+Prefer:
+> We need to stop using shared spreadsheets for approval tracking.
+
+Rule:
+Modernization should name the old process being replaced.
+
+---
+
+## C-077 — Digitize
+
+Avoid:
+> We need to digitize operations.
+
+Prefer:
+> We need customers to submit forms online instead of emailing PDFs.
+
+Rule:
+Digitize is useful only when it names what moves from manual to digital.
+
+---
+
+## C-078 — Streamline
+
+Avoid:
+> We streamlined the workflow.
+
+Prefer:
+> We removed manager review for requests under $100.
+
+Rule:
+Say what step disappeared or became faster.
+
+---
+
+## C-079 — Enhance
+
+Avoid:
+> We enhanced the customer experience.
+
+Prefer:
+> Customers can now see order status without contacting support.
+
+Rule:
+Enhance is usually a placeholder for a concrete improvement.
+
+---
+
+## C-080 — Improve
+
+Avoid:
+> We improved communication.
+
+Prefer:
+> We now send one project update every Friday with open decisions and owner names.
+
+Rule:
+“Improve” needs the before and after.
+
+---
+
+## C-081 — Accelerate
+
+Avoid:
+> We accelerated growth.
+
+Prefer:
+> New demo requests increased from 20 per month to 34 after the pricing page rewrite.
+
+Rule:
+Accelerate should include the metric that moved.
+
+---
+
+## C-082 — Enable
+
+Avoid:
+> This enables better collaboration.
+
+Prefer:
+> This lets legal and finance comment on the same request record.
+
+Rule:
+Say what the tool allows someone to do.
+
+---
+
+## C-083 — Facilitate
+
+Avoid:
+> This facilitates stakeholder communication.
+
+Prefer:
+> This gives each reviewer one place to leave comments.
+
+Rule:
+Facilitate is often a slower way to say “help” or “allow.”
+
+---
+
+## C-084 — Support
+
+Avoid:
+> This supports operational excellence.
+
+Prefer:
+> This helps managers find overdue approvals before the weekly review.
+
+Rule:
+Support needs an object, action, or outcome.
+
+---
+
+## C-085 — Manage complexity
+
+Avoid:
+> We help teams manage complexity.
+
+Prefer:
+> We help teams route exceptions without changing the standard approval path.
+
+Rule:
+Complexity should be named.
+
+---
+
+## C-086 — Reduce complexity
+
+Avoid:
+> This reduces complexity across the organization.
+
+Prefer:
+> This replaces six intake forms with one form and two routing rules.
+
+Rule:
+Show what became simpler.
+
+---
+
+## C-087 — Maximize efficiency
+
+Avoid:
+> We help teams maximize efficiency.
+
+Prefer:
+> We cut duplicate data entry between sales and finance.
+
+Rule:
+Efficiency language needs a task that gets faster or disappears.
+
+---
+
+## C-088 — Operational excellence
+
+Avoid:
+> We are pursuing operational excellence.
+
+Prefer:
+> We are reducing late approvals, duplicate entry, and unresolved exceptions.
+
+Rule:
+Operational excellence should translate into operating standards.
+
+---
+
+## C-089 — Excellence
+
+Avoid:
+> We are committed to excellence.
+
+Prefer:
+> We review every failed handoff within one business day.
+
+Rule:
+Commitment words need evidence.
+
+---
+
+## C-090 — Commitment
+
+Avoid:
+> This reflects our commitment to innovation.
+
+Prefer:
+> We shipped this because customers asked for exportable approval history.
+
+Rule:
+Do not describe commitment. Describe the action.
+
+---
+
+## C-091 — Continuous improvement
+
+Avoid:
+> We believe in continuous improvement.
+
+Prefer:
+> Every month we review the three workflows with the most exceptions and remove one cause of delay.
+
+Rule:
+Continuous improvement is a cadence, not a slogan.
+
+---
+
+## C-092 — Best practices
+
+Avoid:
+> We follow industry best practices.
+
+Prefer:
+> We require SSO, audit logs, and least-privilege admin access.
+
+Rule:
+Best practices should be listed or cited.
+
+---
+
+## C-093 — Proven process
+
+Avoid:
+> We use a proven process.
+
+Prefer:
+> We start with one workflow, test it with real requests, then add exceptions after launch.
+
+Rule:
+If the process is proven, explain the process.
+
+---
+
+## C-094 — Methodology
+
+Avoid:
+> Our methodology drives better outcomes.
+
+Prefer:
+> We map the current workflow, identify delays, choose one metric, and test the first change for two weeks.
+
+Rule:
+Methodology should describe steps.
+
+---
+
+## C-095 — Playbook
+
+Avoid:
+> We created a playbook for success.
+
+Prefer:
+> We created a checklist for kickoff, security review, training, and launch.
+
+Rule:
+Call the artifact what it is.
+
+---
+
+## C-096 — Blueprint
+
+Avoid:
+> This is our blueprint for transformation.
+
+Prefer:
+> This is the rollout plan for replacing email approvals with tracked requests.
+
+Rule:
+Blueprint is usually less clear than plan, diagram, checklist, or design.
+
+---
+
+## C-097 — Roadmap to success
+
+Avoid:
+> This is our roadmap to success.
+
+Prefer:
+> This plan defines what ships in July, August, and September.
+
+Rule:
+Roadmaps should show timing and sequence.
+
+---
+
+## C-098 — End-to-end
+
+Avoid:
+> We provide an end-to-end solution.
+
+Prefer:
+> We handle request intake, approval routing, comment history, and export.
+
+Rule:
+End-to-end should name the endpoints.
+
+---
+
+## C-099 — Full-stack
+
+Avoid:
+> We offer a full-stack operating platform.
+
+Prefer:
+> We provide the intake form, approval workflow, reporting dashboard, and API export.
+
+Rule:
+Use full-stack only when the audience knows exactly which layers are included.
+
+---
+
+## C-100 — Corporate AI dictionary checkpoint
+
+When editing corporate language, ask:
+
+1. What action is hidden under the abstract phrase?
+2. Who does the work?
+3. What changes for the customer, team, process, or metric?
+4. Can the sentence survive if the adjective is removed?
+5. Would a specific noun or verb make the sentence clearer?
+
+Rule:
+Corporate AI language usually fails because it sounds complete before it communicates anything.
 
 ---
 
