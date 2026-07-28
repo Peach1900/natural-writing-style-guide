@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.23
+
+- Expanded the Corporate AI Speak Dictionary with entries for measurement fog, customer language, internal updates, and vague performance claims.
+
+---
+
 ## 1.22
 
 - Expanded the Corporate AI Speak Dictionary with chapter-style structure and additional entries for executive fog, planning language, and vague business claims.
@@ -1553,6 +1559,532 @@ When editing corporate language, ask:
 
 Rule:
 Corporate AI language usually fails because it sounds complete before it communicates anything.
+
+---
+
+## Chapter 3 — Measurement Fog and Performance Claims
+
+## C-101 — Metrics that matter
+
+Avoid:
+> We focus on metrics that matter.
+
+Prefer:
+> We track renewal rate, onboarding time, and support tickets per customer.
+
+Rule:
+Name the metrics.
+
+---
+
+## C-102 — Success metrics
+
+Avoid:
+> We need clearer success metrics.
+
+Prefer:
+> We need to decide whether success means faster approvals, fewer exceptions, or lower support volume.
+
+Rule:
+Success metrics require a definition of success.
+
+---
+
+## C-103 — KPI alignment
+
+Avoid:
+> We need KPI alignment across teams.
+
+Prefer:
+> Sales and finance need to agree whether quote turnaround or invoice accuracy is the priority.
+
+Rule:
+Translate KPI alignment into the actual metric conflict.
+
+---
+
+## C-104 — Leading indicators
+
+Avoid:
+> We need to monitor leading indicators.
+
+Prefer:
+> We need to watch demo requests, trial activation, and week-one support tickets before renewals move.
+
+Rule:
+If you use a measurement term, name the signals.
+
+---
+
+## C-105 — Lagging indicators
+
+Avoid:
+> Revenue is a lagging indicator.
+
+Prefer:
+> Revenue shows the result later; demo quality and trial activation show the problem earlier.
+
+Rule:
+Explain the timing if the audience may not use the term daily.
+
+---
+
+## C-106 — Performance improvement
+
+Avoid:
+> We need performance improvement across the team.
+
+Prefer:
+> We need support replies under two business hours during launch week.
+
+Rule:
+Performance improvement needs a standard.
+
+---
+
+## C-107 — Increase productivity
+
+Avoid:
+> This will increase productivity.
+
+Prefer:
+> This removes the weekly spreadsheet rebuild.
+
+Rule:
+Productivity claims need a task that changes.
+
+---
+
+## C-108 — Reduce inefficiencies
+
+Avoid:
+> We need to reduce inefficiencies.
+
+Prefer:
+> We need to stop entering the same vendor data in both Salesforce and NetSuite.
+
+Rule:
+Name the inefficient behavior.
+
+---
+
+## C-109 — Improve throughput
+
+Avoid:
+> This improves throughput.
+
+Prefer:
+> Reviewers can approve 40 requests a day instead of 25.
+
+Rule:
+Throughput should include volume and unit.
+
+---
+
+## C-110 — Increase velocity
+
+Avoid:
+> We need to increase team velocity.
+
+Prefer:
+> We need to ship the reporting fix this sprint instead of carrying it into next month.
+
+Rule:
+Use velocity only when it is an actual team metric. Otherwise say what needs to move faster.
+
+---
+
+## C-111 — Optimize performance
+
+Avoid:
+> We optimized performance.
+
+Prefer:
+> The report now loads in three seconds instead of eleven.
+
+Rule:
+Performance claims need a before and after.
+
+---
+
+## C-112 — Improve quality
+
+Avoid:
+> We improved quality.
+
+Prefer:
+> We reduced invoice corrections from 14 last month to 5 this month.
+
+Rule:
+Quality needs a defect, standard, or observable change.
+
+---
+
+## C-113 — Reduce risk
+
+Avoid:
+> This reduces operational risk.
+
+Prefer:
+> This prevents payment changes from being approved without a finance reviewer.
+
+Rule:
+Name the risk and how it is controlled.
+
+---
+
+## C-114 — Mitigate risk
+
+Avoid:
+> We need to mitigate risk.
+
+Prefer:
+> We need legal review for vendor contracts above $50,000.
+
+Rule:
+Mitigation should describe the control.
+
+---
+
+## C-115 — Compliance posture
+
+Avoid:
+> This strengthens our compliance posture.
+
+Prefer:
+> This creates an audit log for every approval and export.
+
+Rule:
+Compliance language should identify the record, control, or requirement.
+
+---
+
+## C-116 — Governance model
+
+Avoid:
+> We need a governance model.
+
+Prefer:
+> We need to define who can approve exceptions, who reviews changes, and who owns the policy.
+
+Rule:
+Governance is decision rights and review cadence.
+
+---
+
+## C-117 — Control environment
+
+Avoid:
+> This improves the control environment.
+
+Prefer:
+> This separates request creation from payment approval.
+
+Rule:
+Controls should name who can and cannot do what.
+
+---
+
+## C-118 — Audit readiness
+
+Avoid:
+> We support audit readiness.
+
+Prefer:
+> Teams can export approval history with comments, timestamps, owners, and final status.
+
+Rule:
+Audit readiness means records can be found and trusted.
+
+---
+
+## C-119 — Single source of truth
+
+Avoid:
+> This creates a single source of truth.
+
+Prefer:
+> This keeps the request, approval, comments, and final decision in one record.
+
+Rule:
+Name the data that will live in one place.
+
+---
+
+## C-120 — Source of record
+
+Avoid:
+> This becomes the source of record.
+
+Prefer:
+> Finance will use this approval record when reconciling payment changes.
+
+Rule:
+Say who relies on the record and for what decision.
+
+---
+
+## Chapter 4 — Customer Language and Experience Fog
+
+## C-121 — Customer experience
+
+Avoid:
+> We improved the customer experience.
+
+Prefer:
+> Customers can now see delivery status without opening a support ticket.
+
+Rule:
+Customer experience should describe what the customer can do or avoid.
+
+---
+
+## C-122 — Delight customers
+
+Avoid:
+> We want to delight customers.
+
+Prefer:
+> We want customers to finish setup without contacting support.
+
+Rule:
+Delight is usually not the goal. Reduced friction is.
+
+---
+
+## C-123 — Customer success
+
+Avoid:
+> This accelerates customer success.
+
+Prefer:
+> Customers reach their first completed workflow during the first onboarding call.
+
+Rule:
+Customer success needs a customer milestone.
+
+---
+
+## C-124 — Customer value
+
+Avoid:
+> This delivers customer value.
+
+Prefer:
+> Customers spend less time asking who approved the request.
+
+Rule:
+Value should be described from the customer’s side.
+
+---
+
+## C-125 — Voice of the customer
+
+Avoid:
+> We incorporated voice of the customer.
+
+Prefer:
+> Eight customers asked for CSV exports, so we added them before dashboard filters.
+
+Rule:
+Customer input is stronger when it changes priority.
+
+---
+
+## C-126 — Customer needs
+
+Avoid:
+> We are focused on evolving customer needs.
+
+Prefer:
+> Customers need audit exports before year-end review.
+
+Rule:
+Name the need and the timing.
+
+---
+
+## C-127 — Customer pain points
+
+Avoid:
+> We solve customer pain points.
+
+Prefer:
+> We help customers stop forwarding approval emails to prove who signed off.
+
+Rule:
+Pain points should sound like actual pain.
+
+---
+
+## C-128 — User-friendly
+
+Avoid:
+> The interface is user-friendly.
+
+Prefer:
+> New users can submit a request without training.
+
+Rule:
+User-friendly needs evidence from the user’s first task.
+
+---
+
+## C-129 — Intuitive
+
+Avoid:
+> The product is intuitive.
+
+Prefer:
+> Most users find the approval button without onboarding.
+
+Rule:
+If it is intuitive, describe the behavior that proves it.
+
+---
+
+## C-130 — Easy to use
+
+Avoid:
+> The system is easy to use.
+
+Prefer:
+> Admins can create a basic approval rule in under five minutes.
+
+Rule:
+Ease needs a task and time or effort.
+
+---
+
+## Chapter 5 — Internal Updates and Status Fog
+
+## C-131 — Progress update
+
+Avoid:
+> We are making strong progress.
+
+Prefer:
+> Legal approved the draft. Finance is still reviewing payment terms.
+
+Rule:
+Progress means what is done, what is open, and what changed.
+
+---
+
+## C-132 — Moving in the right direction
+
+Avoid:
+> Things are moving in the right direction.
+
+Prefer:
+> Renewal risk dropped after support cleared the two oldest implementation issues.
+
+Rule:
+Direction language needs evidence.
+
+---
+
+## C-133 — On track
+
+Avoid:
+> The project is on track.
+
+Prefer:
+> The project is on track for Friday because testing is complete and only launch approval remains.
+
+Rule:
+On track should include the reason it is on track.
+
+---
+
+## C-134 — At risk
+
+Avoid:
+> The project may be at risk.
+
+Prefer:
+> The project will miss Friday unless security review is complete by Wednesday.
+
+Rule:
+Risk updates need condition and consequence.
+
+---
+
+## C-135 — Blocked
+
+Avoid:
+> We are blocked.
+
+Prefer:
+> We are blocked until Finance approves the payment terms.
+
+Rule:
+Blocked should name the dependency.
+
+---
+
+## C-136 — Dependencies
+
+Avoid:
+> We have several dependencies.
+
+Prefer:
+> Launch depends on legal approval, security review, and training completion.
+
+Rule:
+List dependencies in plain language.
+
+---
+
+## C-137 — Open items
+
+Avoid:
+> There are a few open items.
+
+Prefer:
+> The open items are pricing approval, security response, and final rollout date.
+
+Rule:
+Open items should be named.
+
+---
+
+## C-138 — Next steps
+
+Avoid:
+> We need to align on next steps.
+
+Prefer:
+> Next steps are legal review by Tuesday, finance approval by Thursday, and rollout planning Friday.
+
+Rule:
+Next steps need owner or timing.
+
+---
+
+## C-139 — Action items
+
+Avoid:
+> We captured action items.
+
+Prefer:
+> Maya owns the rollout checklist. Jordan owns the security response. Priya owns pricing approval.
+
+Rule:
+Action items need owners.
+
+---
+
+## C-140 — Follow-up
+
+Avoid:
+> I will follow up soon.
+
+Prefer:
+> I will follow up Thursday after finance reviews the payment terms.
+
+Rule:
+Follow-up should include timing and reason.
 
 ---
 
