@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.17
+
+- Expanded the Sales Writing section with a second pass covering outreach, DMs, discovery, proposals, objections, procurement, renewals, and buyer-safe language.
+
+---
+
 ## 1.16
 
 - Added standalone Common AI Writing Pitfalls, Prompt Library, Pattern Emulation Library, and Human Voice Examples sections.
@@ -2882,6 +2888,595 @@ Prefer:
 
 Rule:
 “Next steps” becomes useful when it turns into a sequence with timing.
+
+---
+
+## S-036 — First sentence that wastes the reader’s attention
+
+Avoid:
+> I wanted to reach out and introduce myself.
+
+Prefer:
+> I’m reaching out because your team is opening three new locations, and that usually creates approval and onboarding strain.
+
+Rule:
+The first sentence should explain why the message exists.
+
+---
+
+## S-037 — Buyer flattery
+
+Avoid:
+> I’ve been following your impressive growth and love what you’re doing in the space.
+
+Prefer:
+> I saw your company expanded into Arizona and Nevada this quarter.
+
+Rule:
+Use observable facts instead of praise.
+
+---
+
+## S-038 — “Companies like yours”
+
+Avoid:
+> We help companies like yours streamline operations.
+
+Prefer:
+> We help multi-location operators track approvals between field teams and central finance.
+
+Rule:
+Define “like yours” by business model, workflow, team structure, or constraint.
+
+---
+
+## S-039 — Pain claim without evidence
+
+Avoid:
+> I know your team is probably struggling with manual workflows.
+
+Prefer:
+> If approvals are still moving through email, there may be extra work in rebuilding status later.
+
+Rule:
+Do not claim to know the buyer’s pain. Name a plausible pattern and let them confirm it.
+
+---
+
+## S-040 — The “quick call” reflex
+
+Avoid:
+> Are you free for a quick call?
+
+Prefer:
+> If approval delays are relevant, I can show the workflow in 15 minutes.
+
+Rule:
+Give the call a purpose before asking for time.
+
+---
+
+## S-041 — Overloaded cold email
+
+Avoid:
+> We help teams increase revenue, reduce costs, improve collaboration, streamline operations, gain visibility, and scale faster.
+
+Prefer:
+> We help teams reduce approval delays on custom quotes.
+
+Rule:
+Cold outreach should usually sell one problem, not the whole company.
+
+---
+
+## S-042 — Weak “value prop” sentence
+
+Avoid:
+> Our platform helps businesses maximize efficiency and drive growth.
+
+Prefer:
+> Reps can send custom quotes faster because approvals no longer sit in email.
+
+Rule:
+Translate value into a specific person doing a specific job with less friction.
+
+---
+
+## S-043 — Too much seller biography
+
+Avoid:
+> I’m an account executive at Acme, where we provide innovative workflow technology for modern organizations.
+
+Prefer:
+> I work with teams that route quote approvals through email and need a cleaner approval record.
+
+Rule:
+Introduce yourself through the buyer problem you handle.
+
+---
+
+## S-044 — Generic “checking in”
+
+Avoid:
+> Just checking in to see where things stand.
+
+Prefer:
+> Checking whether legal review is still the next step or if this is paused for another reason.
+
+Rule:
+Follow-up should reduce ambiguity, not add another vague touchpoint.
+
+---
+
+## S-045 — Passive breakup email
+
+Avoid:
+> I’ll assume this isn’t a priority if I don’t hear back.
+
+Prefer:
+> I’ll close the loop for now. If approval tracking becomes a priority later, this thread has the workflow example.
+
+Rule:
+End respectfully. Do not punish silence.
+
+---
+
+## S-046 — Pushy breakup email
+
+Avoid:
+> I’ve reached out several times and don’t want you to miss this opportunity.
+
+Prefer:
+> I may have timed this wrong. I’ll step back unless approval delays are still worth discussing.
+
+Rule:
+Make it easy for the buyer to disengage without creating friction.
+
+---
+
+## S-047 — Calendar link without context
+
+Avoid:
+> Here’s my calendar. Grab any time that works.
+
+Prefer:
+> If it helps, here’s my calendar for a 15-minute walkthrough of approval routing and audit exports.
+
+Rule:
+A calendar link should describe what the meeting will accomplish.
+
+---
+
+## S-048 — Demo before diagnosis
+
+Avoid:
+> I’d love to show you everything the platform can do.
+
+Prefer:
+> Before showing anything, I’d like to understand where approvals slow down today.
+
+Rule:
+Discovery should shape the demo.
+
+---
+
+## S-049 — Feature tour overload
+
+Avoid:
+> Here are all of our features, including dashboards, automation, permissions, templates, analytics, integrations, and reporting.
+
+Prefer:
+> Based on what you described, I’ll focus on request intake, approval routing, and export history.
+
+Rule:
+Show the features tied to the buyer’s problem first.
+
+---
+
+## S-050 — Demo summary with no decision point
+
+Avoid:
+> Thanks for the great demo. Let me know what you think.
+
+Prefer:
+> The two open questions are whether Legal needs comment history and whether Finance needs CSV exports. I’ll send examples of both.
+
+Rule:
+After a demo, identify the decision points.
+
+---
+
+## S-051 — Objection: “We already have a tool”
+
+Avoid:
+> Our tool is much more powerful than what you’re using now.
+
+Prefer:
+> If your current tool gives you approval history across teams, there may be no gap. The issue we usually solve is when approvals happen in one place and the audit record has to be rebuilt somewhere else.
+
+Rule:
+Do not attack the incumbent. Name the gap.
+
+---
+
+## S-052 — Objection: “No budget”
+
+Avoid:
+> We have flexible pricing options that can fit any budget.
+
+Prefer:
+> If there is no budget this quarter, the useful question is whether the current delays are expensive enough to plan for next quarter.
+
+Rule:
+Budget objections need timing and business impact, not optimism.
+
+---
+
+## S-053 — Objection: “Bad timing”
+
+Avoid:
+> I totally understand, but this is exactly why now is the right time.
+
+Prefer:
+> That makes sense. Is timing bad because the problem is not urgent, or because the team is already committed to other projects?
+
+Rule:
+Timing objections can mean different things. Clarify before responding.
+
+---
+
+## S-054 — Objection: “Send me information”
+
+Avoid:
+> Absolutely, I’ll send over some information and follow up soon.
+
+Prefer:
+> Sure. I’ll send the one-page workflow example. Is the main question approval speed, audit history, or implementation effort?
+
+Rule:
+When sending information, ask which question the information should answer.
+
+---
+
+## S-055 — Objection: “We’re not interested”
+
+Avoid:
+> No worries, but would it be worth a quick conversation anyway?
+
+Prefer:
+> Understood. I’ll close the loop. If approval tracking becomes an issue later, I’m happy to be useful then.
+
+Rule:
+Respect a clear no.
+
+---
+
+## S-056 — Objection: “Too expensive”
+
+Avoid:
+> We’re actually very competitive when you consider the value we provide.
+
+Prefer:
+> The price only makes sense if the current process is costing enough time, delay, or rework to justify changing it.
+
+Rule:
+Do not argue price in the abstract. Tie it to the cost of the problem.
+
+---
+
+## S-057 — Objection: “Need to talk internally”
+
+Avoid:
+> Great, when should I follow up?
+
+Prefer:
+> What question will your team need answered internally: cost, implementation, security, or whether the process needs to change at all?
+
+Rule:
+Internal review needs a known question.
+
+---
+
+## S-058 — Proposal intro
+
+Avoid:
+> We are pleased to present a comprehensive proposal designed to transform your operations.
+
+Prefer:
+> This proposal covers the approval workflow we discussed, implementation scope, pricing, and the two open security questions.
+
+Rule:
+Proposal intros should orient the buyer to what is inside.
+
+---
+
+## S-059 — Proposal executive summary
+
+Avoid:
+> Our solution will empower your team to achieve operational excellence.
+
+Prefer:
+> The main problem is that approval status is rebuilt manually after the fact. The proposed workflow keeps the request, comments, approval, and final decision in one record.
+
+Rule:
+Summaries should restate the problem and proposed fix.
+
+---
+
+## S-060 — Scope language
+
+Avoid:
+> We will support a smooth and seamless implementation.
+
+Prefer:
+> Implementation includes one intake form, two approval paths, admin training, and one post-launch review.
+
+Rule:
+Scope is credible when it names deliverables.
+
+---
+
+## S-061 — Timeline language
+
+Avoid:
+> We can move quickly once everything is aligned.
+
+Prefer:
+> If security review finishes by Friday, implementation can start Monday and the first workflow can launch within two weeks.
+
+Rule:
+Timelines need dependencies.
+
+---
+
+## S-062 — Security response
+
+Avoid:
+> Security is a top priority for us.
+
+Prefer:
+> We support SSO, role-based access, audit logs, and export controls. I’ll send the security packet after this note.
+
+Rule:
+Answer security questions with controls and documents.
+
+---
+
+## S-063 — Legal review follow-up
+
+Avoid:
+> Just checking whether legal has had a chance to review.
+
+Prefer:
+> Checking whether Legal has questions on indemnity, data processing, or renewal terms.
+
+Rule:
+Name the likely legal issues when following up.
+
+---
+
+## S-064 — Procurement stall
+
+Avoid:
+> Is there anything we can do to keep this moving?
+
+Prefer:
+> Is procurement waiting on a vendor form, insurance certificate, security document, or pricing approval?
+
+Rule:
+Make the next blocker easier to identify.
+
+---
+
+## S-065 — Champion enablement
+
+Avoid:
+> Let me know how I can help you sell this internally.
+
+Prefer:
+> I can send a one-page summary showing the current problem, proposed workflow, implementation scope, and pricing drivers.
+
+Rule:
+Help the champion explain the decision, not repeat your pitch.
+
+---
+
+## S-066 — Internal business case
+
+Avoid:
+> This investment will unlock significant value across the organization.
+
+Prefer:
+> The business case is strongest if approval delays are causing missed quote windows, duplicate admin work, or incomplete audit records.
+
+Rule:
+Business cases need cost categories.
+
+---
+
+## S-067 — Champion risk
+
+Avoid:
+> I’m sure your team will see the value once they understand the platform.
+
+Prefer:
+> If your team pushes back, I’d expect the concern to be implementation effort. I can help you show what the first workflow requires.
+
+Rule:
+Prepare for the likely objection.
+
+---
+
+## S-068 — Multi-threading language
+
+Avoid:
+> We should loop in more stakeholders to accelerate the deal.
+
+Prefer:
+> If Finance owns the approval record and Legal owns the review rules, both teams should see the workflow before a decision.
+
+Rule:
+Bring in people because of their role in the decision, not because the seller wants coverage.
+
+---
+
+## S-069 — Executive email
+
+Avoid:
+> I wanted to personally reach out because this strategic initiative can drive meaningful business outcomes.
+
+Prefer:
+> Your team is reviewing approval tracking because quote delays are affecting sales cycle time. The decision seems to depend on implementation effort and audit exports.
+
+Rule:
+Executive emails should be short, specific, and tied to business consequence.
+
+---
+
+## S-070 — CFO-facing language
+
+Avoid:
+> This platform drives efficiency and creates measurable value.
+
+Prefer:
+> The financial case depends on how much admin time is spent rebuilding approval records and how often delayed quotes affect revenue timing.
+
+Rule:
+For finance buyers, connect the problem to cost, risk, or timing.
+
+---
+
+## S-071 — Operations-facing language
+
+Avoid:
+> This gives operations teams the visibility they need to scale.
+
+Prefer:
+> Operations can see every open request, who owns the next approval, and which locations are waiting.
+
+Rule:
+For operations buyers, show control over work in motion.
+
+---
+
+## S-072 — IT-facing language
+
+Avoid:
+> This is easy to deploy and integrates seamlessly.
+
+Prefer:
+> IT would need to confirm SSO, user provisioning, data retention, and whether the ERP integration is required for phase one.
+
+Rule:
+For IT buyers, name the implementation questions.
+
+---
+
+## S-073 — End-user language
+
+Avoid:
+> This empowers users to collaborate more effectively.
+
+Prefer:
+> Requesters can see whether their approval is waiting on a manager, Legal, or Finance.
+
+Rule:
+For end users, explain what changes in the daily workflow.
+
+---
+
+## S-074 — Renewal risk language
+
+Avoid:
+> We want to make sure you continue getting maximum value from the partnership.
+
+Prefer:
+> Usage is down in two departments. Before renewal, we should confirm whether the issue is training, workflow fit, or lack of need.
+
+Rule:
+Renewal conversations should name adoption reality.
+
+---
+
+## S-075 — Expansion pitch
+
+Avoid:
+> There is a huge opportunity to expand value across your organization.
+
+Prefer:
+> The same approval pattern appears in vendor onboarding and budget requests. If the first workflow is working, those may be logical next candidates.
+
+Rule:
+Expansion should follow observed use, not seller ambition.
+
+---
+
+## S-076 — Customer success handoff
+
+Avoid:
+> Our customer success team will ensure a smooth transition.
+
+Prefer:
+> After signature, Maya will own implementation. She’ll confirm the first workflow, admin roles, training date, and launch checklist.
+
+Rule:
+Handoffs should name owner and first actions.
+
+---
+
+## S-077 — Testimonial request
+
+Avoid:
+> We’d love a testimonial about your amazing experience.
+
+Prefer:
+> Would you be open to sharing what changed after moving approvals out of email?
+
+Rule:
+Ask for the specific before-and-after, not praise.
+
+---
+
+## S-078 — Referral ask
+
+Avoid:
+> Do you know anyone else who could benefit from our solution?
+
+Prefer:
+> Do you know another operations or finance lead dealing with approval records across teams?
+
+Rule:
+Referral asks work better when the referral profile is specific.
+
+---
+
+## S-079 — Loss reason note
+
+Avoid:
+> Unfortunately, the prospect did not see enough value.
+
+Prefer:
+> The buyer passed because approval delays are infrequent and the implementation effort was not justified this quarter.
+
+Rule:
+Loss notes should record the real reason, not protect the seller’s feelings.
+
+---
+
+## S-080 — Sales editing checklist
+
+Before sending sales writing, ask:
+
+1. Did I name the buyer’s likely problem without pretending certainty?
+2. Did I replace vague value language with a workflow, metric, or consequence?
+3. Did I ask for a specific next step?
+4. Did I remove fake urgency, fake scarcity, and fake personalization?
+5. Did I make it easy for the buyer to say no if there is no fit?
+6. Did I tie proof to comparable customers, real outcomes, or visible process?
+7. Did I write like a useful professional, not a quota-bearing brochure?
+
+Rule:
+Good sales writing lowers the buyer’s effort to understand fit.
 
 ---
 
