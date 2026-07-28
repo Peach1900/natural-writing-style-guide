@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.21
+
+- Added a second LinkedIn Pattern Library expansion covering sales posts, recruiter language, company updates, thought leadership, and platform formatting habits.
+
+---
+
 ## 1.20
 
 - Expanded the LinkedIn Pattern Library into chapter-style sections and added entries for hooks, story templates, fake vulnerability, executive posts, founder posts, and engagement bait.
@@ -2195,6 +2201,510 @@ Before posting, ask:
 
 Rule:
 A useful LinkedIn post should teach the reader what you noticed, not perform the fact that you noticed something.
+
+---
+
+## Chapter 6 — LinkedIn Sales Posts
+
+## LI-061 — Product pitch disguised as reflection
+
+Avoid:
+> I was reflecting today on how many teams still struggle with outdated processes. That’s why we built our platform.
+
+Prefer:
+> I keep seeing the same approval problem: teams approve work in email, then rebuild the record later for finance.
+
+Rule:
+If the post is selling, start with a real observation before mentioning the product.
+
+---
+
+## LI-062 — “DM me” pitch
+
+Avoid:
+> DM me “growth” and I’ll show you how to unlock your next level.
+
+Prefer:
+> If quote approvals are slowing deals down, I can send the workflow example we use with sales teams.
+
+Rule:
+Replace coded engagement prompts with a clear reason to reach out.
+
+---
+
+## LI-063 — Founder sales lesson
+
+Avoid:
+> Building this company taught me that customers want transformation.
+
+Prefer:
+> Customers kept asking the same question: where did the approval get stuck?
+
+Rule:
+Founder sales posts should begin with customer language.
+
+---
+
+## LI-064 — Customer pain without specificity
+
+Avoid:
+> Our customers are tired of inefficient workflows.
+
+Prefer:
+> Customers were forwarding approval emails just to prove who signed off.
+
+Rule:
+Pain becomes credible when it sounds like something a customer would actually say.
+
+---
+
+## LI-065 — Before/after with no before
+
+Avoid:
+> After using our product, teams become more efficient and aligned.
+
+Prefer:
+> Before, approval status lived in email. After, every request had an owner, timestamp, comment history, and final decision.
+
+Rule:
+Before/after posts need both sides.
+
+---
+
+## LI-066 — Social proof brag
+
+Avoid:
+> Proud to work with some of the most innovative companies in the world.
+
+Prefer:
+> We now support eight multi-location operators that need approval history across finance and field teams.
+
+Rule:
+Social proof should help readers understand fit, not just status.
+
+---
+
+## LI-067 — Sales CTA at the wrong moment
+
+Avoid:
+> Book a demo today and transform your workflow.
+
+Prefer:
+> If this sounds familiar, the first thing I’d check is where approval status gets rebuilt manually.
+
+Rule:
+In a post, earn the CTA by giving the reader a useful diagnostic first.
+
+---
+
+## LI-068 — “Problem-aware” post that still sounds generic
+
+Avoid:
+> Most teams struggle with inefficiency, lack of visibility, and poor collaboration.
+
+Prefer:
+> Most teams do not know approvals are broken until someone asks for a record and no one can find it.
+
+Rule:
+Name the moment the problem becomes visible.
+
+---
+
+## LI-069 — Sales post checklist
+
+Before posting a sales-oriented LinkedIn post, ask:
+
+1. Does the post contain a real customer observation?
+2. Did I delay the product pitch until after the problem is clear?
+3. Did I remove “transform,” “unlock,” “scale,” and “streamline” unless I proved them?
+4. Is the CTA proportional to the value in the post?
+5. Would this still be useful if the reader never booked a call?
+
+Rule:
+The post should be useful before it is promotional.
+
+---
+
+## Chapter 7 — Recruiter and Hiring Language
+
+## LI-070 — “Rockstar” hiring language
+
+Avoid:
+> We’re looking for a rockstar who thrives in a fast-paced environment.
+
+Prefer:
+> We’re hiring someone who can manage customer onboarding plans, keep timelines current, and communicate delays early.
+
+Rule:
+Describe the job, not the personality fantasy.
+
+---
+
+## LI-071 — Culture cliché
+
+Avoid:
+> Join a passionate, mission-driven team changing the future.
+
+Prefer:
+> Join a team that ships weekly, writes decisions down, and expects customer issues to be visible early.
+
+Rule:
+Culture is clearer when it shows routines.
+
+---
+
+## LI-072 — Candidate praise fog
+
+Avoid:
+> We’re seeking exceptional talent ready to make an impact.
+
+Prefer:
+> We’re looking for a support lead who can reduce first-response time without burning out the team.
+
+Rule:
+Hiring posts should define the actual impact.
+
+---
+
+## LI-073 — “Exciting opportunity”
+
+Avoid:
+> This is an exciting opportunity to join a growing organization.
+
+Prefer:
+> This role owns implementation for customers moving approvals out of email.
+
+Rule:
+The opportunity should be visible in the work.
+
+---
+
+## LI-074 — Job post with no tradeoff
+
+Avoid:
+> This role is perfect for someone who wants ownership, growth, and impact.
+
+Prefer:
+> This role has ownership, but it also has messy handoffs, demanding customers, and deadlines that change.
+
+Rule:
+Good hiring writing names the hard parts.
+
+---
+
+## LI-075 — Layoff announcement euphemism
+
+Avoid:
+> We made the difficult decision to right-size the organization.
+
+Prefer:
+> We eliminated 12 roles after revenue came in below plan.
+
+Rule:
+Use plain language for hard news. Do not hide people behind corporate phrasing.
+
+---
+
+## LI-076 — Hiring milestone post
+
+Avoid:
+> I’m thrilled to announce we’re expanding our world-class team.
+
+Prefer:
+> We hired two implementation managers because onboarding volume doubled this quarter.
+
+Rule:
+Connect hiring news to the work changing.
+
+---
+
+## Chapter 8 — Thought Leadership That Actually Says Something
+
+## LI-077 — Category sermon
+
+Avoid:
+> The future belongs to companies that embrace innovation.
+
+Prefer:
+> The teams that improve fastest are usually the ones that write down small process failures before they become permanent.
+
+Rule:
+Thought leadership should include a testable observation.
+
+---
+
+## LI-078 — Framework without use
+
+Avoid:
+> My 3-part leadership framework: clarity, courage, consistency.
+
+Prefer:
+> Before a project starts, answer three questions: who decides, what counts as done, and where changes get recorded.
+
+Rule:
+Frameworks should help someone do something.
+
+---
+
+## LI-079 — “The future of work”
+
+Avoid:
+> The future of work is human-centered, flexible, and powered by innovation.
+
+Prefer:
+> Remote work breaks down fastest when decisions stay in meeting notes instead of shared records.
+
+Rule:
+Talk about the work, not the phrase “future of work.”
+
+---
+
+## LI-080 — Advice without scope
+
+Avoid:
+> Always trust your team.
+
+Prefer:
+> Trust your team with decisions when the risk is reversible and the owner is clear.
+
+Rule:
+Advice gets stronger when it names when it applies.
+
+---
+
+## LI-081 — Leadership abstraction stack
+
+Avoid:
+> Leadership is about vision, empathy, resilience, courage, humility, and impact.
+
+Prefer:
+> Leadership often comes down to making the tradeoff clear before the team starts executing.
+
+Rule:
+Pick the one behavior that matters most.
+
+---
+
+## LI-082 — “Lessons from X” post
+
+Avoid:
+> 10 lessons from 10 years in business.
+
+Prefer:
+> The lesson I keep relearning: a process is not real until someone owns the exception.
+
+Rule:
+One remembered lesson is usually stronger than a numbered content package.
+
+---
+
+## Chapter 9 — Company Updates and Announcements
+
+## LI-083 — Milestone without meaning
+
+Avoid:
+> We hit an incredible milestone today.
+
+Prefer:
+> We processed our 10,000th approval request today. The useful part is what changed after the first 1,000: customers needed better exports, not more dashboard charts.
+
+Rule:
+Explain why the milestone teaches something.
+
+---
+
+## LI-084 — Partnership announcement fog
+
+Avoid:
+> We’re excited to partner with a leading innovator to drive value for customers.
+
+Prefer:
+> We partnered with a migration firm so customers can move vendor data into the new workflow without rebuilding records by hand.
+
+Rule:
+Partnership posts should say what customers can now do.
+
+---
+
+## LI-085 — Award announcement
+
+Avoid:
+> Honored and humbled to be recognized for excellence and innovation.
+
+Prefer:
+> We were recognized for reducing customer onboarding time. The work behind it was less glamorous: clearer templates, better training, and fewer handoffs.
+
+Rule:
+If you post recognition, name the work behind it.
+
+---
+
+## LI-086 — Event recap
+
+Avoid:
+> Amazing energy at the conference this week. So many inspiring conversations.
+
+Prefer:
+> The same question came up in three conference conversations: how do teams keep approval records clean when Legal and Finance both touch them?
+
+Rule:
+Event recaps should include what you heard or learned.
+
+---
+
+## LI-087 — Podcast appearance
+
+Avoid:
+> I had an amazing conversation about leadership, innovation, and growth.
+
+Prefer:
+> We talked about why process problems often look like people problems until you map the handoff.
+
+Rule:
+Tell readers the actual idea discussed.
+
+---
+
+## LI-088 — Newsletter promo
+
+Avoid:
+> Subscribe to my newsletter for actionable insights every week.
+
+Prefer:
+> This week’s newsletter breaks down five phrases that make business writing sound inflated.
+
+Rule:
+Promote the specific issue, not the generic benefit.
+
+---
+
+## Chapter 10 — Formatting Habits
+
+## LI-089 — One-line paragraph overload
+
+Avoid:
+> Every.
+>
+> Sentence.
+>
+> Gets.
+>
+> Its.
+>
+> Own.
+>
+> Line.
+
+Prefer:
+> Use line breaks to separate ideas, not to manufacture drama.
+
+Rule:
+LinkedIn formatting should improve reading, not imitate suspense.
+
+---
+
+## LI-090 — Bold claim every three lines
+
+Avoid:
+> The problem is not strategy.
+>
+> The problem is execution.
+>
+> The problem is leadership.
+
+Prefer:
+> The problem is usually simpler: no one owns the handoff.
+
+Rule:
+Repetition works only when the idea earns it.
+
+---
+
+## LI-091 — Emoji as structure
+
+Avoid:
+> 🚀 Growth
+> 💡 Innovation
+> 🔥 Impact
+
+Prefer:
+> Use headings or plain bullets when the structure matters.
+
+Rule:
+Emoji should not carry the argument.
+
+---
+
+## LI-092 — Hashtag stuffing
+
+Avoid:
+> #leadership #growth #innovation #success #mindset #futureofwork
+
+Prefer:
+> Use one or two tags only if they help categorize the post.
+
+Rule:
+Hashtags do not fix vague writing.
+
+---
+
+## LI-093 — Screenshot without context
+
+Avoid:
+> Posting a screenshot with “This says it all.”
+
+Prefer:
+> Explain what the screenshot shows, why it matters, and what changed because of it.
+
+Rule:
+Do not make the reader infer the point.
+
+---
+
+## LI-094 — Carousel filler
+
+Avoid:
+> Slide 1: The secret to growth
+> Slide 2: Mindset
+> Slide 3: Consistency
+
+Prefer:
+> Slide 1: The problem
+> Slide 2: The example
+> Slide 3: The decision
+> Slide 4: The practical test
+
+Rule:
+Carousels need progression, not slogans.
+
+---
+
+## LI-095 — Poll with no point
+
+Avoid:
+> What matters most: leadership, culture, strategy, or execution?
+
+Prefer:
+> If your approval process stalls, where does it usually happen: manager review, legal review, finance review, or unclear ownership?
+
+Rule:
+Polls should produce information you can use.
+
+---
+
+## LI-096 — LinkedIn formatting checklist
+
+Before publishing, ask:
+
+1. Do line breaks improve readability?
+2. Did I avoid making every sentence a dramatic fragment?
+3. Would the post work without emojis?
+4. Did I use hashtags only if they help classification?
+5. Does every visual have enough context?
+6. Does the format serve the idea?
+
+Rule:
+Formatting should make the post easier to read, not more obviously “LinkedIn.”
 
 ---
 
