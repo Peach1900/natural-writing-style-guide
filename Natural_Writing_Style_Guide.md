@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.20
+
+- Expanded the LinkedIn Pattern Library into chapter-style sections and added entries for hooks, story templates, fake vulnerability, executive posts, founder posts, and engagement bait.
+
+---
+
 ## 1.19
 
 - Added a second YouTube Pattern Library expansion covering faceless scripts, tutorials, reviews, commentary, shorts, transcript cleanup, and script editing passes.
@@ -1395,6 +1401,8 @@ Clear writing is not an AI signal. Do not intentionally make writing worse in an
 
 The goal of LinkedIn writing is to communicate experience and useful observations, not imitate motivational speaking or maximize engagement.
 
+## Chapter 1 — Openings and Hooks
+
 ## LI-001 — “I wasn’t going to share this...”
 
 Avoid:
@@ -1655,6 +1663,538 @@ Prefer:
 
 Rule:
 A post can end with a conclusion. It does not need to beg for response.
+
+---
+
+## Chapter 2 — Openings That Delay the Point
+
+## LI-021 — “A lot of people won’t agree with this”
+
+Avoid:
+> A lot of people won’t agree with this, but leadership is about trust.
+
+Prefer:
+> The best managers I’ve worked with make ownership clear before work starts.
+
+Rule:
+If the idea is not actually controversial, do not frame it as conflict.
+
+---
+
+## LI-022 — “I need to say this”
+
+Avoid:
+> I need to say this because too many people are missing the point.
+
+Prefer:
+> The point that keeps getting missed is that vague ownership creates delays.
+
+Rule:
+Skip the announcement and say the point.
+
+---
+
+## LI-023 — “Stop doing X”
+
+Avoid:
+> Stop writing boring LinkedIn posts.
+
+Prefer:
+> If a post starts with a slogan, the useful part usually arrives too late.
+
+Rule:
+Direct commands are fine when they point to a real behavior.
+
+---
+
+## LI-024 — “Nobody tells you...”
+
+Avoid:
+> Nobody tells you the truth about leadership.
+
+Prefer:
+> One thing new managers often learn late: unclear decisions create more rework than hard decisions.
+
+Rule:
+Do not use secrecy framing for ordinary experience.
+
+---
+
+## LI-025 — “Here’s what I learned”
+
+Avoid:
+> Here’s what I learned after 10 years in business.
+
+Prefer:
+> After 10 years in operations, I still think most reporting problems start with messy inputs.
+
+Rule:
+Make the lesson visible in the first sentence.
+
+---
+
+## LI-026 — “Read that again”
+
+Avoid:
+> Your team doesn’t need more motivation. It needs clarity. Read that again.
+
+Prefer:
+> Motivation does not fix unclear ownership.
+
+Rule:
+If the sentence is strong, it does not need stage direction.
+
+---
+
+## LI-027 — Fake tension opening
+
+Avoid:
+> This might upset some people.
+
+Prefer:
+> Some teams call it a communication problem when the real issue is decision ownership.
+
+Rule:
+Use actual tension, not audience manipulation.
+
+---
+
+## LI-028 — “Can we normalize...”
+
+Avoid:
+> Can we normalize leaders being vulnerable?
+
+Prefer:
+> Leaders are easier to trust when they say what they know, what they do not know, and what happens next.
+
+Rule:
+Replace social-media phrases with the behavior you mean.
+
+---
+
+## LI-029 — “Reminder:” post
+
+Avoid:
+> Reminder: You are capable of more than you think.
+
+Prefer:
+> Reminder for project leads: write the decision down before the meeting ends.
+
+Rule:
+Reminders work best when they remind the reader to do something specific.
+
+---
+
+## LI-030 — “The harsh truth”
+
+Avoid:
+> The harsh truth is that most people are not willing to do the work.
+
+Prefer:
+> The less dramatic truth is that most process problems survive because no one owns the handoff.
+
+Rule:
+Do not add harshness when accuracy is enough.
+
+---
+
+## Chapter 3 — Story Templates and Fake Vulnerability
+
+## LI-031 — Tiny event stretched into a life lesson
+
+Avoid:
+> A stranger smiled at me today, and it reminded me that leadership is about impact.
+
+Prefer:
+> A customer asked who approved the change, and nobody had the record. That is when we knew email approvals were failing.
+
+Rule:
+Let small events stay small unless they reveal something concrete.
+
+---
+
+## LI-032 — Mistake without details
+
+Avoid:
+> I made a huge mistake early in my career.
+
+Prefer:
+> I once handed off a client without writing down the pricing exception. Support found out after the invoice was wrong.
+
+Rule:
+If the mistake matters, name the mistake.
+
+---
+
+## LI-033 — Redemption arc overload
+
+Avoid:
+> I failed, I learned, I rebuilt, and now I’m stronger than ever.
+
+Prefer:
+> I missed the handoff once. Now every decision gets written down before the meeting ends.
+
+Rule:
+Most professional lessons do not need a dramatic arc.
+
+---
+
+## LI-034 — Fake vulnerability as brand positioning
+
+Avoid:
+> I’m going to be vulnerable here: building a business is hard.
+
+Prefer:
+> The hardest part this quarter was saying no to work that did not fit our capacity.
+
+Rule:
+Vulnerability should reveal a real constraint, decision, or tradeoff.
+
+---
+
+## LI-035 — “I cried in my car” template
+
+Avoid:
+> I cried in my car after that meeting, and it taught me everything about resilience.
+
+Prefer:
+> That meeting made it clear I was taking feedback personally instead of separating tone from content.
+
+Rule:
+Do not turn emotional moments into stock content unless the detail is necessary and handled honestly.
+
+---
+
+## LI-036 — Anonymous mentor quote
+
+Avoid:
+> A mentor once told me, “Success is about impact, not effort.”
+
+Prefer:
+> A former manager changed how I run meetings by asking one question: what decision are we making today?
+
+Rule:
+Quotes work when they change behavior.
+
+---
+
+## LI-037 — Over-clean lesson
+
+Avoid:
+> The lesson? Never give up.
+
+Prefer:
+> The lesson was narrower: do not start implementation until someone owns the exception process.
+
+Rule:
+Specific lessons are more useful than universal ones.
+
+---
+
+## LI-038 — Forced relatability
+
+Avoid:
+> We’ve all been there.
+
+Prefer:
+> If you have ever left a meeting certain everyone agreed, then watched the work stall the next day, this will feel familiar.
+
+Rule:
+Relatability needs a real scene.
+
+---
+
+## LI-039 — Hero story framing
+
+Avoid:
+> They doubted me. I kept going. Now I’m here.
+
+Prefer:
+> The first version did not work. Customers did not understand the setup, so we rewrote onboarding.
+
+Rule:
+Replace hero framing with the actual iteration.
+
+---
+
+## LI-040 — Moral before observation
+
+Avoid:
+> Leadership requires humility.
+
+Prefer:
+> The best leaders I’ve worked with say “I was wrong” before the room starts defending the bad decision.
+
+Rule:
+Observation first, principle second.
+
+---
+
+## Chapter 4 — Executive and Founder Posts
+
+## LI-041 — CEO-speak announcement
+
+Avoid:
+> I’m thrilled to share that we’re entering an exciting new chapter of growth.
+
+Prefer:
+> We opened two new locations this quarter, and the harder part now is keeping support response times steady.
+
+Rule:
+Announcements should include what changed and what it means operationally.
+
+---
+
+## LI-042 — Founder journey language
+
+Avoid:
+> The founder journey is full of highs, lows, and lessons.
+
+Prefer:
+> This month I learned that a feature is not ready if support cannot explain it in one sentence.
+
+Rule:
+Founder posts are stronger when they reveal a concrete operating lesson.
+
+---
+
+## LI-043 — Team praise without substance
+
+Avoid:
+> I’m incredibly proud of this amazing team for their hard work and dedication.
+
+Prefer:
+> The support team rewrote 42 help articles before launch so customers would not have to wait on live chat.
+
+Rule:
+Praise becomes more meaningful when it names the work.
+
+---
+
+## LI-044 — Values post without behavior
+
+Avoid:
+> We believe in transparency, accountability, and customer obsession.
+
+Prefer:
+> Every Friday we send customers a one-page update with what shipped, what slipped, and what changed.
+
+Rule:
+Values should show up as routines.
+
+---
+
+## LI-045 — Hiring post with generic culture language
+
+Avoid:
+> We’re hiring rockstars who want to join a fast-paced, mission-driven team.
+
+Prefer:
+> We’re hiring an implementation manager who can turn messy customer workflows into clear rollout plans.
+
+Rule:
+Hiring posts should describe the work, not just the vibe.
+
+---
+
+## LI-046 — Funding announcement fog
+
+Avoid:
+> This funding will help us accelerate innovation and transform the future of work.
+
+Prefer:
+> We raised funding to hire three engineers, expand onboarding support, and build audit exports customers have been asking for.
+
+Rule:
+Say what the money will change.
+
+---
+
+## LI-047 — Launch announcement hype
+
+Avoid:
+> We’re excited to unveil a game-changing platform for modern teams.
+
+Prefer:
+> We launched the first version today. It routes requests, records approvals, and exports the decision history.
+
+Rule:
+Launch posts should explain the product before celebrating it.
+
+---
+
+## LI-048 — Customer obsession cliché
+
+Avoid:
+> Customer obsession is at the heart of everything we do.
+
+Prefer:
+> We changed the export format after three finance teams told us PDF records slowed down audit review.
+
+Rule:
+Customer focus is more credible when it shows what changed because of customers.
+
+---
+
+## LI-049 — “Building in public” without substance
+
+Avoid:
+> Building in public is messy, but so worth it.
+
+Prefer:
+> This week’s messy part: customers want flexible approvals, but every new option makes setup harder.
+
+Rule:
+Building in public should reveal a real product or operating tradeoff.
+
+---
+
+## LI-050 — Executive lesson post
+
+Avoid:
+> The best leaders empower their teams to succeed.
+
+Prefer:
+> The best executives I’ve worked with decide what not to do before teams start planning.
+
+Rule:
+Executive writing should sound like judgment earned from decisions.
+
+---
+
+## Chapter 5 — Engagement Bait and Comment Mechanics
+
+## LI-051 — “Agree or disagree?”
+
+Avoid:
+> Agree or disagree?
+
+Prefer:
+> I’d be interested in examples where this fails, especially in teams with heavy compliance review.
+
+Rule:
+Invite useful disagreement, not reflex engagement.
+
+---
+
+## LI-052 — “What would you add?”
+
+Avoid:
+> What would you add?
+
+Prefer:
+> The gap I haven’t solved yet is legal exceptions. If your team handles those cleanly, I’d like to understand how.
+
+Rule:
+Ask for a specific contribution.
+
+---
+
+## LI-053 — “Comment below”
+
+Avoid:
+> Comment below if this resonated.
+
+Prefer:
+> If you’ve seen this pattern in approval workflows, the detail I’d compare is where the delay starts.
+
+Rule:
+Discussion prompts should move the topic forward.
+
+---
+
+## LI-054 — Algorithm-aware language
+
+Avoid:
+> The algorithm probably won’t show this to many people, but...
+
+Prefer:
+> Skip the algorithm commentary and state the point.
+
+Rule:
+Do not make the platform part of the post unless the platform is the subject.
+
+---
+
+## LI-055 — “Save this post”
+
+Avoid:
+> Save this post for later.
+
+Prefer:
+> Here is the checklist I use before sending a client update.
+
+Rule:
+Make the post worth saving instead of asking for the save.
+
+---
+
+## LI-056 — “Follow me for more”
+
+Avoid:
+> Follow me for more leadership insights.
+
+Prefer:
+> I write about clearer business writing, approval workflows, and practical operating habits.
+
+Rule:
+If you ask for a follow, tell readers what pattern of useful work to expect.
+
+---
+
+## LI-057 — Engagement disguised as generosity
+
+Avoid:
+> I’ll send the template to everyone who comments “template.”
+
+Prefer:
+> The template is below. Use it if your team needs clearer handoffs.
+
+Rule:
+Do not hide useful material behind comment mechanics.
+
+---
+
+## LI-058 — Viral formatting over substance
+
+Avoid:
+> 7 lessons from 7 years in 7 minutes.
+
+Prefer:
+> Three habits made the biggest difference in operations: written decisions, named owners, and weekly exception review.
+
+Rule:
+Do not let the format drive the thinking.
+
+---
+
+## LI-059 — Endorsement bait
+
+Avoid:
+> Tag someone who needs to hear this.
+
+Prefer:
+> If you share this with a team, send it to the person who owns the handoff.
+
+Rule:
+Make sharing contextual, not performative.
+
+---
+
+## LI-060 — LinkedIn editing checklist
+
+Before posting, ask:
+
+1. Did I start with a real observation, event, decision, or example?
+2. Did I remove fake contrarian framing?
+3. Did I replace slogans with behaviors?
+4. Did I cut fake vulnerability and vague humility?
+5. Did I name the actual work behind praise, launch, hiring, or funding news?
+6. Did I avoid comment bait unless I have a real question?
+7. Does the ending stand without “thoughts?”
+
+Rule:
+A useful LinkedIn post should teach the reader what you noticed, not perform the fact that you noticed something.
 
 ---
 
