@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.15
+
+- Expanded the Marketing Writing section with a substantial second pass covering positioning, pricing, proof, product-led growth, ad language, launches, and stronger evidence-based copy.
+
+---
+
 ## 1.14
 
 - Added a second-pass expansion to Business Writing with stronger guidance for updates, recommendations, escalation, uncertainty, and executive communication.
@@ -3347,6 +3353,591 @@ Prefer:
 
 Rule:
 Brand claims should either be supported or replaced with product truth.
+
+---
+
+## M-036 — Headline that says nothing
+
+Avoid:
+> Work smarter across your organization.
+
+Prefer:
+> Track every approval request without chasing email threads.
+
+Rule:
+If the headline could fit almost any software company, it is not finished.
+
+---
+
+## M-037 — Positioning by adjective
+
+Avoid:
+> A modern, intelligent, flexible platform for ambitious teams.
+
+Prefer:
+> Approval software for teams that need audit history across finance, legal, and operations.
+
+Rule:
+Position with audience and job, not mood words.
+
+---
+
+## M-038 — Generic category creation
+
+Avoid:
+> The new category leader in workflow transformation.
+
+Prefer:
+> A request and approval system built for teams that outgrew spreadsheets.
+
+Rule:
+If you invent a category, the reader still needs to know what the product is.
+
+---
+
+## M-039 — “All-in-one” overreach
+
+Avoid:
+> The all-in-one platform for every operational need.
+
+Prefer:
+> One place to submit requests, route approvals, and export decision history.
+
+Rule:
+If you say “all-in-one,” immediately define the boundaries.
+
+---
+
+## M-040 — Benefit without mechanism
+
+Avoid:
+> Increase team productivity instantly.
+
+Prefer:
+> Remove status-check emails by giving every request a visible owner and deadline.
+
+Rule:
+Benefits become believable when the mechanism is visible.
+
+---
+
+## M-041 — Pain point inflation
+
+Avoid:
+> Manual workflows are destroying your team’s potential.
+
+Prefer:
+> Manual workflows usually create rework, unclear ownership, and slower approvals.
+
+Rule:
+Stay close to the real cost. Credibility drops when the pain is oversized.
+
+---
+
+## M-042 — “Save time” with no context
+
+Avoid:
+> Save time with automated workflows.
+
+Prefer:
+> Cut the back-and-forth needed to confirm who approved each request.
+
+Rule:
+Time claims need a task, not just a promise.
+
+---
+
+## M-043 — ROI claim without math
+
+Avoid:
+> Deliver immediate ROI.
+
+Prefer:
+> If your team spends six hours a week chasing approvals, a tracked workflow usually pays for itself in reduced rework alone.
+
+Rule:
+If you mention ROI, show the path to it.
+
+---
+
+## M-044 — Demo CTA that sounds like a banner
+
+Avoid:
+> See the future of productivity in action.
+
+Prefer:
+> See how approval routing works in a 20-minute demo.
+
+Rule:
+A demo CTA should tell the reader what they will actually see.
+
+---
+
+## M-045 — Trial CTA without fit
+
+Avoid:
+> Start free and transform your workflow today.
+
+Prefer:
+> Start a free trial if you want to test request intake, approval rules, and audit history with your own process.
+
+Rule:
+A good CTA helps the reader self-qualify.
+
+---
+
+## M-046 — Persona page vagueness
+
+Avoid:
+> Built for finance leaders who need control and visibility.
+
+Prefer:
+> For finance teams that need approval records, cleaner handoffs, and fewer invoice exceptions.
+
+Rule:
+Persona pages should reflect the work that role actually owns.
+
+---
+
+## M-047 — “For everyone” pricing copy
+
+Avoid:
+> Simple plans for teams of every size.
+
+Prefer:
+> Pricing based on approval volume, admin controls, and export needs.
+
+Rule:
+Pricing copy should help buyers understand what changes cost.
+
+---
+
+## M-048 — Enterprise page fog
+
+Avoid:
+> Enterprise-grade scale, security, and innovation.
+
+Prefer:
+> SSO, audit logs, approval thresholds, and export controls for teams with formal review requirements.
+
+Rule:
+Enterprise readers look for controls, not atmosphere.
+
+---
+
+## M-049 — Security page marketing
+
+Avoid:
+> Your data security is our top priority.
+
+Prefer:
+> Admins can require SSO, limit export access, and review user activity by timestamp.
+
+Rule:
+Security pages should answer security questions directly.
+
+---
+
+## M-050 — Integration copy without outcome
+
+Avoid:
+> Seamlessly integrates with your existing stack.
+
+Prefer:
+> Push approved vendor data into your ERP so finance does not re-enter it by hand.
+
+Rule:
+Name the system and the result of the integration.
+
+---
+
+## M-051 — Product-led growth copy
+
+Avoid:
+> Users love how easy it is to get started.
+
+Prefer:
+> A team can create a request form, set approval rules, and test one workflow without waiting on implementation.
+
+Rule:
+PLG copy should show what a user can do alone and how quickly.
+
+---
+
+## M-052 — Empty onboarding promise
+
+Avoid:
+> Get started in minutes.
+
+Prefer:
+> Most teams can launch one request flow in under an hour if the approval path is already known.
+
+Rule:
+Fast-start claims should include conditions.
+
+---
+
+## M-053 — Testimonial with no detail
+
+Avoid:
+> This tool changed everything for our team.
+
+Prefer:
+> We stopped asking finance for approval status because the request record already shows it.
+
+Rule:
+Use testimonials that mention a before, an after, or a specific job.
+
+---
+
+## M-054 — Testimonial overediting
+
+Avoid:
+> This best-in-class solution empowered our organization to drive exceptional results.
+
+Prefer:
+> We used to lose approvals in email. Now we can see every open request in one place.
+
+Rule:
+If the quote sounds like copywriting, it is no longer a quote.
+
+---
+
+## M-055 — Social proof by logo wall alone
+
+Avoid:
+> Trusted by leading brands.
+
+Prefer:
+> Used by teams that need cross-department approval history, especially in finance, procurement, and operations.
+
+Rule:
+Logos help, but supporting context converts.
+
+---
+
+## M-056 — Comparison page snark
+
+Avoid:
+> Unlike outdated legacy tools, we actually understand modern teams.
+
+Prefer:
+> If you only need one-step approvals, your current tool may be enough. This is most useful when multiple teams need the same audit trail.
+
+Rule:
+Comparison copy should help the reader choose, not punish them for using something else.
+
+---
+
+## M-057 — “Why us” page boasting
+
+Avoid:
+> We are passionate innovators redefining the future of operational excellence.
+
+Prefer:
+> We focus on workflows that break when ownership is split across teams.
+
+Rule:
+“Why us” pages are stronger when they reveal product judgment.
+
+---
+
+## M-058 — Feature naming that hides the feature
+
+Avoid:
+> Intelligent orchestration engine
+
+Prefer:
+> Approval routing rules
+
+Rule:
+Name features in the language buyers use when they ask for them.
+
+---
+
+## M-059 — Subhead that sells the company instead of the page
+
+Avoid:
+> Built by experts who understand the future of work.
+
+Prefer:
+> Route requests by amount, department, or vendor type.
+
+Rule:
+Most page subheads should help the reader evaluate the product, not admire the company.
+
+---
+
+## M-060 — Product page paragraph that sounds like a manifesto
+
+Avoid:
+> We believe teams deserve a more connected, empowered, human-centered way to work.
+
+Prefer:
+> This page shows how request intake, routing, and approval history work in one system.
+
+Rule:
+Belief statements rarely belong at the top of a product page.
+
+---
+
+## M-061 — Generic “why now” language
+
+Avoid:
+> In a rapidly evolving market, businesses can’t afford to stand still.
+
+Prefer:
+> When approval volume grows, email-based review usually stops being traceable.
+
+Rule:
+Explain why the current setup breaks, not why the times are changing.
+
+---
+
+## M-062 — Launch announcement throat-clearing
+
+Avoid:
+> We’re proud to unveil our latest innovation for modern teams.
+
+Prefer:
+> Today we added approval delegation, so reviewers can reassign a request without losing history.
+
+Rule:
+Announcements should lead with the change.
+
+---
+
+## M-063 — Webinar promo fluff
+
+Avoid:
+> Join an insightful session on the future of workflow transformation.
+
+Prefer:
+> Join us for a 30-minute walkthrough of three approval designs that reduce follow-up without weakening controls.
+
+Rule:
+Event copy should promise a topic, format, and practical takeaway.
+
+---
+
+## M-064 — White paper summary that says “comprehensive”
+
+Avoid:
+> A comprehensive guide to modern operational excellence.
+
+Prefer:
+> A review of three approval models, where they fail, and when each one makes sense.
+
+Rule:
+Readers want scope, not self-praise.
+
+---
+
+## M-065 — Ebook gate pitch
+
+Avoid:
+> Download this exclusive resource to unlock strategic insights.
+
+Prefer:
+> Download the checklist if you’re comparing approval workflows for audit-heavy teams.
+
+Rule:
+Content offers should tell the reader who it helps and what it covers.
+
+---
+
+## M-066 — Product update dressed as brand story
+
+Avoid:
+> This launch reflects our ongoing commitment to innovation and customer success.
+
+Prefer:
+> This release adds approval comments to exports because finance teams told us PDF records were too slow to review.
+
+Rule:
+If the update came from customer pain, say that plainly.
+
+---
+
+## M-067 — Brand voice that never mentions work
+
+Avoid:
+> We help teams thrive in a world of constant change.
+
+Prefer:
+> We help teams keep requests moving when work crosses finance, legal, and operations.
+
+Rule:
+Brand voice still needs operating detail.
+
+---
+
+## M-068 — Use-case page that stays too broad
+
+Avoid:
+> Use our platform for any workflow imaginable.
+
+Prefer:
+> Common use cases include vendor onboarding, contract approvals, budget requests, and internal policy sign-off.
+
+Rule:
+Examples make scope believable.
+
+---
+
+## M-069 — Credibility claim without source
+
+Avoid:
+> Proven to improve performance.
+
+Prefer:
+> In customer interviews, teams most often reported fewer status-check emails and cleaner audit history after rollout.
+
+Rule:
+If the proof is qualitative, say so. If it is quantitative, show the numbers.
+
+---
+
+## M-070 — Benefit language that hides tradeoffs
+
+Avoid:
+> Effortless governance without sacrificing speed.
+
+Prefer:
+> Extra approval steps add control, so the product is most useful when teams need both audit history and clear routing.
+
+Rule:
+Trust goes up when copy acknowledges the tradeoff the product is solving.
+
+---
+
+## M-071 — Adjective pileup
+
+Avoid:
+> Powerful, flexible, intelligent, scalable workflow software.
+
+Prefer:
+> Workflow software that routes requests, records approvals, and exports audit history.
+
+Rule:
+Stacked adjectives usually signal missing substance.
+
+---
+
+## M-072 — Benefit section with no user
+
+Avoid:
+> Better collaboration across the organization.
+
+Prefer:
+> Managers stop asking finance for status because the request record already shows it.
+
+Rule:
+A benefit should happen to someone, not to “the organization.”
+
+---
+
+## M-073 — Use of “friction” without naming it
+
+Avoid:
+> Remove friction from your approval process.
+
+Prefer:
+> Remove the need to forward emails just to show who approved what.
+
+Rule:
+When you say “friction,” name the extra step.
+
+---
+
+## M-074 — Narrative case study with no numbers
+
+Avoid:
+> The team gained clarity, speed, and confidence after implementation.
+
+Prefer:
+> After implementation, approvers stopped using shared inboxes and reduced review time from two days to same-day in most cases.
+
+Rule:
+Case studies need a visible operational change, even when the exact number is modest.
+
+---
+
+## M-075 — CTA that asks for too much emotion
+
+Avoid:
+> Start your journey toward operational excellence.
+
+Prefer:
+> See whether this fits your approval process before changing anything.
+
+Rule:
+Low-pressure CTAs often sound more credible than grand ones.
+
+---
+
+## M-076 — Product video script intro
+
+Avoid:
+> Welcome to the future of streamlined collaboration.
+
+Prefer:
+> Here’s how a request moves from intake to approval without disappearing into email.
+
+Rule:
+Product video intros should orient the viewer to the workflow, not the brand mood.
+
+---
+
+## M-077 — “Built for modern teams”
+
+Avoid:
+> Built for modern teams.
+
+Prefer:
+> Built for teams that share approvals across departments and need a clean history afterward.
+
+Rule:
+If you use the word “modern,” finish the thought with a real characteristic.
+
+---
+
+## M-078 — Urgency without reason
+
+Avoid:
+> Don’t wait to upgrade your workflow.
+
+Prefer:
+> If approval volume is rising and requests keep getting lost, this is usually the point where email stops working well.
+
+Rule:
+Urgency should come from the operating problem, not from pushy wording.
+
+---
+
+## M-079 — “Transform” when “replace” is enough
+
+Avoid:
+> Transform your procurement experience.
+
+Prefer:
+> Replace email approvals with a tracked review flow.
+
+Rule:
+Marketing copy often improves when the verb gets smaller.
+
+---
+
+## M-080 — Final page close
+
+Avoid:
+> Ready to revolutionize your operations?
+
+Prefer:
+> If you want fewer status-check emails and a cleaner approval record, this is a good place to start.
+
+Rule:
+Close with fit and outcome, not theater.
 
 ---
 
