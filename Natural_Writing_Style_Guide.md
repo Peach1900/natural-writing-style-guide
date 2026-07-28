@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.24
+
+- Expanded the Corporate AI Speak Dictionary with entries for meeting language, decision fog, consulting-slide phrases, and vague execution language.
+
+---
+
 ## 1.23
 
 - Expanded the Corporate AI Speak Dictionary with entries for measurement fog, customer language, internal updates, and vague performance claims.
@@ -2085,6 +2091,532 @@ Prefer:
 
 Rule:
 Follow-up should include timing and reason.
+
+---
+
+## Chapter 6 — Meeting Language and Decision Fog
+
+## C-141 — Sync
+
+Avoid:
+> Let’s schedule a sync.
+
+Prefer:
+> Let’s meet for 20 minutes to decide whether the launch date changes.
+
+Rule:
+Say what the meeting is for.
+
+---
+
+## C-142 — Connect
+
+Avoid:
+> Let’s connect next week.
+
+Prefer:
+> Let’s meet Tuesday to review the pricing exception.
+
+Rule:
+Use “connect” only when the relationship matters more than the purpose. Most business writing needs the purpose.
+
+---
+
+## C-143 — Regroup
+
+Avoid:
+> Let’s regroup after legal review.
+
+Prefer:
+> Let’s meet after legal review to decide whether the indemnity language changes.
+
+Rule:
+Regroup should name the decision waiting on the group.
+
+---
+
+## C-144 — Take this offline
+
+Avoid:
+> Let’s take this offline.
+
+Prefer:
+> Jordan and Priya should resolve the pricing question after this meeting.
+
+Rule:
+Say who should handle it and what they need to resolve.
+
+---
+
+## C-145 — Parking lot
+
+Avoid:
+> Let’s put that in the parking lot.
+
+Prefer:
+> That question is out of scope for today. We’ll revisit it during implementation planning.
+
+Rule:
+If something is deferred, say when or why.
+
+---
+
+## C-146 — Table stakes
+
+Avoid:
+> Security is table stakes.
+
+Prefer:
+> Buyers expect SSO, audit logs, and admin controls before security review starts.
+
+Rule:
+Name the baseline requirements.
+
+---
+
+## C-147 — Level set
+
+Avoid:
+> Let’s level set before we continue.
+
+Prefer:
+> Before we continue, let’s confirm the current launch date, owner, and open risks.
+
+Rule:
+Level setting should identify the facts being checked.
+
+---
+
+## C-148 — Get on the same page
+
+Avoid:
+> We need to get everyone on the same page.
+
+Prefer:
+> We need everyone to agree on the rollout date and approval path.
+
+Rule:
+Name the page.
+
+---
+
+## C-149 — Decisioning
+
+Avoid:
+> We need better decisioning around approvals.
+
+Prefer:
+> We need to define who approves exceptions above $50,000.
+
+Rule:
+Do not turn normal nouns into business verbs unless the field requires it.
+
+---
+
+## C-150 — Decision framework
+
+Avoid:
+> We need a decision framework.
+
+Prefer:
+> We need rules for which requests go to managers, legal, finance, or automatic approval.
+
+Rule:
+Decision frameworks should contain decision rules.
+
+---
+
+## C-151 — Decision rights
+
+Avoid:
+> We need clarity around decision rights.
+
+Prefer:
+> Legal owns contract language. Finance owns payment terms. Sales owns discount approval.
+
+Rule:
+Decision rights should name the owner for each decision.
+
+---
+
+## C-152 — Escalation path
+
+Avoid:
+> We need an escalation path.
+
+Prefer:
+> If finance does not approve by Thursday, Maya sends the issue to Priya.
+
+Rule:
+Escalation paths need trigger, owner, and next recipient.
+
+---
+
+## C-153 — Ownership model
+
+Avoid:
+> We need an ownership model for this workstream.
+
+Prefer:
+> Each request needs one owner, one backup, and one approver.
+
+Rule:
+Ownership models should clarify responsibility.
+
+---
+
+## C-154 — RACI
+
+Avoid:
+> Let’s create a RACI.
+
+Prefer:
+> Let’s define who owns the work, who approves it, who needs input, and who only needs the update.
+
+Rule:
+Use RACI if the audience uses it. Otherwise explain the roles.
+
+---
+
+## C-155 — Cadence
+
+Avoid:
+> We need a better operating cadence.
+
+Prefer:
+> We need a Monday status review and a Thursday risk review.
+
+Rule:
+Cadence means when the work is reviewed.
+
+---
+
+## C-156 — Rhythm of business
+
+Avoid:
+> This needs to fit our rhythm of business.
+
+Prefer:
+> This needs to be reviewed during the monthly finance close process.
+
+Rule:
+Name the calendar or operating cycle.
+
+---
+
+## C-157 — Communication cadence
+
+Avoid:
+> We need a communication cadence.
+
+Prefer:
+> We need a Friday update with decisions, blockers, and owners.
+
+Rule:
+Communication cadence should define timing and contents.
+
+---
+
+## C-158 — Workstream
+
+Avoid:
+> This workstream needs more clarity.
+
+Prefer:
+> The onboarding work needs a named owner and launch date.
+
+Rule:
+Use the actual body of work when possible.
+
+---
+
+## C-159 — Initiative owner
+
+Avoid:
+> We need an initiative owner.
+
+Prefer:
+> We need one person responsible for rollout decisions.
+
+Rule:
+Owner language should include what the owner can decide.
+
+---
+
+## C-160 — Executive sponsor
+
+Avoid:
+> We need an executive sponsor.
+
+Prefer:
+> We need a senior leader who can approve the budget and resolve priority conflicts.
+
+Rule:
+Sponsor language should explain the sponsor’s authority.
+
+---
+
+## Chapter 7 — Consulting-Slide Phrases
+
+## C-161 — Key considerations
+
+Avoid:
+> There are several key considerations.
+
+Prefer:
+> The three open questions are cost, implementation time, and security review.
+
+Rule:
+Considerations should become questions or decisions.
+
+---
+
+## C-162 — Strategic lens
+
+Avoid:
+> We need to view this through a strategic lens.
+
+Prefer:
+> We need to decide whether this supports retention, cost reduction, or faster onboarding.
+
+Rule:
+The lens should reveal the decision criteria.
+
+---
+
+## C-163 — Guiding principles
+
+Avoid:
+> We established guiding principles.
+
+Prefer:
+> We agreed not to add approval steps unless they reduce legal or payment risk.
+
+Rule:
+Guiding principles should guide a real choice.
+
+---
+
+## C-164 — Pillars
+
+Avoid:
+> Our strategy has three pillars.
+
+Prefer:
+> Our plan has three parts: reduce approval delays, improve audit records, and train managers.
+
+Rule:
+Pillars often sound grander than parts.
+
+---
+
+## C-165 — Strategic pillars
+
+Avoid:
+> Customer success is one of our strategic pillars.
+
+Prefer:
+> This quarter we are measuring onboarding time and unresolved support issues.
+
+Rule:
+Turn pillars into priorities and measures.
+
+---
+
+## C-166 — Flywheel
+
+Avoid:
+> This creates a growth flywheel.
+
+Prefer:
+> Faster onboarding leads to faster activation, which can improve renewal odds.
+
+Rule:
+If you use a flywheel metaphor, describe the loop.
+
+---
+
+## C-167 — Moat
+
+Avoid:
+> This builds a defensible moat.
+
+Prefer:
+> Competitors can copy the feature, but not the customer data behind the recommendations.
+
+Rule:
+Moat language needs the source of defensibility.
+
+---
+
+## C-168 — Step change
+
+Avoid:
+> This creates a step change in performance.
+
+Prefer:
+> This moves onboarding from a manual checklist to automatic routing.
+
+Rule:
+Step change should name the old and new state.
+
+---
+
+## C-169 — Inflection point
+
+Avoid:
+> We are at an inflection point.
+
+Prefer:
+> Support volume doubled, and the old process no longer scales.
+
+Rule:
+Inflection points need evidence that the prior pattern stopped working.
+
+---
+
+## C-170 — Paradigm shift
+
+Avoid:
+> This represents a paradigm shift.
+
+Prefer:
+> This changes approvals from email threads to tracked request records.
+
+Rule:
+Most paradigm shifts are just process changes. Say the process change.
+
+---
+
+## C-171 — Game changer
+
+Avoid:
+> This feature is a game changer.
+
+Prefer:
+> This feature removes the manual export step finance complained about.
+
+Rule:
+Let the result show whether the change matters.
+
+---
+
+## C-172 — Silver bullet
+
+Avoid:
+> This is not a silver bullet, but...
+
+Prefer:
+> This will not fix unclear policies. It will help once the approval path is known.
+
+Rule:
+Name the limit directly.
+
+---
+
+## C-173 — Low lift
+
+Avoid:
+> This should be a low lift.
+
+Prefer:
+> This should take one engineer less than a day if the API field already exists.
+
+Rule:
+Low lift needs effort and assumption.
+
+---
+
+## C-174 — Heavy lift
+
+Avoid:
+> This is a heavy lift.
+
+Prefer:
+> This requires a schema change, migration script, QA pass, and customer communication.
+
+Rule:
+Heavy lift should name the work.
+
+---
+
+## C-175 — Quick win
+
+Avoid:
+> This is a quick win.
+
+Prefer:
+> This is a one-day change that removes the most common support question.
+
+Rule:
+Quick wins need speed and value.
+
+---
+
+## C-176 — Big rocks
+
+Avoid:
+> Let’s focus on the big rocks.
+
+Prefer:
+> Let’s focus on the three issues blocking launch.
+
+Rule:
+Use plain words for priorities.
+
+---
+
+## C-177 — Work backward
+
+Avoid:
+> We need to work backward from the customer.
+
+Prefer:
+> Start with the customer’s failed task, then identify which internal handoff caused it.
+
+Rule:
+Work backward should define the starting point.
+
+---
+
+## C-178 — Blue sky
+
+Avoid:
+> Let’s do some blue-sky thinking.
+
+Prefer:
+> Let’s list options without judging cost yet.
+
+Rule:
+Name the constraint you are temporarily removing.
+
+---
+
+## C-179 — Out of the box
+
+Avoid:
+> We need to think outside the box.
+
+Prefer:
+> We need options beyond adding another approval step.
+
+Rule:
+Say which assumption you want to challenge.
+
+---
+
+## C-180 — Corporate AI dictionary meeting checkpoint
+
+When editing meeting or slide language, ask:
+
+1. What decision is this phrase hiding?
+2. Who owns the next step?
+3. What timing, trigger, or dependency is missing?
+4. Is this a metaphor where plain language would work?
+5. Could the same sentence appear on any consulting slide?
+
+Rule:
+Meeting language should reduce ambiguity before people leave the room.
 
 ---
 
