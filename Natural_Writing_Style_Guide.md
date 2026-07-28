@@ -1,6 +1,6 @@
 # Natural Writing Style Guide
 
-**Version:** 1.25
+**Version:** 1.26
 
 A living guide for writing clear, natural, factual, conversational, professional content across platforms.
 
@@ -13,6 +13,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 ---
 
 # Change Log
+
+## 1.26
+
+- Expanded the Prompt Library with reusable prompts for drafting, revision, platform adaptation, diagnostics, voice restraint, sales, marketing, LinkedIn, YouTube, business writing, and final editing passes.
+
+---
 
 ## 1.25
 
@@ -10127,6 +10133,689 @@ Prompt:
 
 Use when:
 The draft is technical, legal, financial, operational, or executive-facing.
+
+---
+
+## Chapter 2 — Drafting Prompts
+
+Use these when creating a first draft from notes, rough ideas, transcripts, or bullet points. The goal is to prevent generic language before it appears.
+
+## PR-019 — Notes-to-draft prompt
+
+Prompt:
+> Turn these notes into a clear first draft. Keep the original meaning and sequence where possible. Do not add motivational framing, broad claims, corporate buzzwords, or generic conclusions. If a point is missing evidence, keep it modest instead of inventing proof.
+
+Use when:
+You have raw notes and need a usable draft without synthetic polish.
+
+Best for:
+Business posts, internal updates, blog drafts, video scripts, and email drafts.
+
+---
+
+## PR-020 — Rough idea expansion
+
+Prompt:
+> Expand this idea into a useful draft by adding concrete examples, likely reader questions, and practical implications. Do not make the idea sound bigger than it is. Avoid phrases like “game-changing,” “transformative,” “unlock,” “empower,” and “in today’s world.”
+
+Use when:
+You have a good point but not enough supporting detail.
+
+Editor’s check:
+Did the expansion add real substance, or did it only add paragraphs?
+
+---
+
+## PR-021 — Transcript-to-clean-article prompt
+
+Prompt:
+> Convert this transcript into a clear article while preserving the speaker’s natural reasoning. Clean up repetition only when it distracts. Keep useful spoken texture, concrete examples, and direct phrasing. Do not turn it into formal essay voice.
+
+Use when:
+You are turning a video, podcast, meeting, or voice note into written content.
+
+Rule:
+Transcripts should be cleaned, not sterilized.
+
+---
+
+## PR-022 — Voice-note-to-YouTube-script prompt
+
+Prompt:
+> Turn this voice note into a YouTube script that sounds like someone explaining the idea out loud. Keep pauses, short sentences, and natural transitions. Remove rambling, but do not replace it with generic narration. Start with the most specific observation.
+
+Use when:
+You want a script that still sounds like speech.
+
+Avoid:
+“In today’s video,” “let’s dive in,” “without further ado,” and “stay until the end.”
+
+---
+
+## PR-023 — One-person audience prompt
+
+Prompt:
+> Rewrite this as if explaining it to one smart person who is busy but interested. Keep the tone direct, natural, and useful. Remove anything that sounds like a broadcast, keynote, ad, or LinkedIn performance.
+
+Use when:
+The writing sounds like it is addressing “the internet” instead of one reader.
+
+Rule:
+Most good writing feels addressed, not announced.
+
+---
+
+## PR-024 — Facts-first draft prompt
+
+Prompt:
+> Draft this with the facts first. Lead with what happened, what changed, what the reader needs to know, or what the evidence shows. Put interpretation after the concrete point. Do not start with a universal statement.
+
+Use when:
+The topic is business, technical, operational, financial, legal, or instructional.
+
+Avoid:
+Opening with “In today’s,” “At its core,” “The importance of,” or “One of the key.”
+
+---
+
+## PR-025 — No-hype launch draft
+
+Prompt:
+> Write this announcement without hype. State what changed, who it affects, why it matters, and what happens next. Avoid “excited,” “thrilled,” “innovative,” “powerful,” “seamless,” and “transformative” unless the draft proves the claim with specifics.
+
+Use when:
+Announcing a product update, feature release, new service, internal change, or company milestone.
+
+Better opening:
+“We added...”
+
+---
+
+## PR-026 — Practical explainer prompt
+
+Prompt:
+> Explain this topic practically. Use examples, tradeoffs, and concrete situations instead of definitions and generic best practices. Assume the reader understands the basics and wants judgment.
+
+Use when:
+Writing explainers, blogs, newsletters, training material, or thought leadership.
+
+Rule:
+Do not define familiar words unless the definition changes the argument.
+
+---
+
+## PR-027 — Decision memo prompt
+
+Prompt:
+> Turn this into a decision memo. Include the decision, reason, tradeoff, owner, deadline, risks, and next step. Remove vague alignment language. Keep the writing concise and professional.
+
+Use when:
+You need internal business writing that actually moves work forward.
+
+Avoid:
+“After careful consideration,” “aligned on a path forward,” and “moving forward.”
+
+---
+
+## PR-028 — Short-form social prompt
+
+Prompt:
+> Turn this into a short social post. Make one point only. Start with the specific observation. Avoid fake vulnerability, engagement bait, broad leadership lessons, and inflated formatting. End when the point is made.
+
+Use when:
+Writing LinkedIn, X, Threads, or short-form captions.
+
+Rule:
+Short social posts should not carry three arguments.
+
+---
+
+## Chapter 3 — Revision Prompts
+
+Use these after a draft exists. These prompts are for cleaning, tightening, grounding, and making the writing sound less synthetic.
+
+## PR-029 — Corporate fog removal
+
+Prompt:
+> Remove corporate fog from this draft. For each vague phrase, replace it with the actual person, team, action, system, number, deadline, risk, or decision. Keep technical terms that are precise. Cut language that only signals professionalism.
+
+Use when:
+The draft sounds like a consulting slide, executive update, or generic LinkedIn post.
+
+Examples to review:
+Leverage, optimize, enable, alignment, visibility, stakeholder, transformation, strategic initiative.
+
+---
+
+## PR-030 — Abstract-to-concrete pass
+
+Prompt:
+> Find abstract nouns in this draft and rewrite around concrete nouns and verbs. Replace concepts with observable actions where possible. Keep abstractions only when they are the actual subject.
+
+Use when:
+The writing says things like “collaboration,” “innovation,” “efficiency,” “value,” or “impact” without showing what happened.
+
+Editor’s question:
+Can the reader picture the action?
+
+---
+
+## PR-031 — Adjective audit
+
+Prompt:
+> Audit every adjective in this draft. Keep adjectives that add specific information. Remove adjectives that merely praise the subject. Where possible, replace adjectives with evidence.
+
+Use when:
+The draft feels positive but thin.
+
+Example:
+Replace “powerful dashboard” with “dashboard that shows overdue requests by owner.”
+
+---
+
+## PR-032 — Verb strength pass
+
+Prompt:
+> Replace inflated verbs with smaller accurate verbs. Use “use,” “make,” “show,” “reduce,” “replace,” “send,” “track,” “approve,” or “measure” when they are more precise than “leverage,” “empower,” “unlock,” “drive,” “enhance,” or “facilitate.”
+
+Use when:
+The draft sounds like corporate AI speak.
+
+Rule:
+The best verb is usually the one closest to the action.
+
+---
+
+## PR-033 — Sentence rhythm pass
+
+Prompt:
+> Edit this for natural sentence rhythm. Break up sequences of same-length sentences. Add shorter sentences where the point needs emphasis. Merge sentences only when the relationship is clear. Do not add em dashes to fake conversational rhythm.
+
+Use when:
+The draft is correct but has a robotic cadence.
+
+Check:
+Read it aloud. If every sentence lands the same way, revise.
+
+---
+
+## PR-034 — Paragraph rhythm pass
+
+Prompt:
+> Edit paragraph rhythm. Vary paragraph length based on the work each paragraph does. Remove unnecessary wrap-up lines. Let some paragraphs be one or two sentences if the point is complete.
+
+Use when:
+Every paragraph feels the same size and shape.
+
+Rule:
+Clean structure is good. Mechanical structure is not.
+
+---
+
+## PR-035 — Transition cleanup
+
+Prompt:
+> Remove empty transitions from this draft. Keep transitions only when they clarify logic, contrast, sequence, or consequence. Replace formal transitions with direct movement where possible.
+
+Use when:
+The draft overuses “furthermore,” “moreover,” “additionally,” “overall,” “in conclusion,” or “with that said.”
+
+Better transitions:
+“The issue is...”
+“The catch is...”
+“That changes the decision.”
+“Here is the part people miss.”
+
+---
+
+## PR-036 — Summary removal pass
+
+Prompt:
+> Remove unnecessary summaries. If a paragraph or section already makes the point, do not restate it in a polished conclusion. Keep only summaries that help the reader make a decision or remember a complex sequence.
+
+Use when:
+The writing keeps ending sections with “ultimately,” “in summary,” or “the key takeaway.”
+
+Rule:
+Stop when the point is made.
+
+---
+
+## PR-037 — Specific example insertion
+
+Prompt:
+> Add specific examples where the draft makes broad claims. Use realistic examples that match the topic and audience. Do not add imaginary metrics or fake case studies. If an example would require unknown facts, mark it as a placeholder.
+
+Use when:
+The writing is generally right but unsupported.
+
+Placeholder format:
+[Add example: what changed, who was affected, measurable result if available.]
+
+---
+
+## PR-038 — Evidence calibration
+
+Prompt:
+> Calibrate the confidence of every claim to the available evidence. Strong evidence can support strong wording. Weak or missing evidence should use measured language. Remove certainty that the draft cannot justify.
+
+Use when:
+The draft overclaims.
+
+Examples:
+“will transform” becomes “can help when...”
+“proven” becomes the actual proof or gets removed.
+
+---
+
+## PR-039 — Remove filler politeness
+
+Prompt:
+> Remove filler politeness and hesitation while keeping the tone respectful. Keep greetings and courtesy where they help the relationship. Cut phrases that delay the ask or soften it unnecessarily.
+
+Use when:
+Editing emails, follow-ups, requests, and internal messages.
+
+Review:
+“Just wanted to,” “when you get a chance,” “circling back,” “touching base,” “I hope this finds you well.”
+
+---
+
+## PR-040 — Preserve useful imperfection
+
+Prompt:
+> Clean this draft without making it too perfect. Keep useful conversational texture, natural phrasing, and occasional short sentences. Remove mistakes and rambling, but do not convert the voice into generic professional prose.
+
+Use when:
+The original has personality and you do not want to flatten it.
+
+Rule:
+Editing should clarify the speaker, not erase them.
+
+---
+
+## Chapter 4 — Platform Prompts
+
+Use these when adapting the same idea across LinkedIn, YouTube, email, blog, sales, marketing, or business writing.
+
+## PR-041 — LinkedIn observation post
+
+Prompt:
+> Turn this into a LinkedIn post based on one specific observation. Avoid fake vulnerability, “I learned,” “Nobody talks about,” “Agree?” and moral-of-the-story endings. Use professional, conversational language. Make the point useful without sounding like a motivational post.
+
+Use when:
+You want LinkedIn content that does not sound like LinkedIn theater.
+
+Opening pattern:
+“I keep seeing [specific problem].”
+
+---
+
+## PR-042 — LinkedIn company update
+
+Prompt:
+> Turn this into a LinkedIn company update that states what changed, who it helps, and why it matters. Avoid “thrilled,” “excited,” “proud,” “journey,” “milestone,” and “empower.” Keep it clear, factual, and modest.
+
+Use when:
+Posting announcements without corporate confetti.
+
+Better structure:
+Change -> user impact -> concrete detail -> next step.
+
+---
+
+## PR-043 — YouTube hook generator
+
+Prompt:
+> Generate five YouTube openings for this topic. Each opening must start with a specific problem, observation, test, mistake, or result. Do not use “in today’s video,” “let’s dive in,” “stay until the end,” or fake curiosity gaps.
+
+Use when:
+You need script openings that sound spoken and specific.
+
+Good hook types:
+Problem seen repeatedly, test result, mistake, surprising constraint, practical tradeoff.
+
+---
+
+## PR-044 — YouTube script cleanup
+
+Prompt:
+> Clean this YouTube script so it sounds like a person talking. Remove narration padding, generic transitions, repeated previews, and forced retention phrases. Keep natural phrasing, useful repetition, and clear signposting.
+
+Use when:
+The script reads like an article instead of a video.
+
+Rule:
+Scripts need structure, not stiffness.
+
+---
+
+## PR-045 — YouTube transcript editing
+
+Prompt:
+> Edit this transcript into readable text while preserving voice. Remove false starts, duplicate phrases, and filler that distracts. Keep natural emphasis, useful repetition, and conversational phrasing. Do not over-punctuate or over-formalize it.
+
+Use when:
+Turning spoken content into a blog, newsletter, caption, or script notes.
+
+Warning:
+Do not make every sentence complete if the original voice relies on fragments.
+
+---
+
+## PR-046 — Email direct ask
+
+Prompt:
+> Rewrite this email so the ask is clear in the first few lines. Include the action needed, owner if relevant, deadline if relevant, and context only after the ask. Keep the tone professional and natural.
+
+Use when:
+The email is polite but unclear.
+
+Avoid:
+Long openings before the request.
+
+---
+
+## PR-047 — Email follow-up
+
+Prompt:
+> Rewrite this follow-up so it refers to the specific open item, decision, question, or promised next step. Remove “bumping this,” “circling back,” “touching base,” and vague reconnect language.
+
+Use when:
+Following up without sounding automated.
+
+Better follow-up:
+“Following up on the audit export question from Tuesday.”
+
+---
+
+## PR-048 — Blog intro rewrite
+
+Prompt:
+> Rewrite this blog introduction so it starts with a concrete problem, tension, example, or claim. Do not define familiar terms. Do not begin with “in today’s,” “as businesses,” “in a world,” or “the importance of.”
+
+Use when:
+The blog starts like generic SEO content.
+
+Rule:
+The first paragraph should make the reader recognize the problem.
+
+---
+
+## PR-049 — Blog argument structure
+
+Prompt:
+> Organize this blog around a clear argument. Each section should answer one reader question or support one claim. Remove filler sections that exist only because blog posts usually have them.
+
+Use when:
+The draft is long but not useful.
+
+Check:
+Can every heading be phrased as a reader question?
+
+---
+
+## PR-050 — Sales outreach rewrite
+
+Prompt:
+> Rewrite this sales outreach so it is specific, relevant, and low-pressure. Remove fake personalization, broad ROI claims, false urgency, and vague “would love to connect” language. Include one reason for reaching out and one clear next step.
+
+Use when:
+Writing cold email, LinkedIn DMs, or prospecting notes.
+
+Rule:
+The buyer should know why they are receiving the message.
+
+---
+
+## PR-051 — Sales objection response
+
+Prompt:
+> Rewrite this objection response so it acknowledges the concern directly, answers it specifically, and avoids pressure. Do not use generic reassurance. If the objection depends on missing information, ask one practical question.
+
+Use when:
+Responding to price, timing, trust, fit, or implementation concerns.
+
+Better pattern:
+Acknowledge -> clarify -> answer -> next step.
+
+---
+
+## PR-052 — Marketing value proposition
+
+Prompt:
+> Rewrite this value proposition so it identifies the user, task, problem, and outcome. Avoid vague claims like “all-in-one,” “powerful,” “seamless,” “next-generation,” and “built for modern teams.”
+
+Use when:
+Writing homepage hero copy, landing pages, product pages, or ads.
+
+Better pattern:
+“For [user] who need to [task], [product] helps [specific outcome].”
+
+---
+
+## PR-053 — Marketing proof pass
+
+Prompt:
+> Add proof to this marketing copy where claims need support. Use metrics, concrete capabilities, customer examples, process details, or feature specifics. Do not invent data. Mark missing proof as a placeholder.
+
+Use when:
+The copy makes claims the reader may not believe.
+
+Placeholder:
+[Proof needed: metric, customer example, feature detail, or before/after result.]
+
+---
+
+## PR-054 — Business update rewrite
+
+Prompt:
+> Rewrite this business update so it clearly states status, decision, risk, owner, deadline, and next action. Remove vague progress language such as “on track,” “moving forward,” “alignment,” and “visibility” unless tied to facts.
+
+Use when:
+Writing project updates, executive notes, or team summaries.
+
+Rule:
+Updates should reduce uncertainty.
+
+---
+
+## PR-055 — Executive summary prompt
+
+Prompt:
+> Write an executive summary that gives the decision-maker only what they need: current state, recommendation, rationale, risk, tradeoff, and next step. Keep it concise. Do not use consultant-style filler.
+
+Use when:
+Summarizing a larger document for leadership.
+
+Opening:
+“Recommendation: ...”
+
+---
+
+## Chapter 5 — Diagnostic and Quality-Control Prompts
+
+Use these as review passes before publishing, sending, posting, or recording.
+
+## PR-056 — AI pattern diagnostic
+
+Prompt:
+> Review this draft for common AI writing patterns. Flag predictable openings, em dash overuse, generic transitions, abstract noun pileups, inflated verbs, constant positivity, balanced sentence templates, and ceremonial conclusions. For each flag, explain whether it is high, medium, or low priority.
+
+Use when:
+You want a review before rewriting.
+
+Rule:
+Do not rewrite everything. Flag the patterns that actually weaken the piece.
+
+---
+
+## PR-057 — Corporate AI dictionary audit
+
+Prompt:
+> Audit this draft against the Corporate AI Speak Dictionary. Identify phrases that hide a concrete action, person, metric, decision, deadline, risk, or owner. Rewrite each flagged sentence in plain professional language.
+
+Use when:
+Editing business, consulting, LinkedIn, sales, marketing, or internal writing.
+
+Best output format:
+Phrase -> problem -> rewrite.
+
+---
+
+## PR-058 — Platform cliché audit
+
+Prompt:
+> Review this draft for platform clichés. For LinkedIn, flag fake vulnerability, engagement bait, leadership moralizing, and overformatted one-line paragraphs. For YouTube, flag retention bait, generic hooks, narration padding, and forced CTAs. For email, flag vague follow-up language and delayed asks.
+
+Use when:
+You are adapting content for a specific channel.
+
+Rule:
+Keep platform fit. Remove platform theater.
+
+---
+
+## PR-059 — Final human-read pass
+
+Prompt:
+> Give this a final human-read pass. Make it clearer, more specific, and more natural without changing the meaning. Cut anything that sounds like a template. Keep the voice professional, factual, and conversational.
+
+Use when:
+You need a final polish before publishing or sending.
+
+Check:
+Would a capable colleague actually write this?
+
+---
+
+## PR-060 — Redline-style editing prompt
+
+Prompt:
+> Edit this draft as a careful human editor. Do not rewrite the whole piece unless necessary. Identify weak phrases, explain why they weaken the writing, and provide targeted replacements. Preserve the writer’s intent and useful voice.
+
+Use when:
+You want revision notes instead of a silent rewrite.
+
+Best for:
+Training, collaboration, review, and improving future drafts.
+
+---
+
+## Chapter 6 — Prompt Chains
+
+Use prompt chains when one prompt is not enough. Each chain should move from diagnosis to rewrite to final quality control.
+
+## PR-061 — Universal natural writing chain
+
+Step 1:
+> Identify vague claims, inflated language, generic transitions, and repeated sentence patterns in this draft.
+
+Step 2:
+> Rewrite only the flagged sections in clear, natural, specific language.
+
+Step 3:
+> Read the revised version for rhythm. Make it sound like one capable person explaining the idea to another person.
+
+Use when:
+You want a reliable all-purpose cleanup workflow.
+
+---
+
+## PR-062 — YouTube script chain
+
+Step 1:
+> Identify where this script sounds narrated, generic, overhyped, or padded.
+
+Step 2:
+> Rewrite the opening, transitions, examples, and CTA so they sound spoken.
+
+Step 3:
+> Check whether the script can be read aloud naturally. Shorten sentences that trip the speaker.
+
+Use when:
+Building or cleaning a YouTube script.
+
+---
+
+## PR-063 — LinkedIn post chain
+
+Step 1:
+> Identify LinkedIn clichés, fake vulnerability, engagement bait, abstract leadership lessons, and overformatted lines.
+
+Step 2:
+> Rewrite the post around one specific observation, example, or practical implication.
+
+Step 3:
+> Remove any line that exists only to sound profound or increase comments.
+
+Use when:
+Creating LinkedIn posts that feel useful instead of performative.
+
+---
+
+## PR-064 — Sales credibility chain
+
+Step 1:
+> Identify vague personalization, inflated benefit claims, false urgency, weak CTAs, and buyer-pressure language.
+
+Step 2:
+> Rewrite the message around one relevant buyer problem and one clear next step.
+
+Step 3:
+> Check whether the message would still feel respectful if the buyer said no.
+
+Use when:
+Writing outreach, follow-ups, proposals, and objection responses.
+
+---
+
+## PR-065 — Marketing proof chain
+
+Step 1:
+> Identify unsupported marketing claims and generic product adjectives.
+
+Step 2:
+> Replace each claim with a task, feature, outcome, customer example, metric, or proof placeholder.
+
+Step 3:
+> Rewrite the final copy so value is revealed through evidence instead of manufactured excitement.
+
+Use when:
+Writing landing pages, product pages, launch copy, and ads.
+
+---
+
+## PR-066 — Business clarity chain
+
+Step 1:
+> Identify missing decisions, owners, deadlines, risks, dependencies, and next steps.
+
+Step 2:
+> Rewrite the update so those details are visible.
+
+Step 3:
+> Remove any sentence that sounds professional but does not reduce uncertainty.
+
+Use when:
+Writing internal updates, project notes, executive summaries, and meeting follow-ups.
+
+---
+
+## PR-067 — Prompt Library checklist
+
+Before using any prompt, ask:
+
+1. What is the writing job?
+2. Who is the audience?
+3. What should the reader know, decide, or do?
+4. What tone is appropriate: conversational, professional, technical, sales, marketing, or executive?
+5. What should be preserved from the original?
+6. What patterns should be removed?
+7. What evidence should the draft include?
+
+Rule:
+A good prompt gives the model judgment, not just a task.
 
 ---
 
