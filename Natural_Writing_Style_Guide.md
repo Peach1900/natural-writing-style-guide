@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.30
+
+- Expanded the Corporate AI Speak Dictionary with entries for analytics, reporting, dashboards, and insight language that often sounds precise without saying much.
+
+---
+
 ## 1.29
 
 - Expanded the Corporate AI Speak Dictionary with entries for product, execution, operations, and roadmap language that often sounds polished but vague.
@@ -3449,6 +3455,270 @@ Prefer:
 
 Rule:
 If collaboration matters, name the functions and the shared task.
+
+---
+
+## Chapter 13 — Analytics, Reporting, and Insight Fog
+
+Analytics language gets vague fast because it borrows the tone of precision without always providing the number, source, or action. The goal is not to remove analytical terms. The goal is to stop using analytical tone as a substitute for evidence.
+
+## C-241 — Data-driven
+
+Avoid:
+> We are taking a data-driven approach.
+
+Prefer:
+> We are using renewal rates and support volume to decide which accounts get onboarding help first.
+
+Rule:
+If the approach is data-driven, name the data and the decision.
+
+---
+
+## C-242 — Insights
+
+Avoid:
+> The report contains valuable insights.
+
+Prefer:
+> The report shows that most abandoned requests stall at manager approval.
+
+Rule:
+An insight should be stated, not announced.
+
+---
+
+## C-243 — Visibility into performance
+
+Avoid:
+> Leaders need better visibility into performance.
+
+Prefer:
+> Leaders need to see which teams miss SLA most often and why.
+
+Rule:
+Replace “visibility into performance” with the exact measurement gap.
+
+---
+
+## C-244 — Reporting capabilities
+
+Avoid:
+> The platform includes advanced reporting capabilities.
+
+Prefer:
+> The platform exports approval times, exception counts, and reviewer activity by team.
+
+Rule:
+Reporting capabilities should describe the fields or outputs.
+
+---
+
+## C-245 — Robust analytics
+
+Avoid:
+> Customers get access to robust analytics.
+
+Prefer:
+> Customers can track time to approval, repeat exceptions, and request volume by department.
+
+Rule:
+Analytics claims need the actual questions the analytics answer.
+
+---
+
+## C-246 — Metrics-driven culture
+
+Avoid:
+> We are building a metrics-driven culture.
+
+Prefer:
+> Every team reviews one operating metric and one quality metric each Friday.
+
+Rule:
+If metrics shape behavior, show the habit.
+
+---
+
+## C-247 — Single source of truth
+
+Avoid:
+> We need a single source of truth.
+
+Prefer:
+> We need one system where the final approval status, owner, and comments all match.
+
+Rule:
+Truth needs a system boundary and a data set.
+
+---
+
+## C-248 — Dashboarding
+
+Avoid:
+> We need better dashboarding around this workflow.
+
+Prefer:
+> We need a dashboard that shows delayed requests, exception volume, and who owns each queue.
+
+Rule:
+Do not turn “dashboard” into a vague activity.
+
+---
+
+## C-249 — Granular visibility
+
+Avoid:
+> We need more granular visibility.
+
+Prefer:
+> We need to see delays by reviewer, request type, and dollar threshold.
+
+Rule:
+Granularity means breakdown dimensions. Name them.
+
+---
+
+## C-250 — Leading indicators
+
+Avoid:
+> We should monitor leading indicators.
+
+Prefer:
+> We should monitor sign-in frequency and incomplete setup steps before renewals slip.
+
+Rule:
+A leading indicator should come before the outcome and suggest what may happen next.
+
+---
+
+## C-251 — Lagging indicators
+
+Avoid:
+> Revenue is a lagging indicator.
+
+Prefer:
+> Revenue tells us what already happened. Demo volume and win rate tell us what may happen next quarter.
+
+Rule:
+If you mention lagging indicators, explain what earlier signal matters more.
+
+---
+
+## C-252 — Actionable dashboard
+
+Avoid:
+> We need a more actionable dashboard.
+
+Prefer:
+> We need a dashboard that makes it obvious which approvals are late and who can unblock them.
+
+Rule:
+If a dashboard is actionable, the user should know what action it points to.
+
+---
+
+## C-253 — Reporting hygiene
+
+Avoid:
+> We need better reporting hygiene.
+
+Prefer:
+> We need one definition for “approved,” one owner for each metric, and fewer manual spreadsheet edits.
+
+Rule:
+Hygiene usually means definitions, ownership, or data quality. Say which.
+
+---
+
+## C-254 — Data quality
+
+Avoid:
+> We are improving data quality.
+
+Prefer:
+> We now reject forms with missing account IDs and duplicate order numbers.
+
+Rule:
+Data quality should point to a rule, control, or error type.
+
+---
+
+## C-255 — Instrumentation
+
+Avoid:
+> We need more instrumentation before launch.
+
+Prefer:
+> We need logs for failed exports, permission errors, and abandoned setup flows before launch.
+
+Rule:
+Instrumentation should name the events or failures being captured.
+
+---
+
+## C-256 — Reporting layer
+
+Avoid:
+> We are rebuilding the reporting layer.
+
+Prefer:
+> We are rebuilding the reporting tables that feed the finance and operations dashboards.
+
+Rule:
+Layers should connect to the outputs people use.
+
+---
+
+## C-257 — KPI alignment
+
+Avoid:
+> We need KPI alignment across teams.
+
+Prefer:
+> Sales tracks booked revenue, Finance tracks collected revenue, and we need one definition for board reporting.
+
+Rule:
+Alignment means agreeing on the definition or usage of the metric.
+
+---
+
+## C-258 — Signal vs. noise
+
+Avoid:
+> We need to separate the signal from the noise.
+
+Prefer:
+> We need to focus on the three metrics that predict renewal risk instead of all 40 dashboard tiles.
+
+Rule:
+If something is noise, say what can be ignored.
+
+---
+
+## C-259 — Data maturity
+
+Avoid:
+> Our data maturity is improving.
+
+Prefer:
+> We moved three core metrics out of spreadsheets and into one reviewed dashboard.
+
+Rule:
+Data maturity should describe a concrete change in systems or process.
+
+---
+
+## C-260 — Insights engine
+
+Avoid:
+> The product includes an insights engine.
+
+Prefer:
+> The product flags requests likely to miss SLA based on age, owner, and approval step.
+
+Rule:
+Engines should still disclose what they do.
 
 ---
 
