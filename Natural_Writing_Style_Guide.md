@@ -14,6 +14,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 
 # Change Log
 
+## 1.29
+
+- Expanded the Corporate AI Speak Dictionary with entries for product, execution, operations, and roadmap language that often sounds polished but vague.
+
+---
+
 ## 1.28
 
 - Expanded Human Voice Examples with practical examples across professional, technical, YouTube, LinkedIn, email, sales, marketing, blog, executive, disagreement, uncertainty, and plainspoken expertise contexts.
@@ -3179,6 +3185,270 @@ When reviewing business, finance, people, vendor, or compliance language, ask:
 
 Rule:
 Corporate writing should get more concrete as the stakes get higher.
+
+---
+
+## Chapter 12 — Product, Operations, and Roadmap Fog
+
+These phrases show up constantly in product updates, internal planning docs, roadmap reviews, launch memos, and operating updates. The problem is not that roadmaps, priorities, and execution are fake. The problem is that the language often describes motion without naming the work.
+
+## C-221 — Prioritization
+
+Avoid:
+> We are focused on prioritization this quarter.
+
+Prefer:
+> This quarter we are choosing between the billing migration and the reporting rebuild.
+
+Rule:
+Prioritization should name the competing work.
+
+---
+
+## C-222 — Prioritized roadmap
+
+Avoid:
+> We have a highly prioritized roadmap.
+
+Prefer:
+> The roadmap puts SSO, approval exports, and audit history ahead of the mobile redesign.
+
+Rule:
+A prioritized roadmap should reveal the order.
+
+---
+
+## C-223 — Roadmap item
+
+Avoid:
+> That is on the roadmap.
+
+Prefer:
+> We plan to build that in Q4 after the permissions update ships.
+
+Rule:
+If something is on the roadmap, give the timing or dependency.
+
+---
+
+## C-224 — Product innovation
+
+Avoid:
+> We are investing in product innovation.
+
+Prefer:
+> We are building automatic routing for low-risk approvals and exportable audit history.
+
+Rule:
+Innovation should cash out as shipped or planned capabilities.
+
+---
+
+## C-225 — User-centric
+
+Avoid:
+> We take a user-centric approach to product development.
+
+Prefer:
+> We watch where users abandon setup, then remove the steps they do not need.
+
+Rule:
+User-centric language should describe how user evidence changes the product.
+
+---
+
+## C-226 — Customer obsession
+
+Avoid:
+> Customer obsession is one of our core values.
+
+Prefer:
+> Support tags the top three customer complaints each week, and product reviews them on Friday.
+
+Rule:
+If the company is customer-obsessed, show the operating habit.
+
+---
+
+## C-227 — Product-market fit
+
+Avoid:
+> We are still refining product-market fit.
+
+Prefer:
+> We still do not know whether midsize procurement teams or enterprise finance teams are the better primary buyer.
+
+Rule:
+Product-market fit language should name the uncertainty.
+
+---
+
+## C-228 — Execution
+
+Avoid:
+> The issue is execution.
+
+Prefer:
+> The issue is that no team owns the final QA pass before launch.
+
+Rule:
+Execution problems are usually ownership, sequencing, staffing, or clarity problems.
+
+---
+
+## C-229 — Execute against the plan
+
+Avoid:
+> Now we just need to execute against the plan.
+
+Prefer:
+> Now we need Engineering to finish the export logic and Support to update the training docs.
+
+Rule:
+Execution should name the remaining work.
+
+---
+
+## C-230 — Operational excellence
+
+Avoid:
+> We are driving operational excellence across the organization.
+
+Prefer:
+> We added weekly error reviews, monthly reconciliations, and a named owner for every exception queue.
+
+Rule:
+Operational excellence is not a state. It is a set of controls and habits.
+
+---
+
+## C-231 — Streamline operations
+
+Avoid:
+> This will streamline operations.
+
+Prefer:
+> This removes one approval step and one manual export from the weekly process.
+
+Rule:
+If operations are streamlined, say what got removed.
+
+---
+
+## C-232 — Efficiency gains
+
+Avoid:
+> We realized meaningful efficiency gains.
+
+Prefer:
+> The team now reviews 40 requests a day instead of 24.
+
+Rule:
+Efficiency needs a before-and-after.
+
+---
+
+## C-233 — Resource constraints
+
+Avoid:
+> We are facing resource constraints.
+
+Prefer:
+> The migration is delayed because two engineers are still assigned to the security project.
+
+Rule:
+Resource constraints should identify the missing people, time, or budget.
+
+---
+
+## C-234 — Capacity planning
+
+Avoid:
+> We are improving capacity planning.
+
+Prefer:
+> We are matching support staffing to weekly ticket volume instead of monthly averages.
+
+Rule:
+Capacity planning should describe the planning method or input.
+
+---
+
+## C-235 — Resilience
+
+Avoid:
+> We are building a more resilient operation.
+
+Prefer:
+> Each critical workflow now has a backup owner and a manual fallback step.
+
+Rule:
+Resilience means the system keeps working when something fails.
+
+---
+
+## C-236 — Enablement
+
+Avoid:
+> We need better enablement for the field team.
+
+Prefer:
+> The field team needs one pricing guide, one objection sheet, and a live demo environment.
+
+Rule:
+Enablement should describe the material or training people need.
+
+---
+
+## C-237 — Change management
+
+Avoid:
+> We need stronger change management.
+
+Prefer:
+> We need manager training, updated documentation, and a clear go-live date before we switch workflows.
+
+Rule:
+Change management usually means preparation, training, communication, and sequencing.
+
+---
+
+## C-238 — Transformation program
+
+Avoid:
+> This is part of a larger transformation program.
+
+Prefer:
+> This is part of the plan to move approvals, audit logs, and finance reporting into one system.
+
+Rule:
+Transformation language should reveal the actual changes.
+
+---
+
+## C-239 — Continuous improvement
+
+Avoid:
+> We are committed to continuous improvement.
+
+Prefer:
+> Every month we review the top three delays and change one part of the process.
+
+Rule:
+Continuous improvement should sound like a recurring practice.
+
+---
+
+## C-240 — Cross-functional collaboration
+
+Avoid:
+> Success depends on cross-functional collaboration.
+
+Prefer:
+> Success depends on Product, Finance, and Support agreeing on the launch sequence.
+
+Rule:
+If collaboration matters, name the functions and the shared task.
 
 ---
 
