@@ -1,6 +1,6 @@
 # Natural Writing Style Guide
 
-**Version:** 1.28
+**Version:** 1.31
 
 A living guide for writing clear, natural, factual, conversational, professional content across platforms.
 
@@ -13,6 +13,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 ---
 
 # Change Log
+
+## 1.31
+
+- Made a consistency pass across the guide by updating the top-level version number and normalizing a few older section labels to match the later format.
+
+---
 
 ## 1.30
 
@@ -4102,7 +4108,7 @@ Avoid:
 Prefer:
 > Last week a client asked a question that changed how I think about hiring.
 
-Why:
+Rule:
 Artificial suspense delays the point.
 
 ---
@@ -4115,7 +4121,7 @@ Avoid:
 Prefer:
 > I’ve found that the best project reviews start with questions instead of presentations.
 
-Why:
+Rule:
 Most “unpopular opinions” are common opinions.
 
 ---
@@ -9379,7 +9385,7 @@ Prefer:
 
 ## E-002 — Clear requests
 
-Weak:
+Avoid:
 > Let me know your thoughts.
 
 Prefer:
