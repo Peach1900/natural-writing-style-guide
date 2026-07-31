@@ -1,6 +1,6 @@
 # Natural Writing Style Guide
 
-**Version:** 1.31
+**Version:** 1.32
 
 A living guide for writing clear, natural, factual, conversational, professional content across platforms.
 
@@ -13,6 +13,12 @@ This guide is a professional editing reference for removing generic AI-style, co
 ---
 
 # Change Log
+
+## 1.32
+
+- Completed a final Phase 1 cleanup pass by tightening a few overlapping dictionary entries and bringing the guide to a cleaner editorial stopping point.
+
+---
 
 ## 1.31
 
@@ -3481,7 +3487,7 @@ If the approach is data-driven, name the data and the decision.
 
 ---
 
-## C-242 — Insights
+## C-242 — Announced insights
 
 Avoid:
 > The report contains valuable insights.
@@ -3546,7 +3552,7 @@ If metrics shape behavior, show the habit.
 
 ---
 
-## C-247 — Single source of truth
+## C-247 — Single source of reporting truth
 
 Avoid:
 > We need a single source of truth.
@@ -3555,7 +3561,7 @@ Prefer:
 > We need one system where the final approval status, owner, and comments all match.
 
 Rule:
-Truth needs a system boundary and a data set.
+If this is different from a single source of record, explain what reporting view needs to stay consistent.
 
 ---
 
